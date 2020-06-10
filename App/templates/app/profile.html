@@ -1,0 +1,23 @@
+﻿{% extends "app/layout.html" %}
+{% load crispy_forms_tags %}
+
+{% block content %}
+{% load static %}
+
+<h2>{{ title }}.</h2>
+<h3>{{ message }}</h3>
+
+
+<div class="content-section">
+    <form method="POST" action={% url 'profile' %} enctype="multipart/form-data">
+        <fieldset class="form-group">
+            <legend class="border-bottom mb-4">Profile info</legend>
+            {% crispy u_form %}
+            <div class="form-group">
+                <button class="btn btn-outline-info" type="submit">Update</button>
+            </div>
+        </fieldset>
+    </form>
+</div>
+
+{% endblock content%}

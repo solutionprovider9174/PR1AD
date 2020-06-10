@@ -1,0 +1,1777 @@
+id,Dim_Season,Dim_Date,Dim_Team,Dim_Country,Fct_Indicator,Dim_SEQ,Dim_RSEQ,Dim_HA,Fct_pt,Fct_FTR,Fct_Vpt,Fct_Cnt,Dim_State
+1,200809,2009-05-24,Arsenal,England,Dark Green,38,1,Home,72,W,5,1,CA
+2,200809,2009-05-16,Arsenal,England,Green,37,2,Away,69,D,3,1,CA
+3,200809,2009-05-10,Arsenal,England,Yellow,36,3,Home,68,L,-2,1,CA
+4,200809,2009-05-02,Arsenal,England,Dark Green,35,4,Away,68,W,4,1,CA
+5,200809,2009-04-26,Arsenal,England,Green,34,5,Home,65,W,3,1,CA
+6,200809,2009-04-21,Arsenal,England,Dark Green,33,6,Away,62,D,4,1,CA
+7,200809,2009-04-11,Arsenal,England,Dark Green,32,7,Away,61,W,5,1,CA
+8,200809,2009-04-04,Arsenal,England,Green,31,8,Home,58,W,3,1,CA
+9,200809,2009-03-21,Arsenal,England,Dark Green,30,9,Away,55,W,3,1,CA
+10,200809,2009-03-14,Arsenal,England,Dark Green,29,10,Home,52,W,6,1,CA
+11,200809,2009-03-03,Arsenal,England,Green,28,11,Away,49,W,3,1,CA
+12,200809,2009-02-28,Arsenal,England,Grey,27,12,Home,46,D,-1,1,CA
+13,200809,2009-02-21,Arsenal,England,Red,26,13,Home,45,D,-1,1,CA
+14,200809,2009-02-08,Arsenal,England,Grey,25,14,Away,44,D,-1,1,CA
+15,200809,2009-01-31,Arsenal,England,Grey,24,15,Home,43,D,-1,1,CA
+16,200809,2009-01-28,Arsenal,England,Grey,23,16,Away,42,D,-1,1,CA
+17,200809,2009-01-17,Arsenal,England,Dark Green,22,17,Away,41,W,3,1,CA
+18,200809,2009-01-10,Arsenal,England,Green,21,18,Home,38,W,3,1,CA
+19,200809,2008-12-28,Arsenal,England,Green,20,19,Home,35,W,3,1,CA
+20,200809,2008-12-26,Arsenal,England,Green,19,20,Away,32,D,2,1,CA
+21,200809,2008-12-21,Arsenal,England,Green,18,21,Home,31,D,2,1,CA
+22,200809,2008-12-13,Arsenal,England,Red,17,22,Away,30,D,-1,1,CA
+23,200809,2008-12-06,Arsenal,England,Green,16,23,Home,29,W,3,1,CA
+24,200809,2008-11-30,Arsenal,England,Dark Green,15,24,Away,26,W,9,1,CA
+25,200809,2008-11-22,Arsenal,England,Red,14,25,Away,23,L,-2,1,CA
+26,200809,2008-11-15,Arsenal,England,Grey,13,26,Home,23,L,-1,1,CA
+27,200809,2008-11-08,Arsenal,England,Dark Green,12,27,Home,23,W,4,1,CA
+28,200809,2008-11-01,Arsenal,England,Yellow,11,28,Away,20,L,-2,1,CA
+29,200809,2008-10-29,Arsenal,England,Yellow,10,29,Home,20,D,-5,1,CA
+30,200809,2008-10-26,Arsenal,England,Dark Green,9,30,Away,19,W,3,1,CA
+31,200809,2008-10-18,Arsenal,England,Dark Green,8,31,Home,16,W,4,1,CA
+32,200809,2008-10-04,Arsenal,England,Red,7,32,Away,13,D,-1,1,CA
+33,200809,2008-09-27,Arsenal,England,Grey,6,33,Home,12,L,-1,1,CA
+34,200809,2008-09-20,Arsenal,England,Dark Green,5,34,Away,12,W,3,1,CA
+35,200809,2008-09-13,Arsenal,England,Dark Green,4,35,Away,9,W,5,1,CA
+36,200809,2008-08-30,Arsenal,England,Dark Green,3,36,Home,6,W,4,1,CA
+37,200809,2008-08-23,Arsenal,England,Red,2,37,Away,3,L,-2,1,CA
+38,200809,2008-08-16,Arsenal,England,Green,1,38,Home,3,W,2,1,CA
+39,200809,2009-05-30,Barcelona,Spain,Grey,38,1,Away,87,D,-1,1,FL
+40,200809,2009-05-23,Barcelona,Spain,Red,37,2,Home,86,L,-1,1,FL
+41,200809,2009-05-17,Barcelona,Spain,Red,36,3,Away,86,L,-2,1,FL
+42,200809,2009-05-10,Barcelona,Spain,Red,35,4,Home,86,D,-2,1,FL
+43,200809,2009-05-02,Barcelona,Spain,Dark Green,34,5,Away,85,W,9,1,FL
+44,200809,2009-04-25,Barcelona,Spain,Grey,33,6,Away,82,D,-1,1,FL
+45,200809,2009-04-22,Barcelona,Spain,Dark Green,32,7,Home,81,W,5,1,FL
+46,200809,2009-04-18,Barcelona,Spain,Green,31,8,Away,78,W,3,1,FL
+47,200809,2009-04-11,Barcelona,Spain,Green,30,9,Home,75,W,2,1,FL
+48,200809,2009-04-04,Barcelona,Spain,Green,29,10,Away,72,W,3,1,FL
+49,200809,2009-03-22,Barcelona,Spain,Dark Green,28,11,Home,69,W,7,1,FL
+50,200809,2009-03-15,Barcelona,Spain,Green,27,12,Away,66,W,3,1,FL
+51,200809,2009-03-07,Barcelona,Spain,Green,26,13,Home,63,W,3,1,FL
+52,200809,2009-03-01,Barcelona,Spain,Red,25,14,Away,60,L,-2,1,FL
+53,200809,2009-02-21,Barcelona,Spain,Grey,24,15,Home,60,L,-1,1,FL
+54,200809,2009-02-14,Barcelona,Spain,Red,23,16,Away,60,D,-1,1,FL
+55,200809,2009-02-08,Barcelona,Spain,Dark Green,22,17,Home,59,W,4,1,FL
+56,200809,2009-02-01,Barcelona,Spain,Green,21,18,Away,56,W,3,1,FL
+57,200809,2009-01-24,Barcelona,Spain,Dark Green,20,19,Home,53,W,5,1,FL
+58,200809,2009-01-17,Barcelona,Spain,Dark Green,19,20,Home,50,W,6,1,FL
+59,200809,2009-01-11,Barcelona,Spain,Green,18,21,Away,47,W,3,1,FL
+60,200809,2009-01-03,Barcelona,Spain,Dark Green,17,22,Home,44,W,4,1,FL
+61,200809,2008-12-21,Barcelona,Spain,Dark Green,16,23,Away,41,W,3,1,FL
+62,200809,2008-12-13,Barcelona,Spain,Dark Green,15,24,Home,38,W,3,1,FL
+63,200809,2008-12-06,Barcelona,Spain,Dark Green,14,25,Home,35,W,6,1,FL
+64,200809,2008-11-29,Barcelona,Spain,Dark Green,13,26,Away,32,W,4,1,FL
+65,200809,2008-11-23,Barcelona,Spain,Red,12,27,Home,29,D,-1,1,FL
+66,200809,2008-11-16,Barcelona,Spain,Green,11,28,Away,28,W,3,1,FL
+67,200809,2008-11-08,Barcelona,Spain,Dark Green,10,29,Home,25,W,6,1,FL
+68,200809,2008-11-01,Barcelona,Spain,Dark Green,9,30,Away,22,W,4,1,FL
+69,200809,2008-10-25,Barcelona,Spain,Dark Green,8,31,Home,19,W,6,1,FL
+70,200809,2009-05-31,Sevilla,Spain,Dark Green,38,1,Away,70,W,3,1,FL
+71,200809,2009-05-23,Sevilla,Spain,Dark Green,37,2,Home,67,W,3,1,FL
+72,200809,2009-05-16,Sevilla,Spain,Grey,36,3,Away,64,D,-1,1,FL
+73,200809,2009-05-09,Sevilla,Spain,Dark Green,35,4,Home,63,W,5,1,FL
+74,200809,2009-05-02,Sevilla,Spain,Dark Green,34,5,Away,60,W,4,1,FL
+75,200809,2009-04-26,Sevilla,Spain,Yellow,33,6,Home,57,L,-2,1,FL
+76,200809,2009-04-22,Sevilla,Spain,Red,32,7,Away,57,L,-2,1,FL
+77,200809,2009-04-19,Sevilla,Spain,Red,31,8,Away,57,L,-1,1,FL
+78,200809,2009-04-12,Sevilla,Spain,Grey,30,9,Home,57,L,-1,1,FL
+79,200809,2009-04-04,Sevilla,Spain,Dark Green,29,10,Away,57,W,3,1,FL
+80,200809,2009-03-21,Sevilla,Spain,Dark Green,28,11,Home,54,W,6,1,FL
+81,200809,2009-03-15,Sevilla,Spain,Grey,27,12,Away,51,D,-1,1,FL
+82,200809,2009-03-08,Sevilla,Spain,Dark Green,26,13,Home,50,W,3,1,FL
+83,200809,2009-02-28,Sevilla,Spain,Dark Green,25,14,Away,47,W,4,1,FL
+84,200809,2009-02-21,Sevilla,Spain,Dark Green,24,15,Home,44,W,4,1,FL
+85,200809,2009-02-15,Sevilla,Spain,Dark Green,23,16,Away,41,W,4,1,FL
+86,200809,2009-02-07,Sevilla,Spain,Red,22,17,Home,38,L,-1,1,FL
+87,200809,2009-02-01,Sevilla,Spain,Red,21,18,Away,38,L,-2,1,FL
+88,200809,2009-01-25,Sevilla,Spain,Grey,20,19,Home,38,L,-1,1,FL
+89,200809,2009-01-17,Sevilla,Spain,Green,19,20,Home,38,W,3,1,FL
+90,200809,2009-01-10,Sevilla,Spain,Dark Green,18,21,Away,35,W,4,1,FL
+91,200809,2009-01-04,Sevilla,Spain,Red,17,22,Home,32,D,-2,1,FL
+92,200809,2008-12-21,Sevilla,Spain,Grey,16,23,Away,31,D,-1,1,FL
+93,200809,2008-12-14,Sevilla,Spain,Dark Green,15,24,Home,30,W,4,1,FL
+94,200809,2008-12-07,Sevilla,Spain,Dark Green,14,25,Away,27,W,7,1,FL
+95,200809,2008-11-29,Sevilla,Spain,Red,13,26,Home,24,L,-2,1,FL
+96,200809,2008-11-22,Sevilla,Spain,Grey,12,27,Home,24,D,-1,1,FL
+97,200809,2008-11-16,Sevilla,Spain,Dark Green,11,28,Away,23,W,4,1,FL
+98,200809,2008-11-09,Sevilla,Spain,Green,10,29,Home,20,W,3,1,FL
+99,200809,2008-11-02,Sevilla,Spain,Red,9,30,Away,17,L,-2,1,FL
+100,200809,2008-10-26,Sevilla,Spain,Grey,8,31,Home,17,L,-1,1,FL
+101,200809,2008-10-19,Sevilla,Spain,Dark Green,7,32,Away,17,W,4,1,FL
+102,200809,2008-10-05,Sevilla,Spain,Dark Green,6,33,Home,14,W,6,1,FL
+103,200809,2008-09-28,Sevilla,Spain,Dark Green,5,34,Away,11,W,4,1,FL
+104,200809,2008-09-24,Sevilla,Spain,Dark Green,4,35,Home,8,W,3,1,FL
+105,200809,2008-09-21,Sevilla,Spain,Grey,3,36,Away,5,D,-1,1,FL
+106,200809,2008-09-14,Sevilla,Spain,Dark Green,2,37,Home,4,W,5,1,FL
+107,200809,2008-08-31,Sevilla,Spain,Grey,1,38,Away,1,D,-1,1,FL
+108,200910,2010-05-16,Barcelona,Spain,Dark Green,38,1,Home,99,W,4,1,FL
+109,200910,2010-05-08,Barcelona,Spain,Green,37,2,Away,96,W,3,1,FL
+110,200910,2010-05-04,Barcelona,Spain,Dark Green,36,3,Home,93,W,4,1,FL
+111,200910,2010-05-01,Barcelona,Spain,Dark Green,35,4,Away,90,W,5,1,FL
+112,200910,2010-04-24,Barcelona,Spain,Dark Green,34,5,Home,87,W,4,1,FL
+113,200910,2010-04-17,Barcelona,Spain,Red,33,6,Away,84,D,-1,1,FL
+114,200910,2010-04-14,Barcelona,Spain,Dark Green,32,7,Home,83,W,4,1,FL
+115,200910,2010-04-10,Barcelona,Spain,Dark Green,31,8,Away,80,W,4,1,FL
+116,200910,2010-04-03,Barcelona,Spain,Dark Green,30,9,Home,77,W,5,1,FL
+117,200910,2010-03-27,Barcelona,Spain,Green,29,10,Away,74,W,3,1,FL
+118,200910,2010-03-24,Barcelona,Spain,Green,28,11,Home,71,W,2,1,FL
+119,200910,2010-03-21,Barcelona,Spain,Dark Green,27,12,Away,68,W,4,1,FL
+120,200910,2010-03-14,Barcelona,Spain,Dark Green,26,13,Home,65,W,4,1,FL
+121,200910,2010-03-06,Barcelona,Spain,Red,25,14,Away,62,D,-2,1,FL
+122,200910,2010-02-27,Barcelona,Spain,Green,24,15,Home,61,W,2,1,FL
+123,200910,2010-02-20,Barcelona,Spain,Dark Green,23,16,Home,58,W,5,1,FL
+124,200910,2010-02-14,Barcelona,Spain,Red,22,17,Away,55,L,-2,1,FL
+125,200910,2010-02-06,Barcelona,Spain,Green,21,18,Home,55,W,2,1,FL
+126,200910,2010-01-30,Barcelona,Spain,Green,20,19,Away,52,W,2,1,FL
+127,200910,2010-01-23,Barcelona,Spain,Green,19,20,Away,49,W,3,1,FL
+128,200910,2010-01-16,Barcelona,Spain,Dark Green,18,21,Home,46,W,5,1,FL
+129,200910,2010-01-10,Barcelona,Spain,Dark Green,17,22,Away,43,W,6,1,FL
+130,200910,2010-01-02,Barcelona,Spain,Red,16,23,Home,40,D,-1,1,FL
+131,200910,2009-12-12,Barcelona,Spain,Green,15,24,Home,39,W,2,1,FL
+132,200910,2009-12-05,Barcelona,Spain,Dark Green,14,25,Away,36,W,3,1,FL
+133,200910,2009-12-02,Barcelona,Spain,Green,13,26,Away,33,W,2,1,FL
+134,200910,2009-11-29,Barcelona,Spain,Dark Green,12,27,Home,30,W,3,1,FL
+135,200910,2009-11-21,Barcelona,Spain,Red,11,28,Away,27,D,-1,1,FL
+136,200910,2009-11-07,Barcelona,Spain,Dark Green,10,29,Home,26,W,5,1,FL
+137,200910,2009-10-31,Barcelona,Spain,Red,9,30,Away,23,D,-1,1,FL
+138,200910,2009-10-25,Barcelona,Spain,Dark Green,8,31,Home,22,W,6,1,FL
+139,200910,2009-10-17,Barcelona,Spain,Red,7,32,Away,19,D,-1,1,FL
+140,200910,2009-10-03,Barcelona,Spain,Green,6,33,Home,18,W,2,1,FL
+141,200910,2009-09-26,Barcelona,Spain,Green,5,34,Away,15,W,2,1,FL
+142,200910,2009-09-22,Barcelona,Spain,Dark Green,4,35,Away,12,W,4,1,FL
+143,200910,2009-09-19,Barcelona,Spain,Dark Green,3,36,Home,9,W,6,1,FL
+144,200910,2009-09-12,Barcelona,Spain,Green,2,37,Away,6,W,3,1,FL
+145,200910,2009-08-31,Barcelona,Spain,Dark Green,1,38,Home,3,W,4,1,FL
+146,201011,2011-05-22,Arsenal,England,Grey,38,1,Away,68,D,-1,1,CA
+147,201011,2011-05-15,Arsenal,England,Grey,37,2,Home,67,L,-1,1,CA
+148,201011,2011-05-08,Arsenal,England,Red,36,3,Away,67,L,-2,1,CA
+149,201011,2011-05-01,Arsenal,England,Dark Green,35,4,Home,67,W,6,1,CA
+150,201011,2011-04-24,Arsenal,England,Red,34,5,Away,64,L,-2,1,CA
+151,201011,2011-04-20,Arsenal,England,Red,33,6,Away,64,D,-1,1,CA
+152,201011,2011-04-17,Arsenal,England,Grey,32,7,Home,63,D,-1,1,CA
+153,201011,2011-04-10,Arsenal,England,Green,31,8,Away,62,W,3,1,CA
+154,201011,2011-04-02,Arsenal,England,Red,30,9,Home,59,D,-1,1,CA
+155,201011,2011-03-19,Arsenal,England,Red,29,10,Away,58,D,-1,1,CA
+156,201011,2011-03-05,Arsenal,England,Red,28,11,Home,57,D,-1,1,CA
+157,201011,2011-02-23,Arsenal,England,Green,27,12,Home,56,W,3,1,CA
+158,201011,2011-02-12,Arsenal,England,Green,26,13,Home,53,W,2,1,CA
+159,201011,2011-02-05,Arsenal,England,Yellow,25,14,Away,50,D,-2,1,CA
+160,201011,2011-02-01,Arsenal,England,Green,24,15,Home,49,W,3,1,CA
+161,201011,2011-01-22,Arsenal,England,Dark Green,23,16,Home,46,W,4,1,CA
+162,201011,2011-01-15,Arsenal,England,Green,22,17,Away,43,W,3,1,CA
+163,201011,2011-01-05,Arsenal,England,Green,21,18,Home,40,D,2,1,CA
+164,201011,2011-01-01,Arsenal,England,Dark Green,20,19,Away,39,W,3,1,CA
+165,201011,2010-12-29,Arsenal,England,Red,19,20,Away,36,D,-1,1,CA
+166,201011,2010-12-27,Arsenal,England,Dark Green,18,21,Home,35,W,6,1,CA
+167,201011,2010-12-13,Arsenal,England,Red,17,22,Away,32,L,-1,1,CA
+168,201011,2010-12-04,Arsenal,England,Green,16,23,Home,32,W,3,1,CA
+169,201011,2010-11-27,Arsenal,England,Dark Green,15,24,Away,29,W,6,1,CA
+170,201011,2010-11-20,Arsenal,England,Red,14,25,Home,26,L,-1,1,CA
+171,201011,2010-11-14,Arsenal,England,Dark Green,13,26,Away,26,W,4,1,CA
+172,201011,2010-11-10,Arsenal,England,Dark Green,12,27,Away,23,W,3,1,CA
+173,201011,2010-11-07,Arsenal,England,Grey,11,28,Home,20,L,-1,1,CA
+174,201011,2010-10-30,Arsenal,England,Green,10,29,Home,20,W,2,1,CA
+175,201011,2010-10-24,Arsenal,England,Dark Green,9,30,Away,17,W,4,1,CA
+176,201011,2010-10-16,Arsenal,England,Green,8,31,Home,14,W,3,1,CA
+177,201011,2010-10-03,Arsenal,England,Grey,7,32,Away,11,L,-1,1,CA
+178,201011,2010-09-25,Arsenal,England,Grey,6,33,Home,11,L,-1,1,CA
+179,201011,2010-09-18,Arsenal,England,Red,5,34,Away,11,D,-1,1,CA
+180,201011,2010-09-11,Arsenal,England,Dark Green,4,35,Home,10,W,5,1,CA
+181,201011,2010-08-28,Arsenal,England,Dark Green,3,36,Away,7,W,3,1,CA
+182,201011,2010-08-21,Arsenal,England,Dark Green,2,37,Home,4,W,6,1,CA
+183,201011,2010-08-15,Arsenal,England,Grey,1,38,Away,1,D,-1,1,CA
+184,201011,2011-05-21,Barcelona,Spain,Dark Green,38,1,Away,96,W,4,1,FL
+185,201011,2011-05-15,Barcelona,Spain,Red,37,2,Home,93,D,-2,1,FL
+186,201011,2011-05-11,Barcelona,Spain,Red,36,3,Away,92,D,-1,1,FL
+187,201011,2011-05-08,Barcelona,Spain,Green,35,4,Home,91,W,2,1,FL
+188,201011,2011-04-30,Barcelona,Spain,Yellow,34,5,Away,88,L,-2,1,FL
+189,201011,2011-04-23,Barcelona,Spain,Green,33,6,Home,88,W,2,1,FL
+190,201011,2011-04-16,Barcelona,Spain,Grey,32,7,Away,85,D,-1,1,FL
+191,201011,2011-04-09,Barcelona,Spain,Dark Green,31,8,Home,84,W,4,1,FL
+192,201011,2011-04-02,Barcelona,Spain,Dark Green,30,9,Away,81,W,3,1,FL
+193,201011,2011-03-19,Barcelona,Spain,Green,29,10,Home,78,W,2,1,FL
+194,201011,2011-03-13,Barcelona,Spain,Red,28,11,Away,75,D,-1,1,FL
+195,201011,2011-03-05,Barcelona,Spain,Green,27,12,Home,74,W,2,1,FL
+196,201011,2011-03-02,Barcelona,Spain,Dark Green,26,13,Away,71,W,3,1,FL
+197,201011,2011-02-26,Barcelona,Spain,Green,25,14,Away,68,W,3,1,FL
+198,201011,2011-02-20,Barcelona,Spain,Green,24,15,Home,65,W,2,1,FL
+199,201011,2011-02-12,Barcelona,Spain,Red,23,16,Away,62,D,-2,1,FL
+200,201011,2011-02-05,Barcelona,Spain,Dark Green,22,17,Home,61,W,4,1,FL
+201,201011,2011-01-29,Barcelona,Spain,Green,21,18,Away,58,W,2,1,FL
+202,201011,2011-01-22,Barcelona,Spain,Dark Green,20,19,Home,55,W,3,1,FL
+203,201011,2011-01-16,Barcelona,Spain,Dark Green,19,20,Home,52,W,4,1,FL
+204,201011,2011-01-08,Barcelona,Spain,Dark Green,18,21,Away,49,W,4,1,FL
+205,201011,2011-01-02,Barcelona,Spain,Green,17,22,Home,46,W,2,1,FL
+206,201011,2010-12-18,Barcelona,Spain,Dark Green,16,23,Away,43,W,5,1,FL
+207,201011,2010-12-12,Barcelona,Spain,Dark Green,15,24,Home,40,W,5,1,FL
+208,201011,2010-12-04,Barcelona,Spain,Green,14,25,Away,37,W,3,1,FL
+209,201011,2010-11-29,Barcelona,Spain,Dark Green,13,26,Home,34,W,8,1,FL
+210,201011,2010-11-20,Barcelona,Spain,Dark Green,12,27,Away,31,W,7,1,FL
+211,201011,2010-11-13,Barcelona,Spain,Dark Green,11,28,Home,28,W,4,1,FL
+212,201011,2010-11-07,Barcelona,Spain,Green,10,29,Away,25,W,3,1,FL
+213,201011,2010-10-30,Barcelona,Spain,Dark Green,9,30,Home,22,W,6,1,FL
+214,201011,2010-10-23,Barcelona,Spain,Green,8,31,Away,19,W,3,1,FL
+215,201011,2010-10-16,Barcelona,Spain,Green,7,32,Home,16,W,3,1,FL
+216,201011,2010-10-03,Barcelona,Spain,Red,6,33,Home,13,D,-1,1,FL
+217,201011,2010-09-25,Barcelona,Spain,Dark Green,5,34,Away,12,W,3,1,FL
+218,201011,2010-09-22,Barcelona,Spain,Green,4,35,Home,9,W,2,1,FL
+219,201011,2010-09-19,Barcelona,Spain,Dark Green,3,36,Away,6,W,3,1,FL
+220,201011,2010-09-11,Barcelona,Spain,Grey,2,37,Home,3,L,-1,1,FL
+221,201011,2010-08-29,Barcelona,Spain,Green,1,38,Away,3,W,2,1,FL
+222,201011,2011-05-22,Chelsea,England,Red,38,1,Away,71,L,-1,1,CA
+223,201011,2011-05-15,Chelsea,England,Red,37,2,Home,71,D,-1,1,CA
+224,201011,2011-05-08,Chelsea,England,Red,36,3,Away,70,L,-1,1,CA
+225,201011,2011-04-30,Chelsea,England,Green,35,4,Home,70,W,3,1,CA
+226,201011,2011-04-23,Chelsea,England,Dark Green,34,5,Home,67,W,4,1,CA
+227,201011,2011-04-20,Chelsea,England,Dark Green,33,6,Home,64,W,4,1,CA
+228,201011,2011-04-16,Chelsea,England,Dark Green,32,7,Away,61,W,3,1,CA
+229,201011,2011-04-09,Chelsea,England,Green,31,8,Home,58,W,2,1,CA
+230,201011,2011-04-02,Chelsea,England,Red,30,9,Away,55,D,-1,1,CA
+231,201011,2011-03-20,Chelsea,England,Dark Green,29,10,Home,54,W,3,1,CA
+232,201011,2011-03-07,Chelsea,England,Green,28,11,Away,51,W,3,1,CA
+233,201011,2011-03-01,Chelsea,England,Dark Green,27,12,Home,48,W,6,1,CA
+234,201011,2011-02-14,Chelsea,England,Red,26,13,Away,45,D,-1,1,CA
+235,201011,2011-02-06,Chelsea,England,Red,25,14,Home,44,L,-1,1,CA
+236,201011,2011-02-01,Chelsea,England,Dark Green,24,15,Away,44,W,5,1,CA
+237,201011,2011-01-24,Chelsea,England,Dark Green,23,16,Away,41,W,5,1,CA
+238,201011,2011-01-15,Chelsea,England,Green,22,17,Home,38,W,3,1,CA
+239,201011,2011-01-05,Chelsea,England,Red,21,18,Away,35,L,-2,1,CA
+240,201011,2011-01-02,Chelsea,England,Red,20,19,Home,35,D,-2,1,CA
+241,201011,2010-12-29,Chelsea,England,Green,19,20,Home,34,W,3,1,CA
+242,201011,2010-12-27,Chelsea,England,Red,18,21,Away,31,L,-2,1,CA
+243,201011,2010-12-12,Chelsea,England,Grey,17,22,Away,31,D,-1,1,CA
+244,201011,2010-12-04,Chelsea,England,Red,16,23,Home,30,D,-1,1,CA
+245,201011,2010-11-28,Chelsea,England,Red,15,24,Away,29,D,-1,1,CA
+246,201011,2010-11-20,Chelsea,England,Red,14,25,Away,28,L,-2,1,CA
+247,201011,2010-11-14,Chelsea,England,Grey,13,26,Home,28,L,-1,1,CA
+248,201011,2010-11-10,Chelsea,England,Green,12,27,Home,28,W,2,1,CA
+249,201011,2010-11-07,Chelsea,England,Red,11,28,Away,25,L,-2,1,CA
+250,201011,2010-10-30,Chelsea,England,Green,10,29,Away,25,W,3,1,CA
+251,201011,2010-10-23,Chelsea,England,Green,9,30,Home,22,W,2,1,CA
+252,201011,2010-10-16,Chelsea,England,Red,8,31,Away,19,D,-1,1,CA
+253,201011,2010-10-03,Chelsea,England,Dark Green,7,32,Home,18,W,3,1,CA
+254,201011,2010-09-25,Chelsea,England,Red,6,33,Away,15,L,-2,1,CA
+255,201011,2010-09-19,Chelsea,England,Dark Green,5,34,Home,15,W,5,1,CA
+256,201011,2010-09-11,Chelsea,England,Green,4,35,Away,12,W,3,1,CA
+257,201011,2010-08-28,Chelsea,England,Green,3,36,Home,9,W,2,1,CA
+258,201011,2010-08-21,Chelsea,England,Dark Green,2,37,Away,6,W,6,1,CA
+259,201011,2010-08-14,Chelsea,England,Dark Green,1,38,Home,3,W,6,1,CA
+260,201112,2012-05-12,Barcelona,Spain,Red,38,1,Away,91,D,-1,1,FL
+261,201112,2012-05-05,Barcelona,Spain,Dark Green,37,2,Home,90,W,5,1,FL
+262,201112,2012-05-02,Barcelona,Spain,Dark Green,36,3,Home,87,W,5,1,FL
+263,201112,2012-04-29,Barcelona,Spain,Dark Green,35,4,Away,84,W,7,1,FL
+264,201112,2012-04-21,Barcelona,Spain,Red,34,5,Home,81,L,-1,1,FL
+265,201112,2012-04-14,Barcelona,Spain,Green,33,6,Away,81,W,2,1,FL
+266,201112,2012-04-10,Barcelona,Spain,Dark Green,32,7,Home,78,W,4,1,FL
+267,201112,2012-04-07,Barcelona,Spain,Dark Green,31,8,Away,75,W,4,1,FL
+268,201112,2012-03-31,Barcelona,Spain,Green,30,9,Home,72,W,2,1,FL
+269,201112,2012-03-24,Barcelona,Spain,Green,29,10,Away,69,W,3,1,FL
+270,201112,2012-03-20,Barcelona,Spain,Dark Green,28,11,Home,66,W,5,1,FL
+271,201112,2012-03-17,Barcelona,Spain,Green,27,12,Away,63,W,3,1,FL
+272,201112,2012-03-11,Barcelona,Spain,Green,26,13,Away,60,W,3,1,FL
+273,201112,2012-03-03,Barcelona,Spain,Dark Green,25,14,Home,57,W,4,1,FL
+274,201112,2012-02-26,Barcelona,Spain,Green,24,15,Away,54,W,3,1,FL
+275,201112,2012-02-19,Barcelona,Spain,Dark Green,23,16,Home,51,W,6,1,FL
+276,201112,2012-02-11,Barcelona,Spain,Yellow,22,17,Away,48,L,-2,1,FL
+277,201112,2012-02-04,Barcelona,Spain,Green,21,18,Home,48,W,2,1,FL
+278,201112,2012-01-28,Barcelona,Spain,Red,20,19,Away,45,D,-2,1,FL
+279,201112,2012-01-22,Barcelona,Spain,Dark Green,19,20,Away,44,W,4,1,FL
+280,201112,2012-01-15,Barcelona,Spain,Dark Green,18,21,Home,41,W,4,1,FL
+281,201112,2012-01-08,Barcelona,Spain,Red,17,22,Away,38,D,-2,1,FL
+282,201112,2011-12-10,Barcelona,Spain,Dark Green,16,23,Away,37,W,4,1,FL
+283,201112,2011-12-03,Barcelona,Spain,Dark Green,15,24,Home,34,W,5,1,FL
+284,201112,2011-11-29,Barcelona,Spain,Dark Green,14,25,Home,31,W,4,1,FL
+285,201112,2011-11-26,Barcelona,Spain,Yellow,13,26,Away,28,L,-2,1,FL
+286,201112,2011-11-19,Barcelona,Spain,Dark Green,12,27,Home,28,W,4,1,FL
+287,201112,2011-11-06,Barcelona,Spain,Red,11,28,Away,25,D,-2,1,FL
+288,201112,2011-10-29,Barcelona,Spain,Dark Green,10,29,Home,24,W,5,1,FL
+289,201112,2011-10-25,Barcelona,Spain,Green,9,30,Away,21,W,2,1,FL
+290,201112,2011-10-22,Barcelona,Spain,Grey,8,31,Home,18,D,-1,1,FL
+291,201112,2011-10-15,Barcelona,Spain,Dark Green,7,32,Home,17,W,4,1,FL
+292,201112,2011-10-02,Barcelona,Spain,Green,6,33,Away,14,W,2,1,FL
+293,201112,2011-09-24,Barcelona,Spain,Dark Green,5,34,Home,11,W,6,1,FL
+294,201112,2011-09-21,Barcelona,Spain,Green,4,35,Away,8,D,1,1,FL
+295,201112,2011-09-17,Barcelona,Spain,Dark Green,3,36,Home,7,W,7,1,FL
+296,201112,2011-09-10,Barcelona,Spain,Red,2,37,Away,4,D,-2,1,FL
+297,201112,2011-08-29,Barcelona,Spain,Dark Green,1,38,Home,3,W,6,1,FL
+298,201112,2012-05-13,Chelsea,England,Green,38,1,Home,64,W,3,1,CA
+299,201112,2012-05-08,Chelsea,England,Red,37,2,Away,61,L,-1,1,CA
+300,201112,2012-05-02,Chelsea,England,Red,36,3,Home,61,L,-1,1,CA
+301,201112,2012-04-29,Chelsea,England,Dark Green,35,4,Home,61,W,7,1,CA
+302,201112,2012-04-21,Chelsea,England,Green,34,5,Away,58,D,3,1,CA
+303,201112,2012-04-09,Chelsea,England,Grey,33,6,Away,57,D,-1,1,CA
+304,201112,2012-04-07,Chelsea,England,Green,32,7,Home,56,W,3,1,CA
+305,201112,2012-03-31,Chelsea,England,Dark Green,31,8,Away,53,W,5,1,CA
+306,201112,2012-03-24,Chelsea,England,Green,30,9,Home,50,D,2,1,CA
+307,201112,2012-03-21,Chelsea,England,Grey,29,10,Away,49,L,-1,1,CA
+308,201112,2012-03-10,Chelsea,England,Green,28,11,Home,49,W,3,1,CA
+309,201112,2012-03-03,Chelsea,England,Red,27,12,Away,46,L,-2,1,CA
+310,201112,2012-02-25,Chelsea,England,Dark Green,26,13,Home,46,W,4,1,CA
+311,201112,2012-02-11,Chelsea,England,Red,25,14,Away,43,L,-2,1,CA
+312,201112,2012-02-05,Chelsea,England,Green,24,15,Home,43,D,3,1,CA
+313,201112,2012-01-31,Chelsea,England,Grey,23,16,Away,42,D,-1,1,CA
+314,201112,2012-01-21,Chelsea,England,Red,22,17,Away,41,D,-1,1,CA
+315,201112,2012-01-14,Chelsea,England,Green,21,18,Home,40,W,3,1,CA
+316,201112,2012-01-02,Chelsea,England,Dark Green,20,19,Away,37,W,3,1,CA
+317,201112,2011-12-31,Chelsea,England,Grey,19,20,Home,34,L,-1,1,CA
+318,201112,2011-12-26,Chelsea,England,Red,18,21,Home,34,D,-1,1,CA
+319,201112,2011-12-22,Chelsea,England,Green,17,22,Away,33,D,2,1,CA
+320,201112,2011-12-17,Chelsea,England,Red,16,23,Away,32,D,-1,1,CA
+321,201112,2011-12-12,Chelsea,England,Dark Green,15,24,Home,31,W,6,1,CA
+322,201112,2011-12-03,Chelsea,England,Dark Green,14,25,Away,28,W,4,1,CA
+323,201112,2011-11-26,Chelsea,England,Dark Green,13,26,Home,25,W,4,1,CA
+324,201112,2011-11-20,Chelsea,England,Red,12,27,Home,22,L,-1,1,CA
+325,201112,2011-11-05,Chelsea,England,Green,11,28,Away,22,W,3,1,CA
+326,201112,2011-10-29,Chelsea,England,Red,10,29,Home,19,L,-1,1,CA
+327,201112,2011-10-23,Chelsea,England,Yellow,9,30,Away,19,L,-2,1,CA
+328,201112,2011-10-15,Chelsea,England,Dark Green,8,31,Home,19,W,4,1,CA
+329,201112,2011-10-02,Chelsea,England,Dark Green,7,32,Away,16,W,6,1,CA
+330,201112,2011-09-24,Chelsea,England,Dark Green,6,33,Home,13,W,5,1,CA
+331,201112,2011-09-18,Chelsea,England,Red,5,34,Away,10,L,-1,1,CA
+332,201112,2011-09-10,Chelsea,England,Dark Green,4,35,Away,10,W,3,1,CA
+333,201112,2011-08-27,Chelsea,England,Dark Green,3,36,Home,7,W,4,1,CA
+334,201112,2011-08-20,Chelsea,England,Green,2,37,Home,4,W,3,1,CA
+335,201112,2011-08-14,Chelsea,England,Red,1,38,Away,1,D,-1,1,CA
+336,201112,2012-05-13,Sevilla,Spain,Grey,38,1,Away,50,D,-1,1,FL
+337,201112,2012-05-05,Sevilla,Spain,Dark Green,37,2,Home,49,W,7,1,FL
+338,201112,2012-05-02,Sevilla,Spain,Red,36,3,Home,46,L,-1,1,FL
+339,201112,2012-04-29,Sevilla,Spain,Red,35,4,Away,46,L,-1,1,FL
+340,201112,2012-04-21,Sevilla,Spain,Green,34,5,Home,46,D,2,1,FL
+341,201112,2012-04-16,Sevilla,Spain,Red,33,6,Away,45,L,-1,1,FL
+342,201112,2012-04-12,Sevilla,Spain,Dark Green,32,7,Home,45,W,5,1,FL
+343,201112,2012-04-08,Sevilla,Spain,Red,31,8,Away,42,L,-1,1,FL
+344,201112,2012-04-02,Sevilla,Spain,Dark Green,30,9,Home,42,W,5,1,FL
+345,201112,2012-03-26,Sevilla,Spain,Dark Green,29,10,Away,39,W,4,1,FL
+346,201112,2012-03-22,Sevilla,Spain,Dark Green,28,11,Away,36,W,4,1,FL
+347,201112,2012-03-17,Sevilla,Spain,Grey,27,12,Home,33,L,-1,1,FL
+348,201112,2012-03-10,Sevilla,Spain,Red,26,13,Away,33,L,-2,1,FL
+349,201112,2012-03-03,Sevilla,Spain,Grey,25,14,Home,33,D,-1,1,FL
+350,201112,2012-02-26,Sevilla,Spain,Dark Green,24,15,Away,32,W,8,1,FL
+351,201112,2012-02-18,Sevilla,Spain,Dark Green,23,16,Home,29,W,5,1,FL
+352,201112,2012-02-13,Sevilla,Spain,Red,22,17,Away,26,L,-1,1,FL
+353,201112,2012-02-05,Sevilla,Spain,Red,21,18,Home,26,L,-1,1,FL
+354,201112,2012-01-29,Sevilla,Spain,Red,20,19,Away,26,L,-1,1,FL
+355,201112,2012-01-21,Sevilla,Spain,Grey,19,20,Away,26,D,-1,1,FL
+356,201112,2012-01-14,Sevilla,Spain,Grey,18,21,Home,25,D,-1,1,FL
+357,201112,2012-01-08,Sevilla,Spain,Red,17,22,Away,24,L,-1,1,FL
+358,201112,2011-12-17,Sevilla,Spain,Yellow,16,23,Home,24,L,-2,1,FL
+359,201112,2011-12-10,Sevilla,Spain,Red,15,24,Away,24,L,-1,1,FL
+360,201112,2011-12-05,Sevilla,Spain,Dark Green,14,25,Home,24,W,5,1,FL
+361,201112,2011-11-27,Sevilla,Spain,Dark Green,13,26,Away,21,W,4,1,FL
+362,201112,2011-11-20,Sevilla,Spain,Red,12,27,Home,18,L,-1,1,FL
+363,201112,2011-11-05,Sevilla,Spain,Grey,11,28,Away,18,D,-1,1,FL
+364,201112,2011-10-31,Sevilla,Spain,Grey,10,29,Home,17,L,-1,1,FL
+365,201112,2011-10-25,Sevilla,Spain,Yellow,9,30,Home,17,D,-2,1,FL
+366,201112,2011-10-22,Sevilla,Spain,Dark Green,8,31,Away,16,D,4,1,FL
+367,201112,2011-10-16,Sevilla,Spain,Green,7,32,Home,15,W,3,1,FL
+368,201112,2011-10-02,Sevilla,Spain,Grey,6,33,Away,12,D,0,1,FL
+369,201112,2011-09-24,Sevilla,Spain,Dark Green,5,34,Home,11,W,4,1,FL
+370,201112,2011-09-20,Sevilla,Spain,Grey,4,35,Away,8,D,-1,1,FL
+371,201112,2011-09-17,Sevilla,Spain,Dark Green,3,36,Home,7,W,3,1,FL
+372,201112,2011-09-10,Sevilla,Spain,Grey,2,37,Away,4,D,-1,1,FL
+373,201112,2011-08-28,Sevilla,Spain,Dark Green,1,38,Home,3,W,4,1,FL
+374,201213,2013-05-19,Arsenal,England,Green,38,1,Away,73,W,3,1,CA
+375,201213,2013-05-14,Arsenal,England,Dark Green,37,2,Home,70,W,5,1,CA
+376,201213,2013-05-04,Arsenal,England,Green,36,3,Away,67,W,3,1,CA
+377,201213,2013-04-28,Arsenal,England,Green,35,4,Home,64,D,2,1,CA
+378,201213,2013-04-20,Arsenal,England,Dark Green,34,5,Away,63,W,3,1,CA
+379,201213,2013-04-16,Arsenal,England,Grey,33,6,Home,60,D,-1,1,CA
+380,201213,2013-04-13,Arsenal,England,Dark Green,32,7,Home,59,W,4,1,CA
+381,201213,2013-04-06,Arsenal,England,Dark Green,31,8,Away,56,W,3,1,CA
+382,201213,2013-03-30,Arsenal,England,Dark Green,30,9,Home,53,W,5,1,CA
+383,201213,2013-03-16,Arsenal,England,Dark Green,29,10,Away,50,W,4,1,CA
+384,201213,2013-03-03,Arsenal,England,Red,28,11,Away,47,L,-1,1,CA
+385,201213,2013-02-23,Arsenal,England,Green,27,12,Home,47,W,3,1,CA
+386,201213,2013-02-09,Arsenal,England,Dark Green,26,13,Away,44,W,3,1,CA
+387,201213,2013-02-02,Arsenal,England,Green,25,14,Home,41,W,3,1,CA
+388,201213,2013-01-30,Arsenal,England,Grey,24,15,Home,38,D,-1,1,CA
+389,201213,2013-01-23,Arsenal,England,Dark Green,23,16,Home,37,W,7,1,CA
+390,201213,2013-01-20,Arsenal,England,Red,22,17,Away,34,L,-1,1,CA
+391,201213,2013-01-13,Arsenal,England,Grey,21,18,Home,34,L,-1,1,CA
+392,201213,2013-01-01,Arsenal,England,Red,20,19,Away,34,D,-1,1,CA
+393,201213,2012-12-29,Arsenal,England,Dark Green,19,20,Home,33,W,8,1,CA
+394,201213,2012-12-22,Arsenal,England,Dark Green,18,21,Away,30,W,3,1,CA
+395,201213,2012-12-17,Arsenal,England,Dark Green,17,22,Away,27,W,6,1,CA
+396,201213,2012-12-08,Arsenal,England,Dark Green,16,23,Home,24,W,5,1,CA
+397,201213,2012-12-01,Arsenal,England,Red,15,24,Home,21,L,-1,1,CA
+398,201213,2012-11-28,Arsenal,England,Green,14,25,Away,21,D,2,1,CA
+399,201213,2012-11-24,Arsenal,England,Red,13,26,Away,20,D,-1,1,CA
+400,201213,2012-11-17,Arsenal,England,Dark Green,12,27,Home,19,W,8,1,CA
+401,201213,2012-11-10,Arsenal,England,Red,11,28,Home,16,D,-1,1,CA
+402,201213,2012-11-03,Arsenal,England,Grey,10,29,Away,15,L,-1,1,CA
+403,201213,2012-10-27,Arsenal,England,Green,9,30,Home,15,W,3,1,CA
+404,201213,2012-10-20,Arsenal,England,Red,8,31,Away,12,L,-2,1,CA
+405,201213,2012-10-06,Arsenal,England,Dark Green,7,32,Away,12,W,3,1,CA
+406,201213,2012-09-29,Arsenal,England,Grey,6,33,Home,9,L,-1,1,CA
+407,201213,2012-09-23,Arsenal,England,Grey,5,34,Away,9,D,0,1,CA
+408,201213,2012-09-15,Arsenal,England,Dark Green,4,35,Home,8,W,7,1,CA
+409,201213,2012-09-02,Arsenal,England,Dark Green,3,36,Away,5,W,5,1,CA
+410,201213,2012-08-26,Arsenal,England,Grey,2,37,Away,2,D,-1,1,CA
+411,201213,2012-08-18,Arsenal,England,Grey,1,38,Home,1,D,-1,1,CA
+412,201213,2013-05-19,Chelsea,England,Dark Green,38,1,Home,75,W,3,1,CA
+413,201213,2013-05-11,Chelsea,England,Dark Green,37,2,Away,72,W,3,1,CA
+414,201213,2013-05-08,Chelsea,England,Grey,36,3,Home,69,D,-1,1,CA
+415,201213,2013-05-05,Chelsea,England,Dark Green,35,4,Away,68,W,7,1,CA
+416,201213,2013-04-28,Chelsea,England,Green,34,5,Home,65,W,3,1,CA
+417,201213,2013-04-21,Chelsea,England,Grey,33,6,Away,62,D,-1,1,CA
+418,201213,2013-04-17,Chelsea,England,Dark Green,32,7,Away,61,W,3,1,CA
+419,201213,2013-04-07,Chelsea,England,Green,31,8,Home,58,W,3,1,CA
+420,201213,2013-03-30,Chelsea,England,Red,30,9,Away,55,L,-2,1,CA
+421,201213,2013-03-17,Chelsea,England,Green,29,10,Home,55,W,3,1,CA
+422,201213,2013-03-02,Chelsea,England,Green,28,11,Home,52,W,3,1,CA
+423,201213,2013-02-24,Chelsea,England,Red,27,12,Away,49,L,-1,1,CA
+424,201213,2013-02-09,Chelsea,England,Dark Green,26,13,Home,49,W,5,1,CA
+425,201213,2013-02-02,Chelsea,England,Red,25,14,Away,46,L,-2,1,CA
+426,201213,2013-01-30,Chelsea,England,Red,24,15,Away,46,D,-1,1,CA
+427,201213,2013-01-20,Chelsea,England,Dark Green,23,16,Home,45,W,3,1,CA
+428,201213,2013-01-16,Chelsea,England,Red,22,17,Home,42,D,-1,1,CA
+429,201213,2013-01-12,Chelsea,England,Dark Green,21,18,Away,41,W,5,1,CA
+430,201213,2013-01-02,Chelsea,England,Grey,20,19,Home,38,L,-1,1,CA
+431,201213,2012-12-30,Chelsea,England,Dark Green,19,20,Away,38,W,4,1,CA
+432,201213,2012-12-26,Chelsea,England,Dark Green,18,21,Away,35,W,3,1,CA
+433,201213,2012-12-23,Chelsea,England,Dark Green,17,22,Home,32,W,8,1,CA
+434,201213,2012-12-08,Chelsea,England,Dark Green,16,23,Away,29,W,3,1,CA
+435,201213,2012-12-01,Chelsea,England,Red,15,24,Away,26,L,-2,1,CA
+436,201213,2012-11-28,Chelsea,England,Red,14,25,Home,26,D,-1,1,CA
+437,201213,2012-11-25,Chelsea,England,Green,13,26,Home,25,D,2,1,CA
+438,201213,2012-11-17,Chelsea,England,Red,12,27,Away,24,L,-2,1,CA
+439,201213,2012-11-11,Chelsea,England,Red,11,28,Home,24,D,-1,1,CA
+440,201213,2012-11-03,Chelsea,England,Red,10,29,Away,23,D,-1,1,CA
+441,201213,2012-10-28,Chelsea,England,Red,9,30,Home,22,L,-1,1,CA
+442,201213,2012-10-20,Chelsea,England,Dark Green,8,31,Away,22,W,7,1,CA
+443,201213,2012-10-06,Chelsea,England,Dark Green,7,32,Home,19,W,5,1,CA
+444,201213,2012-09-29,Chelsea,England,Dark Green,6,33,Away,16,W,5,1,CA
+445,201213,2012-09-22,Chelsea,England,Green,5,34,Home,13,W,3,1,CA
+446,201213,2012-09-15,Chelsea,England,Red,4,35,Away,10,D,-1,1,CA
+447,201213,2012-08-25,Chelsea,England,Green,3,36,Home,9,W,3,1,CA
+448,201213,2012-08-22,Chelsea,England,Dark Green,2,37,Home,6,W,5,1,CA
+449,201213,2012-08-19,Chelsea,England,Green,1,38,Away,3,W,3,1,CA
+450,201314,2014-05-11,Arsenal,England,Dark Green,38,1,Away,79,W,3,1,CA
+451,201314,2014-05-04,Arsenal,England,Green,37,2,Home,76,W,3,1,CA
+452,201314,2014-04-28,Arsenal,England,Dark Green,36,3,Home,73,W,4,1,CA
+453,201314,2014-04-20,Arsenal,England,Dark Green,35,4,Away,70,W,3,1,CA
+454,201314,2014-04-15,Arsenal,England,Dark Green,34,5,Home,67,W,4,1,CA
+455,201314,2014-04-06,Arsenal,England,Red,33,6,Away,64,L,-1,1,CA
+456,201314,2014-03-29,Arsenal,England,Green,32,7,Home,64,D,2,1,CA
+457,201314,2014-03-25,Arsenal,England,Red,31,8,Home,63,D,-1,1,CA
+458,201314,2014-03-22,Arsenal,England,Yellow,30,9,Away,62,L,-3,1,CA
+459,201314,2014-03-16,Arsenal,England,Dark Green,29,10,Away,62,W,4,1,CA
+460,201314,2014-03-01,Arsenal,England,Red,28,11,Away,59,L,-2,1,CA
+461,201314,2014-02-22,Arsenal,England,Dark Green,27,12,Home,59,W,5,1,CA
+462,201314,2014-02-12,Arsenal,England,Grey,26,13,Home,56,D,-1,1,CA
+463,201314,2014-02-08,Arsenal,England,Red,25,14,Away,55,L,-1,1,CA
+464,201314,2014-02-02,Arsenal,England,Green,24,15,Home,55,W,2,1,CA
+465,201314,2014-01-28,Arsenal,England,Grey,23,16,Away,52,D,-1,1,CA
+466,201314,2014-01-18,Arsenal,England,Green,22,17,Home,51,W,2,1,CA
+467,201314,2014-01-13,Arsenal,England,Dark Green,21,18,Away,48,W,3,1,CA
+468,201314,2014-01-01,Arsenal,England,Green,20,19,Home,45,W,3,1,CA
+469,201314,2013-12-29,Arsenal,England,Dark Green,19,20,Away,42,W,3,1,CA
+470,201314,2013-12-26,Arsenal,England,Dark Green,18,21,Away,39,W,3,1,CA
+471,201314,2013-12-23,Arsenal,England,Grey,17,22,Home,36,D,-1,1,CA
+472,201314,2013-12-14,Arsenal,England,Red,16,23,Away,35,L,-1,1,CA
+473,201314,2013-12-08,Arsenal,England,Grey,15,24,Home,35,D,-1,1,CA
+474,201314,2013-12-04,Arsenal,England,Green,14,25,Home,34,W,2,1,CA
+475,201314,2013-11-30,Arsenal,England,Dark Green,13,26,Away,31,W,3,1,CA
+476,201314,2013-11-23,Arsenal,England,Dark Green,12,27,Home,28,W,3,1,CA
+477,201314,2013-11-10,Arsenal,England,Red,11,28,Away,25,L,-1,1,CA
+478,201314,2013-11-02,Arsenal,England,Dark Green,10,29,Home,25,W,4,1,CA
+479,201314,2013-10-26,Arsenal,England,Green,9,30,Away,22,W,3,1,CA
+480,201314,2013-10-19,Arsenal,England,Dark Green,8,31,Home,19,W,5,1,CA
+481,201314,2013-10-06,Arsenal,England,Red,7,32,Away,16,D,-1,1,CA
+482,201314,2013-09-28,Arsenal,England,Dark Green,6,33,Away,15,W,4,1,CA
+483,201314,2013-09-22,Arsenal,England,Dark Green,5,34,Home,12,W,4,1,CA
+484,201314,2013-09-14,Arsenal,England,Dark Green,4,35,Away,9,W,3,1,CA
+485,201314,2013-09-01,Arsenal,England,Dark Green,3,36,Home,6,W,4,1,CA
+486,201314,2013-08-24,Arsenal,England,Dark Green,2,37,Away,3,W,4,1,CA
+487,201314,2013-08-17,Arsenal,England,Grey,1,38,Home,0,L,,1,CA
+488,201314,2014-05-18,Sevilla,Spain,Dark Green,38,1,Home,63,W,5,1,FL
+489,201314,2014-05-11,Sevilla,Spain,Red,37,2,Away,60,L,-1,1,FL
+490,201314,2014-05-04,Sevilla,Spain,Grey,36,3,Home,60,D,-1,1,FL
+491,201314,2014-04-27,Sevilla,Spain,Red,35,4,Away,59,L,-2,1,FL
+492,201314,2014-04-20,Sevilla,Spain,Dark Green,34,5,Home,59,W,6,1,FL
+493,201314,2014-04-13,Sevilla,Spain,Dark Green,33,6,Away,56,W,4,1,FL
+494,201314,2014-04-06,Sevilla,Spain,Dark Green,32,7,Home,53,W,6,1,FL
+495,201314,2014-03-29,Sevilla,Spain,Red,31,8,Away,50,L,-1,1,FL
+496,201314,2014-03-26,Sevilla,Spain,Dark Green,30,9,Home,50,W,9,1,FL
+497,201314,2014-03-23,Sevilla,Spain,Dark Green,29,10,Away,47,W,4,1,FL
+498,201314,2014-03-16,Sevilla,Spain,Dark Green,28,11,Home,44,W,6,1,FL
+499,201314,2014-03-09,Sevilla,Spain,Dark Green,27,12,Away,41,W,4,1,FL
+500,201314,2014-03-02,Sevilla,Spain,Dark Green,26,13,Home,38,W,6,1,FL
+501,201314,2014-02-23,Sevilla,Spain,Dark Green,25,14,Away,35,W,4,1,FL
+502,201314,2014-02-16,Sevilla,Spain,Grey,24,15,Home,32,D,-1,1,FL
+503,201314,2014-02-09,Sevilla,Spain,Red,23,16,Home,31,L,-2,1,FL
+504,201314,2014-02-01,Sevilla,Spain,Red,22,17,Away,31,L,-1,1,FL
+505,201314,2014-01-25,Sevilla,Spain,Grey,21,18,Home,31,L,-1,1,FL
+506,201314,2014-01-19,Sevilla,Spain,Dark Green,20,19,Away,31,D,3,1,FL
+507,201314,2014-01-11,Sevilla,Spain,Grey,19,20,Away,30,D,-1,1,FL
+508,201314,2014-01-05,Sevilla,Spain,Dark Green,18,21,Home,29,W,5,1,FL
+509,201314,2013-12-21,Sevilla,Spain,Dark Green,17,22,Away,26,W,8,1,FL
+510,201314,2013-12-15,Sevilla,Spain,Green,16,23,Home,23,D,2,1,FL
+511,201314,2013-12-01,Sevilla,Spain,Dark Green,15,24,Away,22,W,4,1,FL
+512,201314,2013-11-24,Sevilla,Spain,Dark Green,14,25,Home,19,W,6,1,FL
+513,201314,2013-11-10,Sevilla,Spain,Dark Green,13,26,Away,16,W,4,1,FL
+514,201314,2013-11-02,Sevilla,Spain,Grey,12,27,Home,13,L,-1,1,FL
+515,201314,2013-10-30,Sevilla,Spain,Yellow,11,28,Away,13,L,-2,1,FL
+516,201314,2013-10-27,Sevilla,Spain,Green,10,29,Home,13,W,3,1,FL
+517,201314,2013-10-20,Sevilla,Spain,Grey,9,30,Away,10,D,-1,1,FL
+518,201314,2013-10-06,Sevilla,Spain,Green,8,31,Home,9,W,3,1,FL
+519,201314,2013-09-28,Sevilla,Spain,Green,7,32,Away,6,D,2,1,FL
+520,201314,2013-09-25,Sevilla,Spain,Dark Green,6,33,Home,5,W,6,1,FL
+521,201314,2013-09-22,Sevilla,Spain,Grey,5,34,Away,2,L,-1,1,FL
+522,201314,2013-09-14,Sevilla,Spain,Grey,4,35,Away,2,L,0,1,FL
+523,201314,2013-09-01,Sevilla,Spain,Red,3,36,Home,2,D,-1,1,FL
+524,201314,2013-08-25,Sevilla,Spain,Grey,2,37,Away,1,D,-1,1,FL
+525,201314,2013-08-18,Sevilla,Spain,Grey,1,38,Home,0,L,,1,FL
+526,201415,2015-05-24,Arsenal,England,Dark Green,38,1,Home,75,W,6,1,CA
+527,201415,2015-05-20,Arsenal,England,Red,37,2,Home,72,D,-1,1,CA
+528,201415,2015-05-17,Arsenal,England,Grey,36,3,Away,71,D,-1,1,CA
+529,201415,2015-05-11,Arsenal,England,Grey,35,4,Home,70,L,-1,1,CA
+530,201415,2015-05-04,Arsenal,England,Dark Green,34,5,Away,70,W,3,1,CA
+531,201415,2015-04-26,Arsenal,England,Green,33,6,Home,67,D,2,1,CA
+532,201415,2015-04-11,Arsenal,England,Dark Green,32,7,Away,66,W,3,1,CA
+533,201415,2015-04-04,Arsenal,England,Dark Green,31,8,Home,63,W,7,1,CA
+534,201415,2015-03-21,Arsenal,England,Dark Green,30,9,Away,60,W,3,1,CA
+535,201415,2015-03-14,Arsenal,England,Dark Green,29,10,Home,57,W,4,1,CA
+536,201415,2015-03-04,Arsenal,England,Green,28,11,Away,54,W,3,1,CA
+537,201415,2015-03-01,Arsenal,England,Dark Green,27,12,Home,51,W,3,1,CA
+538,201415,2015-02-21,Arsenal,England,Dark Green,26,13,Away,48,W,3,1,CA
+539,201415,2015-02-10,Arsenal,England,Green,25,14,Home,45,W,3,1,CA
+540,201415,2015-02-07,Arsenal,England,Red,24,15,Away,42,L,-1,1,CA
+541,201415,2015-02-01,Arsenal,England,Dark Green,23,16,Home,42,W,6,1,CA
+542,201415,2015-01-18,Arsenal,England,Dark Green,22,17,Away,39,W,8,1,CA
+543,201415,2015-01-11,Arsenal,England,Dark Green,21,18,Home,36,W,5,1,CA
+544,201415,2015-01-01,Arsenal,England,Red,20,19,Away,33,L,-1,1,CA
+545,201415,2014-12-28,Arsenal,England,Dark Green,19,20,Away,33,W,4,1,CA
+546,201415,2014-12-26,Arsenal,England,Green,18,21,Home,30,W,3,1,CA
+547,201415,2014-12-21,Arsenal,England,Grey,17,22,Away,27,D,-1,1,CA
+548,201415,2014-12-13,Arsenal,England,Dark Green,16,23,Home,26,W,6,1,CA
+549,201415,2014-12-06,Arsenal,England,Red,15,24,Away,23,L,-2,1,CA
+550,201415,2014-12-03,Arsenal,England,Dark Green,14,25,Home,23,W,5,1,CA
+551,201415,2014-11-29,Arsenal,England,Dark Green,13,26,Away,20,W,3,1,CA
+552,201415,2014-11-22,Arsenal,England,Red,12,27,Home,17,L,-1,1,CA
+553,201415,2014-11-09,Arsenal,England,Red,11,28,Away,17,L,-1,1,CA
+554,201415,2014-11-01,Arsenal,England,Dark Green,10,29,Home,17,W,4,1,CA
+555,201415,2014-10-25,Arsenal,England,Dark Green,9,30,Away,14,W,3,1,CA
+556,201415,2014-10-18,Arsenal,England,Grey,8,31,Home,11,D,-1,1,CA
+557,201415,2014-10-05,Arsenal,England,Grey,7,32,Away,10,L,-1,1,CA
+558,201415,2014-09-27,Arsenal,England,Grey,6,33,Home,10,D,-1,1,CA
+559,201415,2014-09-20,Arsenal,England,Dark Green,5,34,Away,9,W,7,1,CA
+560,201415,2014-09-13,Arsenal,England,Green,4,35,Home,6,D,2,1,CA
+561,201415,2014-08-31,Arsenal,England,Red,3,36,Away,5,D,-1,1,CA
+562,201415,2014-08-23,Arsenal,England,Grey,2,37,Away,4,D,-1,1,CA
+563,201415,2014-08-16,Arsenal,England,Green,1,38,Home,3,W,3,1,CA
+564,201415,2015-05-24,Chelsea,England,Dark Green,38,1,Home,87,W,4,1,CA
+565,201415,2015-05-18,Chelsea,England,Red,37,2,Away,84,L,-2,1,CA
+566,201415,2015-05-10,Chelsea,England,Grey,36,3,Home,84,D,-1,1,CA
+567,201415,2015-05-03,Chelsea,England,Green,35,4,Home,83,W,3,1,CA
+568,201415,2015-04-29,Chelsea,England,Dark Green,34,5,Away,80,W,3,1,CA
+569,201415,2015-04-26,Chelsea,England,Grey,33,6,Away,77,D,-1,1,CA
+570,201415,2015-04-18,Chelsea,England,Dark Green,32,7,Home,76,W,4,1,CA
+571,201415,2015-04-12,Chelsea,England,Green,31,8,Away,73,W,3,1,CA
+572,201415,2015-04-04,Chelsea,England,Green,30,9,Home,70,W,3,1,CA
+573,201415,2015-03-22,Chelsea,England,Green,29,10,Away,67,W,3,1,CA
+574,201415,2015-03-15,Chelsea,England,Grey,28,11,Home,64,D,-1,1,CA
+575,201415,2015-03-04,Chelsea,England,Dark Green,27,12,Away,63,W,3,1,CA
+576,201415,2015-02-21,Chelsea,England,Red,26,13,Home,60,D,-2,1,CA
+577,201415,2015-02-11,Chelsea,England,Green,25,14,Home,59,W,3,1,CA
+578,201415,2015-02-07,Chelsea,England,Green,24,15,Away,56,W,3,1,CA
+579,201415,2015-01-31,Chelsea,England,Grey,23,16,Home,53,D,-1,1,CA
+580,201415,2015-01-17,Chelsea,England,Dark Green,22,17,Away,52,W,6,1,CA
+581,201415,2015-01-10,Chelsea,England,Green,21,18,Home,49,W,2,1,CA
+582,201415,2015-01-01,Chelsea,England,Red,20,19,Away,46,L,-2,1,CA
+583,201415,2014-12-28,Chelsea,England,Red,19,20,Away,46,D,-1,1,CA
+584,201415,2014-12-26,Chelsea,England,Green,18,21,Home,45,W,3,1,CA
+585,201415,2014-12-22,Chelsea,England,Dark Green,17,22,Away,42,W,3,1,CA
+586,201415,2014-12-13,Chelsea,England,Green,16,23,Home,39,W,2,1,CA
+587,201415,2014-12-06,Chelsea,England,Yellow,15,24,Away,36,L,-2,1,CA
+588,201415,2014-12-03,Chelsea,England,Dark Green,14,25,Home,36,W,4,1,CA
+589,201415,2014-11-29,Chelsea,England,Red,13,26,Away,33,D,-1,1,CA
+590,201415,2014-11-22,Chelsea,England,Green,12,27,Home,32,W,3,1,CA
+591,201415,2014-11-08,Chelsea,England,Dark Green,11,28,Away,29,W,4,1,CA
+592,201415,2014-11-01,Chelsea,England,Green,10,29,Home,26,W,2,1,CA
+593,201415,2014-10-26,Chelsea,England,Grey,9,30,Away,23,D,-1,1,CA
+594,201415,2014-10-18,Chelsea,England,Green,8,31,Away,22,W,3,1,CA
+595,201415,2014-10-05,Chelsea,England,Dark Green,7,32,Home,19,W,3,1,CA
+596,201415,2014-09-27,Chelsea,England,Dark Green,6,33,Home,16,W,4,1,CA
+597,201415,2014-09-21,Chelsea,England,Grey,5,34,Away,13,D,-1,1,CA
+598,201415,2014-09-13,Chelsea,England,Dark Green,4,35,Home,12,W,5,1,CA
+599,201415,2014-08-30,Chelsea,England,Dark Green,3,36,Away,9,W,9,1,CA
+600,201415,2014-08-23,Chelsea,England,Green,2,37,Home,6,W,3,1,CA
+601,201415,2014-08-18,Chelsea,England,Green,1,38,Away,3,W,3,1,CA
+602,201415,2015-05-23,Sevilla,Spain,Dark Green,38,1,Away,76,W,4,1,FL
+603,201415,2015-05-17,Sevilla,Spain,Green,37,2,Home,73,W,3,1,FL
+604,201415,2015-05-10,Sevilla,Spain,Grey,36,3,Away,70,D,-1,1,FL
+605,201415,2015-05-02,Sevilla,Spain,Red,35,4,Home,69,L,-2,1,FL
+606,201415,2015-04-29,Sevilla,Spain,Dark Green,34,5,Away,69,W,3,1,FL
+607,201415,2015-04-26,Sevilla,Spain,Green,33,6,Home,66,W,3,1,FL
+608,201415,2015-04-19,Sevilla,Spain,Red,32,7,Away,63,D,-1,1,FL
+609,201415,2015-04-11,Sevilla,Spain,Green,31,8,Home,62,D,3,1,FL
+610,201415,2015-04-07,Sevilla,Spain,Dark Green,30,9,Away,61,W,3,1,FL
+611,201415,2015-04-04,Sevilla,Spain,Dark Green,29,10,Home,58,W,3,1,FL
+612,201415,2015-03-22,Sevilla,Spain,Dark Green,28,11,Away,55,W,5,1,FL
+613,201415,2015-03-15,Sevilla,Spain,Dark Green,27,12,Home,52,W,4,1,FL
+614,201415,2015-03-07,Sevilla,Spain,Dark Green,26,13,Away,49,W,6,1,FL
+615,201415,2015-03-01,Sevilla,Spain,Green,25,14,Home,46,D,2,1,FL
+616,201415,2015-02-22,Sevilla,Spain,Red,24,15,Away,45,L,-1,1,FL
+617,201415,2015-02-14,Sevilla,Spain,Dark Green,23,16,Home,45,W,4,1,FL
+618,201415,2015-02-08,Sevilla,Spain,Red,22,17,Away,42,L,-2,1,FL
+619,201415,2015-02-04,Sevilla,Spain,Red,21,18,Away,42,L,-1,1,FL
+620,201415,2015-02-01,Sevilla,Spain,Dark Green,20,19,Home,42,W,5,1,FL
+621,201415,2015-01-25,Sevilla,Spain,Yellow,19,20,Away,39,L,-2,1,FL
+622,201415,2015-01-18,Sevilla,Spain,Dark Green,18,21,Home,39,W,3,1,FL
+623,201415,2015-01-11,Sevilla,Spain,Dark Green,17,22,Away,36,W,3,1,FL
+624,201415,2015-01-03,Sevilla,Spain,Dark Green,16,23,Home,33,W,3,1,FL
+625,201415,2014-12-14,Sevilla,Spain,Red,15,24,Home,30,D,-1,1,FL
+626,201415,2014-12-07,Sevilla,Spain,Dark Green,14,25,Away,29,W,4,1,FL
+627,201415,2014-11-30,Sevilla,Spain,Dark Green,13,26,Home,26,W,7,1,FL
+628,201415,2014-11-22,Sevilla,Spain,Yellow,12,27,Away,23,L,-3,1,FL
+629,201415,2014-11-09,Sevilla,Spain,Red,11,28,Home,23,D,-2,1,FL
+630,201415,2014-11-02,Sevilla,Spain,Red,10,29,Away,22,L,-1,1,FL
+631,201415,2014-10-26,Sevilla,Spain,Dark Green,9,30,Home,22,W,4,1,FL
+632,201415,2014-10-19,Sevilla,Spain,Dark Green,8,31,Away,19,W,4,1,FL
+633,201415,2014-10-05,Sevilla,Spain,Dark Green,7,32,Home,16,W,6,1,FL
+634,201415,2014-09-27,Sevilla,Spain,Yellow,6,33,Away,13,L,-3,1,FL
+635,201415,2014-09-24,Sevilla,Spain,Dark Green,5,34,Home,13,W,3,1,FL
+636,201415,2014-09-21,Sevilla,Spain,Dark Green,4,35,Away,10,W,4,1,FL
+637,201415,2014-09-14,Sevilla,Spain,Green,3,36,Home,7,W,3,1,FL
+638,201415,2014-08-30,Sevilla,Spain,Dark Green,2,37,Away,4,W,4,1,FL
+639,201415,2014-08-23,Sevilla,Spain,Grey,1,38,Home,1,D,-1,1,FL
+640,201516,2016-05-15,Arsenal,England,Dark Green,38,1,Home,71,W,5,1,CA
+641,201516,2016-05-08,Arsenal,England,Grey,37,2,Away,68,D,-1,1,CA
+642,201516,2016-04-30,Arsenal,England,Green,36,3,Home,67,W,3,1,CA
+643,201516,2016-04-24,Arsenal,England,Red,35,4,Away,64,D,-1,1,CA
+644,201516,2016-04-21,Arsenal,England,Green,34,5,Home,63,W,3,1,CA
+645,201516,2016-04-17,Arsenal,England,Red,33,6,Home,60,D,-1,1,CA
+646,201516,2016-04-09,Arsenal,England,Red,32,7,Away,59,D,-1,1,CA
+647,201516,2016-04-02,Arsenal,England,Dark Green,31,8,Home,58,W,5,1,CA
+648,201516,2016-03-19,Arsenal,England,Dark Green,30,9,Away,55,W,4,1,CA
+649,201516,2016-03-05,Arsenal,England,Green,29,10,Away,52,D,2,1,CA
+650,201516,2016-03-02,Arsenal,England,Grey,28,11,Home,51,L,-1,1,CA
+651,201516,2016-02-28,Arsenal,England,Red,27,12,Away,51,L,-1,1,CA
+652,201516,2016-02-14,Arsenal,England,Dark Green,26,13,Home,51,W,5,1,CA
+653,201516,2016-02-07,Arsenal,England,Dark Green,25,14,Away,48,W,4,1,CA
+654,201516,2016-02-02,Arsenal,England,Grey,24,15,Home,45,D,-1,1,CA
+655,201516,2016-01-24,Arsenal,England,Red,23,16,Home,44,L,-1,1,CA
+656,201516,2016-01-17,Arsenal,England,Grey,22,17,Away,44,D,-1,1,CA
+657,201516,2016-01-13,Arsenal,England,Red,21,18,Away,43,D,-1,1,CA
+658,201516,2016-01-02,Arsenal,England,Green,20,19,Home,42,W,3,1,CA
+659,201516,2015-12-28,Arsenal,England,Green,19,20,Home,39,W,3,1,CA
+660,201516,2015-12-26,Arsenal,England,Red,18,21,Away,36,L,-2,1,CA
+661,201516,2015-12-21,Arsenal,England,Dark Green,17,22,Home,36,W,4,1,CA
+662,201516,2015-12-13,Arsenal,England,Green,16,23,Away,33,W,3,1,CA
+663,201516,2015-12-05,Arsenal,England,Dark Green,15,24,Home,30,W,4,1,CA
+664,201516,2015-11-29,Arsenal,England,Red,14,25,Away,27,D,-1,1,CA
+665,201516,2015-11-21,Arsenal,England,Red,13,26,Away,26,L,-2,1,CA
+666,201516,2015-11-08,Arsenal,England,Grey,12,27,Home,26,D,-1,1,CA
+667,201516,2015-10-31,Arsenal,England,Dark Green,11,28,Away,25,W,3,1,CA
+668,201516,2015-10-24,Arsenal,England,Green,10,29,Home,22,W,3,1,CA
+669,201516,2015-10-17,Arsenal,England,Dark Green,9,30,Away,19,W,3,1,CA
+670,201516,2015-10-04,Arsenal,England,Dark Green,8,31,Home,16,W,6,1,CA
+671,201516,2015-09-26,Arsenal,England,Dark Green,7,32,Away,13,W,7,1,CA
+672,201516,2015-09-19,Arsenal,England,Red,6,33,Away,10,L,-1,1,CA
+673,201516,2015-09-12,Arsenal,England,Green,5,34,Home,10,W,3,1,CA
+674,201516,2015-08-29,Arsenal,England,Dark Green,4,35,Away,7,W,3,1,CA
+675,201516,2015-08-24,Arsenal,England,Green,3,36,Home,4,D,2,1,CA
+676,201516,2015-08-16,Arsenal,England,Dark Green,2,37,Away,3,W,3,1,CA
+677,201516,2015-08-09,Arsenal,England,Grey,1,38,Home,0,L,,1,CA
+678,201617,2017-05-21,Barcelona,Spain,Dark Green,38,1,Home,90,W,4,1,FL
+679,201617,2017-05-14,Barcelona,Spain,Dark Green,37,2,Away,87,W,4,1,FL
+680,201617,2017-05-06,Barcelona,Spain,Dark Green,36,3,Home,84,W,5,1,FL
+681,201617,2017-04-29,Barcelona,Spain,Green,35,4,Away,81,W,2,1,FL
+682,201617,2017-04-26,Barcelona,Spain,Dark Green,34,5,Home,78,W,6,1,FL
+683,201617,2017-04-23,Barcelona,Spain,Dark Green,33,6,Away,75,W,5,1,FL
+684,201617,2017-04-15,Barcelona,Spain,Dark Green,32,7,Home,72,W,4,1,FL
+685,201617,2017-04-08,Barcelona,Spain,Yellow,31,8,Away,69,L,-2,1,FL
+686,201617,2017-04-05,Barcelona,Spain,Dark Green,30,9,Home,69,W,4,1,FL
+687,201617,2017-04-02,Barcelona,Spain,Dark Green,29,10,Away,66,W,4,1,FL
+688,201617,2017-03-19,Barcelona,Spain,Dark Green,28,11,Home,63,W,5,1,FL
+689,201617,2017-03-12,Barcelona,Spain,Yellow,27,12,Away,60,L,-2,1,FL
+690,201617,2017-03-04,Barcelona,Spain,Dark Green,26,13,Home,60,W,5,1,FL
+691,201617,2017-03-01,Barcelona,Spain,Dark Green,25,14,Home,57,W,6,1,FL
+692,201617,2017-02-26,Barcelona,Spain,Dark Green,24,15,Away,54,W,4,1,FL
+693,201617,2017-02-19,Barcelona,Spain,Green,23,16,Home,51,W,2,1,FL
+694,201617,2017-02-11,Barcelona,Spain,Dark Green,22,17,Away,48,W,6,1,FL
+695,201617,2017-02-04,Barcelona,Spain,Dark Green,21,18,Home,45,W,4,1,FL
+696,201617,2017-01-29,Barcelona,Spain,Red,20,19,Away,42,D,-2,1,FL
+697,201617,2017-01-22,Barcelona,Spain,Dark Green,19,20,Away,41,W,4,1,FL
+698,201617,2017-01-14,Barcelona,Spain,Dark Green,18,21,Home,38,W,5,1,FL
+699,201617,2017-01-08,Barcelona,Spain,Red,17,22,Away,35,D,-1,1,FL
+700,201617,2016-12-18,Barcelona,Spain,Dark Green,16,23,Home,34,W,5,1,FL
+701,201617,2016-12-10,Barcelona,Spain,Green,15,24,Away,31,W,2,1,FL
+702,201617,2016-12-03,Barcelona,Spain,Green,14,25,Home,28,D,2,1,FL
+703,201617,2016-11-27,Barcelona,Spain,Red,13,26,Away,27,D,-1,1,FL
+704,201617,2016-11-19,Barcelona,Spain,Red,12,27,Home,26,D,-1,1,FL
+705,201617,2016-11-06,Barcelona,Spain,Dark Green,11,28,Away,25,W,3,1,FL
+706,201617,2016-10-29,Barcelona,Spain,Green,10,29,Home,22,W,2,1,FL
+707,201617,2016-10-22,Barcelona,Spain,Green,9,30,Away,19,W,3,1,FL
+708,201617,2016-10-15,Barcelona,Spain,Dark Green,8,31,Home,16,W,5,1,FL
+709,201617,2016-10-02,Barcelona,Spain,Yellow,7,32,Away,13,L,-2,1,FL
+710,201617,2016-09-24,Barcelona,Spain,Dark Green,6,33,Away,13,W,5,1,FL
+711,201617,2016-09-21,Barcelona,Spain,Grey,5,34,Home,10,D,-1,1,FL
+712,201617,2016-09-17,Barcelona,Spain,Dark Green,4,35,Away,9,W,5,1,FL
+713,201617,2016-09-10,Barcelona,Spain,Grey,3,36,Home,6,L,-1,1,FL
+714,201617,2016-08-28,Barcelona,Spain,Green,2,37,Away,6,W,3,1,FL
+715,201617,2016-08-20,Barcelona,Spain,Dark Green,1,38,Home,3,W,6,1,FL
+716,201617,2017-05-21,Chelsea,England,Dark Green,38,1,Home,93,W,5,1,CA
+717,201617,2017-05-15,Chelsea,England,Dark Green,37,2,Home,90,W,5,1,CA
+718,201617,2017-05-12,Chelsea,England,Green,36,3,Away,87,W,3,1,CA
+719,201617,2017-05-08,Chelsea,England,Dark Green,35,4,Home,84,W,4,1,CA
+720,201617,2017-04-30,Chelsea,England,Dark Green,34,5,Away,81,W,4,1,CA
+721,201617,2017-04-25,Chelsea,England,Dark Green,33,6,Home,78,W,6,1,CA
+722,201617,2017-04-16,Chelsea,England,Red,32,7,Away,75,L,-1,1,CA
+723,201617,2017-04-08,Chelsea,England,Dark Green,31,8,Away,75,W,3,1,CA
+724,201617,2017-04-05,Chelsea,England,Dark Green,30,9,Home,72,W,4,1,CA
+725,201617,2017-04-01,Chelsea,England,Grey,29,10,Home,69,L,-1,1,CA
+726,201617,2017-03-18,Chelsea,England,Dark Green,28,11,Away,69,W,3,1,CA
+727,201617,2017-03-06,Chelsea,England,Dark Green,27,12,Away,66,W,3,1,CA
+728,201617,2017-02-25,Chelsea,England,Dark Green,26,13,Home,63,W,4,1,CA
+729,201617,2017-02-12,Chelsea,England,Red,25,14,Away,60,D,-1,1,CA
+730,201617,2017-02-04,Chelsea,England,Dark Green,24,15,Home,59,W,6,1,CA
+731,201617,2017-01-31,Chelsea,England,Grey,23,16,Away,56,D,-1,1,CA
+732,201617,2017-01-22,Chelsea,England,Green,22,17,Home,55,W,2,1,CA
+733,201617,2017-01-14,Chelsea,England,Dark Green,21,18,Away,52,W,3,1,CA
+734,201617,2017-01-04,Chelsea,England,Red,20,19,Away,49,L,-1,1,CA
+735,201617,2016-12-31,Chelsea,England,Dark Green,19,20,Home,49,W,5,1,CA
+736,201617,2016-12-26,Chelsea,England,Dark Green,18,21,Home,46,W,4,1,CA
+737,201617,2016-12-17,Chelsea,England,Dark Green,17,22,Away,43,W,3,1,CA
+738,201617,2016-12-14,Chelsea,England,Green,16,23,Away,40,W,3,1,CA
+739,201617,2016-12-11,Chelsea,England,Green,15,24,Home,37,W,3,1,CA
+740,201617,2016-12-03,Chelsea,England,Dark Green,14,25,Away,34,W,5,1,CA
+741,201617,2016-11-26,Chelsea,England,Dark Green,13,26,Home,31,W,3,1,CA
+742,201617,2016-11-20,Chelsea,England,Dark Green,12,27,Away,28,W,3,1,CA
+743,201617,2016-11-05,Chelsea,England,Dark Green,11,28,Home,25,W,7,1,CA
+744,201617,2016-10-30,Chelsea,England,Dark Green,10,29,Away,22,W,4,1,CA
+745,201617,2016-10-23,Chelsea,England,Dark Green,9,30,Home,19,W,8,1,CA
+746,201617,2016-10-15,Chelsea,England,Dark Green,8,31,Home,16,W,5,1,CA
+747,201617,2016-10-01,Chelsea,England,Green,7,32,Away,13,W,3,1,CA
+748,201617,2016-09-24,Chelsea,England,Red,6,33,Away,10,L,-2,1,CA
+749,201617,2016-09-16,Chelsea,England,Red,5,34,Home,10,L,-1,1,CA
+750,201617,2016-09-11,Chelsea,England,Red,4,35,Away,10,D,-1,1,CA
+751,201617,2016-08-27,Chelsea,England,Dark Green,3,36,Home,9,W,4,1,CA
+752,201617,2016-08-20,Chelsea,England,Dark Green,2,37,Away,6,W,3,1,CA
+753,201617,2016-08-15,Chelsea,England,Dark Green,1,38,Home,3,W,3,1,CA
+754,201617,2017-05-20,Sevilla,Spain,Dark Green,38,1,Home,72,W,5,1,FL
+755,201617,2017-05-14,Sevilla,Spain,Yellow,37,2,Away,69,L,-2,1,FL
+756,201617,2017-05-05,Sevilla,Spain,Grey,36,3,Home,69,D,-1,1,FL
+757,201617,2017-05-01,Sevilla,Spain,Red,35,4,Away,68,L,-2,1,FL
+758,201617,2017-04-27,Sevilla,Spain,Green,34,5,Home,68,W,3,1,FL
+759,201617,2017-04-21,Sevilla,Spain,Green,33,6,Home,65,W,2,1,FL
+760,201617,2017-04-16,Sevilla,Spain,Grey,32,7,Away,62,D,-1,1,FL
+761,201617,2017-04-08,Sevilla,Spain,Dark Green,31,8,Home,61,W,6,1,FL
+762,201617,2017-04-05,Sevilla,Spain,Red,30,9,Away,58,L,-2,1,FL
+763,201617,2017-04-02,Sevilla,Spain,Red,29,10,Home,58,D,-2,1,FL
+764,201617,2017-03-19,Sevilla,Spain,Red,28,11,Away,57,L,-1,1,FL
+765,201617,2017-03-11,Sevilla,Spain,Red,27,12,Home,57,D,-2,1,FL
+766,201617,2017-03-06,Sevilla,Spain,Grey,26,13,Away,56,D,-1,1,FL
+767,201617,2017-03-02,Sevilla,Spain,Dark Green,25,14,Home,55,W,3,1,FL
+768,201617,2017-02-25,Sevilla,Spain,Dark Green,24,15,Away,52,W,4,1,FL
+769,201617,2017-02-18,Sevilla,Spain,Green,23,16,Home,49,W,3,1,FL
+770,201617,2017-02-12,Sevilla,Spain,Dark Green,22,17,Away,46,W,4,1,FL
+771,201617,2017-02-05,Sevilla,Spain,Grey,21,18,Home,43,D,-1,1,FL
+772,201617,2017-01-29,Sevilla,Spain,Red,20,19,Away,42,L,-2,1,FL
+773,201617,2017-01-22,Sevilla,Spain,Dark Green,19,20,Away,42,W,5,1,FL
+774,201617,2017-01-15,Sevilla,Spain,Dark Green,18,21,Home,39,W,7,1,FL
+775,201617,2017-01-07,Sevilla,Spain,Dark Green,17,22,Away,36,W,7,1,FL
+776,201617,2016-12-17,Sevilla,Spain,Dark Green,16,23,Home,33,W,6,1,FL
+777,201617,2016-12-11,Sevilla,Spain,Dark Green,15,24,Away,30,W,4,1,FL
+778,201617,2016-12-03,Sevilla,Spain,Red,14,25,Away,27,L,-2,1,FL
+779,201617,2016-11-26,Sevilla,Spain,Dark Green,13,26,Home,27,W,3,1,FL
+780,201617,2016-11-19,Sevilla,Spain,Dark Green,12,27,Away,24,W,4,1,FL
+781,201617,2016-11-06,Sevilla,Spain,Red,11,28,Home,21,L,-1,1,FL
+782,201617,2016-10-29,Sevilla,Spain,Grey,10,29,Away,21,D,-1,1,FL
+783,201617,2016-10-23,Sevilla,Spain,Dark Green,9,30,Home,20,W,5,1,FL
+784,201617,2016-10-15,Sevilla,Spain,Dark Green,8,31,Away,17,W,4,1,FL
+785,201617,2016-10-01,Sevilla,Spain,Green,7,32,Home,14,W,3,1,FL
+786,201617,2016-09-24,Sevilla,Spain,Yellow,6,33,Away,11,L,-2,1,FL
+787,201617,2016-09-20,Sevilla,Spain,Green,5,34,Home,11,W,3,1,FL
+788,201617,2016-09-17,Sevilla,Spain,Grey,4,35,Away,8,D,-1,1,FL
+789,201617,2016-09-10,Sevilla,Spain,Green,3,36,Home,7,W,3,1,FL
+790,201617,2016-08-28,Sevilla,Spain,Grey,2,37,Away,4,D,-1,1,FL
+791,201617,2016-08-20,Sevilla,Spain,Dark Green,1,38,Home,3,W,8,1,FL
+792,201718,2018-05-13,Arsenal,England,Dark Green,38,1,Away,63,W,3,1,CA
+793,201718,2018-05-09,Arsenal,England,Red,37,2,Away,60,L,-2,1,CA
+794,201718,2018-05-06,Arsenal,England,Dark Green,36,3,Home,60,W,7,1,CA
+795,201718,2018-04-29,Arsenal,England,Red,35,4,Away,57,L,-1,1,CA
+796,201718,2018-04-22,Arsenal,England,Dark Green,34,5,Home,57,W,6,1,CA
+797,201718,2018-04-15,Arsenal,England,Red,33,6,Away,54,L,-1,1,CA
+798,201718,2018-04-08,Arsenal,England,Dark Green,32,7,Home,54,W,5,1,CA
+799,201718,2018-04-01,Arsenal,England,Dark Green,31,8,Home,51,W,4,1,CA
+800,201718,2018-03-11,Arsenal,England,Dark Green,30,9,Home,48,W,5,1,CA
+801,201718,2018-03-04,Arsenal,England,Red,29,10,Away,45,L,-2,1,CA
+802,201718,2018-03-01,Arsenal,England,Red,28,11,Home,45,L,-1,1,CA
+803,201718,2018-02-10,Arsenal,England,Red,27,12,Away,45,L,-1,1,CA
+804,201718,2018-02-03,Arsenal,England,Dark Green,26,13,Home,45,W,6,1,CA
+805,201718,2018-01-30,Arsenal,England,Yellow,25,14,Away,42,L,-2,1,CA
+806,201718,2018-01-20,Arsenal,England,Dark Green,24,15,Home,42,W,6,1,CA
+807,201718,2018-01-14,Arsenal,England,Red,23,16,Away,39,L,-2,1,CA
+808,201718,2018-01-03,Arsenal,England,Green,22,17,Home,39,D,2,1,CA
+809,201718,2017-12-31,Arsenal,England,Red,21,18,Away,38,D,-1,1,CA
+810,201718,2017-12-28,Arsenal,England,Dark Green,20,19,Away,37,W,3,1,CA
+811,201718,2017-12-22,Arsenal,England,Green,19,20,Home,34,D,3,1,CA
+812,201718,2017-12-16,Arsenal,England,Green,18,21,Home,33,W,3,1,CA
+813,201718,2017-12-13,Arsenal,England,Red,17,22,Away,30,D,-1,1,CA
+814,201718,2017-12-10,Arsenal,England,Grey,16,23,Away,29,D,-1,1,CA
+815,201718,2017-12-02,Arsenal,England,Red,15,24,Home,28,L,-2,1,CA
+816,201718,2017-11-29,Arsenal,England,Dark Green,14,25,Home,28,W,6,1,CA
+817,201718,2017-11-26,Arsenal,England,Dark Green,13,26,Away,25,W,3,1,CA
+818,201718,2017-11-18,Arsenal,England,Dark Green,12,27,Home,22,W,6,1,CA
+819,201718,2017-11-05,Arsenal,England,Red,11,28,Away,19,L,-1,1,CA
+820,201718,2017-10-28,Arsenal,England,Green,10,29,Home,19,W,3,1,CA
+821,201718,2017-10-22,Arsenal,England,Dark Green,9,30,Away,16,W,7,1,CA
+822,201718,2017-10-14,Arsenal,England,Red,8,31,Away,13,L,-1,1,CA
+823,201718,2017-10-01,Arsenal,England,Green,7,32,Home,13,W,3,1,CA
+824,201718,2017-09-25,Arsenal,England,Green,6,33,Home,10,W,3,1,CA
+825,201718,2017-09-17,Arsenal,England,Green,5,34,Away,7,D,3,1,CA
+826,201718,2017-09-09,Arsenal,England,Dark Green,4,35,Home,6,W,4,1,CA
+827,201718,2017-08-27,Arsenal,England,Red,3,36,Away,3,L,-1,1,CA
+828,201718,2017-08-19,Arsenal,England,Red,2,37,Away,3,L,-2,1,CA
+829,201718,2017-08-11,Arsenal,England,Dark Green,1,38,Home,3,W,6,1,CA
+830,201718,2018-05-19,Sevilla,Spain,Green,38,1,Home,58,W,3,1,FL
+831,201718,2018-05-12,Sevilla,Spain,Green,37,2,Away,55,D,2,1,FL
+832,201718,2018-05-09,Sevilla,Spain,Dark Green,36,3,Home,54,W,8,1,FL
+833,201718,2018-05-04,Sevilla,Spain,Dark Green,35,4,Home,51,W,4,1,FL
+834,201718,2018-04-27,Sevilla,Spain,Red,34,5,Away,48,L,-2,1,FL
+835,201718,2018-04-17,Sevilla,Spain,Grey,33,6,Away,48,D,-1,1,FL
+836,201718,2018-04-14,Sevilla,Spain,Green,32,7,Home,47,D,2,1,FL
+837,201718,2018-04-07,Sevilla,Spain,Red,31,8,Away,46,L,-1,1,FL
+838,201718,2018-03-31,Sevilla,Spain,Green,30,9,Home,46,D,3,1,FL
+839,201718,2018-03-18,Sevilla,Spain,Red,29,10,Away,45,L,-2,1,FL
+840,201718,2018-03-10,Sevilla,Spain,Red,28,11,Home,45,L,-1,1,FL
+841,201718,2018-03-03,Sevilla,Spain,Dark Green,27,12,Home,45,W,3,1,FL
+842,201718,2018-02-28,Sevilla,Spain,Dark Green,26,13,Away,42,W,4,1,FL
+843,201718,2018-02-25,Sevilla,Spain,Yellow,25,14,Home,39,L,-2,1,FL
+844,201718,2018-02-17,Sevilla,Spain,Dark Green,24,15,Away,39,W,4,1,FL
+845,201718,2018-02-11,Sevilla,Spain,Dark Green,23,16,Home,36,W,3,1,FL
+846,201718,2018-02-03,Sevilla,Spain,Red,22,17,Away,33,L,-1,1,FL
+847,201718,2018-01-28,Sevilla,Spain,Grey,21,18,Home,33,D,-1,1,FL
+848,201718,2018-01-20,Sevilla,Spain,Dark Green,20,19,Away,32,W,4,1,FL
+849,201718,2018-01-14,Sevilla,Spain,Red,19,20,Away,29,L,-2,1,FL
+850,201718,2018-01-06,Sevilla,Spain,Grey,18,21,Home,29,L,-1,1,FL
+851,201718,2017-12-20,Sevilla,Spain,Red,17,22,Away,29,L,-1,1,FL
+852,201718,2017-12-15,Sevilla,Spain,Red,16,23,Home,29,D,-1,1,FL
+853,201718,2017-12-09,Sevilla,Spain,Yellow,15,24,Away,28,L,-3,1,FL
+854,201718,2017-12-02,Sevilla,Spain,Green,14,25,Home,28,W,3,1,FL
+855,201718,2017-11-26,Sevilla,Spain,Dark Green,13,26,Away,25,W,4,1,FL
+856,201718,2017-11-18,Sevilla,Spain,Dark Green,12,27,Home,22,W,3,1,FL
+857,201718,2017-11-04,Sevilla,Spain,Grey,11,28,Away,19,L,-1,1,FL
+858,201718,2017-10-28,Sevilla,Spain,Dark Green,10,29,Home,19,W,3,1,FL
+859,201718,2017-10-21,Sevilla,Spain,Yellow,9,30,Away,16,L,-2,1,FL
+860,201718,2017-10-14,Sevilla,Spain,Red,8,31,Away,16,L,-1,1,FL
+861,201718,2017-09-30,Sevilla,Spain,Green,7,32,Home,16,W,3,1,FL
+862,201718,2017-09-23,Sevilla,Spain,Red,6,33,Away,13,L,-1,1,FL
+863,201718,2017-09-20,Sevilla,Spain,Green,5,34,Home,13,W,3,1,FL
+864,201718,2017-09-17,Sevilla,Spain,Dark Green,4,35,Away,10,W,4,1,FL
+865,201718,2017-09-09,Sevilla,Spain,Dark Green,3,36,Home,7,W,5,1,FL
+866,201718,2017-08-27,Sevilla,Spain,Dark Green,2,37,Away,4,W,4,1,FL
+867,201718,2017-08-19,Sevilla,Spain,Grey,1,38,Home,1,D,-1,1,FL
+868,201819,2019-05-19,Barcelona,Spain,Grey,38,1,Away,87,D,-1,1,FL
+869,201819,2019-05-12,Barcelona,Spain,Green,37,2,Home,86,W,3,1,FL
+870,201819,2019-05-04,Barcelona,Spain,Red,36,3,Away,83,L,-1,1,FL
+871,201819,2019-04-27,Barcelona,Spain,Green,35,4,Home,83,W,2,1,FL
+872,201819,2019-04-23,Barcelona,Spain,Green,34,5,Away,80,W,3,1,FL
+873,201819,2019-04-20,Barcelona,Spain,Green,33,6,Home,77,W,2,1,FL
+874,201819,2019-04-13,Barcelona,Spain,Red,32,7,Away,74,D,-1,1,FL
+875,201819,2019-04-06,Barcelona,Spain,Dark Green,31,8,Home,73,W,3,1,FL
+876,201819,2019-04-02,Barcelona,Spain,Yellow,30,9,Away,70,D,-2,1,FL
+877,201819,2019-03-30,Barcelona,Spain,Green,29,10,Home,69,W,2,1,FL
+878,201819,2019-03-17,Barcelona,Spain,Dark Green,28,11,Away,66,W,4,1,FL
+879,201819,2019-03-09,Barcelona,Spain,Dark Green,27,12,Home,63,W,4,1,FL
+880,201819,2019-03-02,Barcelona,Spain,Dark Green,26,13,Away,60,W,4,1,FL
+881,201819,2019-02-23,Barcelona,Spain,Dark Green,25,14,Away,57,W,5,1,FL
+882,201819,2019-02-16,Barcelona,Spain,Green,24,15,Home,54,W,2,1,FL
+883,201819,2019-02-10,Barcelona,Spain,Red,23,16,Away,51,D,-1,1,FL
+884,201819,2019-02-02,Barcelona,Spain,Red,22,17,Home,50,D,-1,1,FL
+885,201819,2019-01-27,Barcelona,Spain,Green,21,18,Away,49,W,3,1,FL
+886,201819,2019-01-20,Barcelona,Spain,Dark Green,20,19,Home,46,W,4,1,FL
+887,201819,2019-01-13,Barcelona,Spain,Dark Green,19,20,Home,43,W,4,1,FL
+888,201819,2019-01-06,Barcelona,Spain,Green,18,21,Away,40,W,3,1,FL
+889,201819,2018-12-22,Barcelona,Spain,Green,17,22,Home,37,W,2,1,FL
+890,201819,2018-12-16,Barcelona,Spain,Dark Green,16,23,Away,34,W,5,1,FL
+891,201819,2018-12-08,Barcelona,Spain,Dark Green,15,24,Away,31,W,5,1,FL
+892,201819,2018-12-02,Barcelona,Spain,Green,14,25,Home,28,W,2,1,FL
+893,201819,2018-11-24,Barcelona,Spain,Grey,13,26,Away,25,D,-1,1,FL
+894,201819,2018-11-11,Barcelona,Spain,Grey,12,27,Home,24,L,-1,1,FL
+895,201819,2018-11-03,Barcelona,Spain,Green,11,28,Away,24,W,3,1,FL
+896,201819,2018-10-28,Barcelona,Spain,Dark Green,10,29,Home,21,W,8,1,FL
+897,201819,2018-10-20,Barcelona,Spain,Dark Green,9,30,Home,18,W,5,1,FL
+898,201819,2018-10-07,Barcelona,Spain,Red,8,31,Away,15,D,-1,1,FL
+899,201819,2018-09-29,Barcelona,Spain,Red,7,32,Home,14,D,-1,1,FL
+900,201819,2018-09-26,Barcelona,Spain,Yellow,6,33,Away,13,L,-2,1,FL
+901,201819,2018-09-23,Barcelona,Spain,Red,5,34,Home,13,D,-1,1,FL
+902,201819,2018-09-15,Barcelona,Spain,Green,4,35,Away,12,W,3,1,FL
+903,201819,2018-09-02,Barcelona,Spain,Dark Green,3,36,Home,9,W,7,1,FL
+904,201819,2018-08-25,Barcelona,Spain,Green,2,37,Away,6,W,2,1,FL
+905,201819,2018-08-18,Barcelona,Spain,Dark Green,1,38,Home,3,W,4,1,FL
+906,201819,2019-05-12,Chelsea,England,Grey,38,1,Away,72,D,-1,1,CA
+907,201819,2019-05-05,Chelsea,England,Dark Green,37,2,Home,71,W,4,1,CA
+908,201819,2019-04-28,Chelsea,England,Grey,36,3,Away,68,D,-1,1,CA
+909,201819,2019-04-22,Chelsea,England,Red,35,4,Home,67,D,-1,1,CA
+910,201819,2019-04-14,Chelsea,England,Red,34,5,Away,66,L,-1,1,CA
+911,201819,2019-04-08,Chelsea,England,Green,33,6,Home,66,W,3,1,CA
+912,201819,2019-04-03,Chelsea,England,Dark Green,32,7,Home,63,W,4,1,CA
+913,201819,2019-03-31,Chelsea,England,Green,31,8,Away,60,W,3,1,CA
+914,201819,2019-03-17,Chelsea,England,Red,30,9,Away,57,L,-2,1,CA
+915,201819,2019-03-10,Chelsea,England,Grey,29,10,Home,57,D,-1,1,CA
+916,201819,2019-03-03,Chelsea,England,Green,28,11,Away,56,W,3,1,CA
+917,201819,2019-02-27,Chelsea,England,Dark Green,27,12,Home,53,W,6,1,CA
+918,201819,2019-02-10,Chelsea,England,Yellow,26,13,Away,50,L,-3,1,CA
+919,201819,2019-02-02,Chelsea,England,Dark Green,25,14,Home,50,W,6,1,CA
+920,201819,2019-01-30,Chelsea,England,Red,24,15,Away,47,L,-2,1,CA
+921,201819,2019-01-19,Chelsea,England,Red,23,16,Away,47,L,-1,1,CA
+922,201819,2019-01-12,Chelsea,England,Green,22,17,Home,47,W,2,1,CA
+923,201819,2019-01-02,Chelsea,England,Red,21,18,Home,44,D,-2,1,CA
+924,201819,2018-12-30,Chelsea,England,Dark Green,20,19,Away,43,W,3,1,CA
+925,201819,2018-12-26,Chelsea,England,Dark Green,19,20,Away,40,W,3,1,CA
+926,201819,2018-12-22,Chelsea,England,Grey,18,21,Home,37,L,-1,1,CA
+927,201819,2018-12-16,Chelsea,England,Green,17,22,Away,37,W,3,1,CA
+928,201819,2018-12-08,Chelsea,England,Dark Green,16,23,Home,34,W,8,1,CA
+929,201819,2018-12-05,Chelsea,England,Red,15,24,Away,31,L,-2,1,CA
+930,201819,2018-12-02,Chelsea,England,Green,14,25,Home,31,W,2,1,CA
+931,201819,2018-11-24,Chelsea,England,Yellow,13,26,Away,28,L,-2,1,CA
+932,201819,2018-11-11,Chelsea,England,Red,12,27,Home,28,D,-1,1,CA
+933,201819,2018-11-04,Chelsea,England,Dark Green,11,28,Home,27,W,4,1,CA
+934,201819,2018-10-28,Chelsea,England,Dark Green,10,29,Away,24,W,4,1,CA
+935,201819,2018-10-20,Chelsea,England,Red,9,30,Home,21,D,-1,1,CA
+936,201819,2018-10-07,Chelsea,England,Dark Green,8,31,Away,20,W,3,1,CA
+937,201819,2018-09-29,Chelsea,England,Green,7,32,Home,17,D,2,1,CA
+938,201819,2018-09-23,Chelsea,England,Red,6,33,Away,16,D,-1,1,CA
+939,201819,2018-09-15,Chelsea,England,Dark Green,5,34,Home,15,W,5,1,CA
+940,201819,2018-09-01,Chelsea,England,Green,4,35,Home,12,W,3,1,CA
+941,201819,2018-08-26,Chelsea,England,Dark Green,3,36,Away,9,W,3,1,CA
+942,201819,2018-08-18,Chelsea,England,Dark Green,2,37,Home,6,W,5,1,CA
+943,201819,2018-08-11,Chelsea,England,Dark Green,1,38,Away,3,W,3,1,CA
+944,201920,2020-02-23,Arsenal,England,Dark Green,27,1,Home,37,W,6,1,CA
+945,201920,2020-02-16,Arsenal,England,Dark Green,26,2,Home,34,W,6,1,CA
+946,201920,2020-02-02,Arsenal,England,Grey,25,3,Away,31,D,-1,1,CA
+947,201920,2020-01-21,Arsenal,England,Green,24,4,Away,30,D,3,1,CA
+948,201920,2020-01-18,Arsenal,England,Green,23,5,Home,29,D,2,1,CA
+949,201920,2020-01-11,Arsenal,England,Green,22,6,Away,28,D,2,1,CA
+950,201920,2020-01-01,Arsenal,England,Dark Green,21,7,Home,27,W,6,1,CA
+951,201920,2019-12-29,Arsenal,England,Grey,20,8,Home,24,L,-1,1,CA
+952,201920,2019-12-26,Arsenal,England,Grey,19,9,Away,24,D,-1,1,CA
+953,201920,2019-12-21,Arsenal,England,Grey,18,10,Away,23,D,-1,1,CA
+954,201920,2019-12-15,Arsenal,England,Red,17,11,Home,22,L,-1,1,CA
+955,201920,2019-12-09,Arsenal,England,Dark Green,16,12,Away,22,W,3,1,CA
+956,201920,2019-12-05,Arsenal,England,Red,15,13,Home,19,L,-1,1,CA
+957,201920,2019-12-01,Arsenal,England,Grey,14,14,Away,19,D,-1,1,CA
+958,201920,2019-11-23,Arsenal,England,Red,13,15,Home,18,D,-1,1,CA
+959,201920,2019-11-09,Arsenal,England,Grey,12,16,Away,17,L,-1,1,CA
+960,201920,2019-11-02,Arsenal,England,Grey,11,17,Home,17,D,-1,1,CA
+961,201920,2019-10-27,Arsenal,England,Grey,10,18,Home,16,D,-1,1,CA
+962,201920,2019-10-21,Arsenal,England,Red,9,19,Away,15,L,-2,1,CA
+963,201920,2019-10-06,Arsenal,England,Green,8,20,Home,15,W,3,1,CA
+964,201920,2019-09-30,Arsenal,England,Grey,7,21,Away,12,D,-1,1,CA
+965,201920,2019-09-22,Arsenal,England,Dark Green,6,22,Home,11,W,4,1,CA
+966,201920,2019-09-15,Arsenal,England,Grey,5,23,Away,8,D,-1,1,CA
+967,201920,2019-09-01,Arsenal,England,Grey,4,24,Home,7,D,-1,1,CA
+968,201920,2019-08-24,Arsenal,England,Red,3,25,Away,6,L,-1,1,CA
+969,201920,2019-08-17,Arsenal,England,Green,2,26,Home,6,W,3,1,CA
+970,201920,2019-08-11,Arsenal,England,Dark Green,1,27,Away,3,W,3,1,CA
+971,200809,2008-10-19,Barcelona,Spain,Green,7,32,Away,16,W,3,1,FL
+972,200809,2008-10-04,Barcelona,Spain,Dark Green,6,33,Home,13,W,8,1,FL
+973,200809,2008-09-27,Barcelona,Spain,Dark Green,5,34,Away,10,W,3,1,FL
+974,200809,2008-09-24,Barcelona,Spain,Dark Green,4,35,Home,7,W,4,1,FL
+975,200809,2008-09-21,Barcelona,Spain,Dark Green,3,36,Away,4,W,7,1,FL
+976,200809,2008-09-13,Barcelona,Spain,Green,2,37,Home,1,D,1,1,FL
+977,200809,2008-08-31,Barcelona,Spain,Grey,1,38,Away,0,L,,1,FL
+978,200809,2009-05-24,Chelsea,England,Dark Green,38,1,Away,83,W,3,1,CA
+979,200809,2009-05-17,Chelsea,England,Green,37,2,Home,80,W,3,1,CA
+980,200809,2009-05-10,Chelsea,England,Dark Green,36,3,Away,77,W,7,1,CA
+981,200809,2009-05-02,Chelsea,England,Dark Green,35,4,Home,74,W,5,1,CA
+982,200809,2009-04-25,Chelsea,England,Dark Green,34,5,Away,71,W,3,1,CA
+983,200809,2009-04-22,Chelsea,England,Grey,33,6,Home,68,D,-1,1,CA
+984,200809,2009-04-11,Chelsea,England,Dark Green,32,7,Home,67,W,5,1,CA
+985,200809,2009-04-04,Chelsea,England,Dark Green,31,8,Away,64,W,3,1,CA
+986,200809,2009-03-21,Chelsea,England,Red,30,9,Away,61,L,-2,1,CA
+987,200809,2009-03-15,Chelsea,England,Green,29,10,Home,61,W,3,1,CA
+988,200809,2009-03-03,Chelsea,England,Green,28,11,Away,58,W,3,1,CA
+989,200809,2009-02-28,Chelsea,England,Green,27,12,Home,55,W,3,1,CA
+990,200809,2009-02-21,Chelsea,England,Dark Green,26,13,Away,52,W,4,1,CA
+991,200809,2009-02-07,Chelsea,England,Red,25,14,Home,49,D,-1,1,CA
+992,200809,2009-02-01,Chelsea,England,Red,24,15,Away,48,L,-1,1,CA
+993,200809,2009-01-28,Chelsea,England,Green,23,16,Home,48,W,2,1,CA
+994,200809,2009-01-17,Chelsea,England,Green,22,17,Home,45,W,2,1,CA
+995,200809,2009-01-11,Chelsea,England,Red,21,18,Away,42,L,-1,1,CA
+996,200809,2008-12-28,Chelsea,England,Red,20,19,Away,42,D,-1,1,CA
+997,200809,2008-12-26,Chelsea,England,Green,19,20,Home,41,W,2,1,CA
+998,200809,2008-12-22,Chelsea,England,Red,18,21,Away,38,D,-1,1,CA
+999,200809,2008-12-14,Chelsea,England,Red,17,22,Home,37,D,-1,1,CA
+1000,200809,2008-12-06,Chelsea,England,Green,16,23,Away,36,W,3,1,CA
+1001,200809,2008-11-30,Chelsea,England,Red,15,24,Home,33,L,-1,1,CA
+1002,200809,2008-11-22,Chelsea,England,Red,14,25,Home,33,D,-2,1,CA
+1003,200809,2008-11-15,Chelsea,England,Green,13,26,Away,32,W,3,1,CA
+1004,200809,2008-11-09,Chelsea,England,Green,12,27,Away,29,W,3,1,CA
+1005,200809,2008-11-01,Chelsea,England,Dark Green,11,28,Home,26,W,6,1,CA
+1006,200809,2008-10-29,Chelsea,England,Green,10,29,Away,23,W,3,1,CA
+1007,200809,2008-10-26,Chelsea,England,Red,9,30,Home,20,L,-1,1,CA
+1008,200809,2008-10-18,Chelsea,England,Dark Green,8,31,Away,20,W,6,1,CA
+1009,200809,2008-10-05,Chelsea,England,Green,7,32,Home,17,W,3,1,CA
+1010,200809,2008-09-27,Chelsea,England,Green,6,33,Away,14,W,3,1,CA
+1011,200809,2008-09-21,Chelsea,England,Red,5,34,Home,11,D,-2,1,CA
+1012,200809,2008-09-13,Chelsea,England,Dark Green,4,35,Away,10,W,3,1,CA
+1013,200809,2008-08-31,Chelsea,England,Yellow,3,36,Home,7,D,-5,1,CA
+1014,200809,2008-08-24,Chelsea,England,Green,2,37,Away,6,W,3,1,CA
+1015,200809,2008-08-17,Chelsea,England,Dark Green,1,38,Home,3,W,5,1,CA
+1016,200910,2010-05-09,Arsenal,England,Dark Green,38,1,Home,75,W,5,1,CA
+1017,200910,2010-05-03,Arsenal,England,Red,37,2,Away,72,L,-2,1,CA
+1018,200910,2010-04-24,Arsenal,England,Grey,36,3,Home,72,D,-1,1,CA
+1019,200910,2010-04-18,Arsenal,England,Red,35,4,Away,71,L,-2,1,CA
+1020,200910,2010-04-14,Arsenal,England,Red,34,5,Away,71,L,-1,1,CA
+1021,200910,2010-04-03,Arsenal,England,Green,33,6,Home,71,W,2,1,CA
+1022,200910,2010-03-27,Arsenal,England,Red,32,7,Away,68,D,-1,1,CA
+1023,200910,2010-03-20,Arsenal,England,Green,31,8,Home,67,W,2,1,CA
+1024,200910,2010-03-13,Arsenal,England,Green,30,9,Away,64,W,3,1,CA
+1025,200910,2010-03-06,Arsenal,England,Dark Green,29,10,Home,61,W,4,1,CA
+1026,200910,2010-02-27,Arsenal,England,Dark Green,28,11,Away,58,W,3,1,CA
+1027,200910,2010-02-20,Arsenal,England,Green,27,12,Home,55,W,2,1,CA
+1028,200910,2010-02-10,Arsenal,England,Dark Green,26,13,Home,52,W,4,1,CA
+1029,200910,2010-02-07,Arsenal,England,Red,25,14,Away,49,L,-1,1,CA
+1030,200910,2010-01-31,Arsenal,England,Yellow,24,15,Home,49,L,-2,1,CA
+1031,200910,2010-01-27,Arsenal,England,Grey,23,16,Away,49,D,-1,1,CA
+1032,200910,2010-01-20,Arsenal,England,Dark Green,22,17,Home,48,W,5,1,CA
+1033,200910,2010-01-17,Arsenal,England,Green,21,18,Away,45,W,3,1,CA
+1034,200910,2010-01-09,Arsenal,England,Red,20,19,Home,42,D,-1,1,CA
+1035,200910,2009-12-30,Arsenal,England,Dark Green,19,20,Away,41,W,5,1,CA
+1036,200910,2009-12-27,Arsenal,England,Dark Green,18,21,Home,38,W,5,1,CA
+1037,200910,2009-12-19,Arsenal,England,Dark Green,17,22,Home,35,W,4,1,CA
+1038,200910,2009-12-16,Arsenal,England,Red,16,23,Away,32,D,-1,1,CA
+1039,200910,2009-12-13,Arsenal,England,Dark Green,15,24,Away,31,W,5,1,CA
+1040,200910,2009-12-05,Arsenal,England,Green,14,25,Home,28,W,3,1,CA
+1041,200910,2009-11-29,Arsenal,England,Red,13,26,Home,25,L,-2,1,CA
+1042,200910,2009-11-21,Arsenal,England,Red,12,27,Away,25,L,-2,1,CA
+1043,200910,2009-11-07,Arsenal,England,Dark Green,11,28,Away,25,W,4,1,CA
+1044,200910,2009-10-31,Arsenal,England,Dark Green,10,29,Home,22,W,5,1,CA
+1045,200910,2009-10-25,Arsenal,England,Red,9,30,Away,19,D,-1,1,CA
+1046,200910,2009-10-17,Arsenal,England,Dark Green,8,31,Home,18,W,4,1,CA
+1047,200910,2009-10-04,Arsenal,England,Dark Green,7,32,Home,15,W,6,1,CA
+1048,200910,2009-09-26,Arsenal,England,Green,6,33,Away,12,W,3,1,CA
+1049,200910,2009-09-19,Arsenal,England,Dark Green,5,34,Home,9,W,5,1,CA
+1050,200910,2009-09-12,Arsenal,England,Red,4,35,Away,6,L,-1,1,CA
+1051,200910,2009-08-29,Arsenal,England,Grey,3,36,Away,6,L,-1,1,CA
+1052,200910,2009-08-22,Arsenal,England,Dark Green,2,37,Home,6,W,5,1,CA
+1053,200910,2009-08-15,Arsenal,England,Dark Green,1,38,Away,3,W,9,1,CA
+1054,200910,2010-05-09,Chelsea,England,Dark Green,38,1,Home,86,W,7,1,CA
+1055,200910,2010-05-02,Chelsea,England,Dark Green,37,2,Away,83,W,3,1,CA
+1056,200910,2010-04-25,Chelsea,England,Dark Green,36,3,Home,80,W,7,1,CA
+1057,200910,2010-04-17,Chelsea,England,Red,35,4,Away,77,L,-2,1,CA
+1058,200910,2010-04-13,Chelsea,England,Green,34,5,Home,77,W,2,1,CA
+1059,200910,2010-04-03,Chelsea,England,Dark Green,33,6,Away,74,W,4,1,CA
+1060,200910,2010-03-27,Chelsea,England,Dark Green,32,7,Home,71,W,8,1,CA
+1061,200910,2010-03-24,Chelsea,England,Dark Green,31,8,Away,68,W,5,1,CA
+1062,200910,2010-03-21,Chelsea,England,Red,30,9,Away,65,D,-1,1,CA
+1063,200910,2010-03-13,Chelsea,England,Dark Green,29,10,Home,64,W,5,1,CA
+1064,200910,2010-02-27,Chelsea,England,Grey,28,11,Home,61,L,-1,1,CA
+1065,200910,2010-02-20,Chelsea,England,Green,27,12,Away,61,W,3,1,CA
+1066,200910,2010-02-10,Chelsea,England,Red,26,13,Away,58,L,-2,1,CA
+1067,200910,2010-02-07,Chelsea,England,Dark Green,25,14,Home,58,W,3,1,CA
+1068,200910,2010-02-02,Chelsea,England,Red,24,15,Away,55,D,-2,1,CA
+1069,200910,2010-01-30,Chelsea,England,Green,23,16,Away,54,W,3,1,CA
+1070,200910,2010-01-27,Chelsea,England,Dark Green,22,17,Home,51,W,4,1,CA
+1071,200910,2010-01-16,Chelsea,England,Dark Green,21,18,Home,48,W,7,1,CA
+1072,200910,2009-12-28,Chelsea,England,Green,20,19,Home,45,W,3,1,CA
+1073,200910,2009-12-26,Chelsea,England,Red,19,20,Away,42,D,-1,1,CA
+1074,200910,2009-12-20,Chelsea,England,Red,18,21,Away,41,D,-1,1,CA
+1075,200910,2009-12-16,Chelsea,England,Green,17,22,Home,40,W,2,1,CA
+1076,200910,2009-12-12,Chelsea,England,Yellow,16,23,Home,37,D,-2,1,CA
+1077,200910,2009-12-05,Chelsea,England,Red,15,24,Away,36,L,-2,1,CA
+1078,200910,2009-11-29,Chelsea,England,Dark Green,14,25,Away,36,W,4,1,CA
+1079,200910,2009-11-21,Chelsea,England,Dark Green,13,26,Home,33,W,5,1,CA
+1080,200910,2009-11-08,Chelsea,England,Dark Green,12,27,Home,30,W,3,1,CA
+1081,200910,2009-10-31,Chelsea,England,Dark Green,11,28,Away,27,W,4,1,CA
+1082,200910,2009-10-24,Chelsea,England,Dark Green,10,29,Home,24,W,6,1,CA
+1083,200910,2009-10-17,Chelsea,England,Red,9,30,Away,21,L,-2,1,CA
+1084,200910,2009-10-04,Chelsea,England,Dark Green,8,31,Home,21,W,4,1,CA
+1085,200910,2009-09-26,Chelsea,England,Yellow,7,32,Away,18,L,-2,1,CA
+1086,200910,2009-09-20,Chelsea,England,Dark Green,6,33,Home,18,W,4,1,CA
+1087,200910,2009-09-12,Chelsea,England,Green,5,34,Away,15,W,3,1,CA
+1088,200910,2009-08-29,Chelsea,England,Dark Green,4,35,Home,12,W,4,1,CA
+1089,200910,2009-08-23,Chelsea,England,Green,3,36,Away,9,W,3,1,CA
+1090,200910,2009-08-18,Chelsea,England,Green,2,37,Away,6,W,3,1,CA
+1091,200910,2009-08-15,Chelsea,England,Green,1,38,Home,3,W,2,1,CA
+1092,200910,2010-05-15,Sevilla,Spain,Green,38,1,Away,63,W,3,1,FL
+1093,200910,2010-05-08,Sevilla,Spain,Red,37,2,Home,60,L,-1,1,FL
+1094,200910,2010-05-05,Sevilla,Spain,Dark Green,36,3,Away,60,W,7,1,FL
+1095,200910,2010-05-02,Sevilla,Spain,Dark Green,35,4,Home,57,W,4,1,FL
+1096,200910,2010-04-25,Sevilla,Spain,Red,34,5,Away,54,L,-1,1,FL
+1097,200910,2010-04-17,Sevilla,Spain,Dark Green,33,6,Home,54,W,4,1,FL
+1098,200910,2010-04-13,Sevilla,Spain,Red,32,7,Away,51,L,-2,1,FL
+1099,200910,2010-04-10,Sevilla,Spain,Dark Green,31,8,Away,51,W,4,1,FL
+1100,200910,2010-04-03,Sevilla,Spain,Dark Green,30,9,Home,48,W,4,1,FL
+1101,200910,2010-03-28,Sevilla,Spain,Red,29,10,Away,45,L,-1,1,FL
+1102,200910,2010-03-23,Sevilla,Spain,Red,28,11,Home,45,D,-2,1,FL
+1103,200910,2010-03-20,Sevilla,Spain,Red,27,12,Away,44,L,-1,1,FL
+1104,200910,2010-03-13,Sevilla,Spain,Grey,26,13,Home,44,D,-1,1,FL
+1105,200910,2010-03-06,Sevilla,Spain,Red,25,14,Away,43,L,-2,1,FL
+1106,200910,2010-02-28,Sevilla,Spain,Grey,24,15,Home,43,D,-1,1,FL
+1107,200910,2010-02-20,Sevilla,Spain,Dark Green,23,16,Away,42,W,4,1,FL
+1108,200910,2010-02-14,Sevilla,Spain,Dark Green,22,17,Home,39,W,3,1,FL
+1109,200910,2010-02-07,Sevilla,Spain,Red,21,18,Away,36,L,-2,1,FL
+1110,200910,2010-01-31,Sevilla,Spain,Dark Green,20,19,Home,36,W,6,1,FL
+1111,200910,2010-01-23,Sevilla,Spain,Green,19,20,Home,33,W,3,1,FL
+1112,200910,2010-01-16,Sevilla,Spain,Red,18,21,Away,30,L,-2,1,FL
+1113,200910,2010-01-09,Sevilla,Spain,Grey,17,22,Home,30,L,-1,1,FL
+1114,200910,2010-01-02,Sevilla,Spain,Red,16,23,Away,30,L,-1,1,FL
+1115,200910,2009-12-19,Sevilla,Spain,Red,15,24,Home,30,L,-1,1,FL
+1116,200910,2009-12-13,Sevilla,Spain,Dark Green,14,25,Away,30,W,4,1,FL
+1117,200910,2009-12-05,Sevilla,Spain,Red,13,26,Home,27,D,-2,1,FL
+1118,200910,2009-11-28,Sevilla,Spain,Yellow,12,27,Home,26,D,-3,1,FL
+1119,200910,2009-11-21,Sevilla,Spain,Dark Green,11,28,Away,25,W,3,1,FL
+1120,200910,2009-11-08,Sevilla,Spain,Dark Green,10,29,Home,22,W,5,1,FL
+1121,200910,2009-10-31,Sevilla,Spain,Green,9,30,Away,19,W,3,1,FL
+1122,200910,2009-10-24,Sevilla,Spain,Grey,8,31,Home,16,D,-1,1,FL
+1123,200910,2009-10-17,Sevilla,Spain,Red,7,32,Away,15,L,-2,1,FL
+1124,200910,2009-10-04,Sevilla,Spain,Dark Green,6,33,Home,15,W,5,1,FL
+1125,200910,2009-09-26,Sevilla,Spain,Dark Green,5,34,Away,12,W,6,1,FL
+1126,200910,2009-09-22,Sevilla,Spain,Green,4,35,Home,9,W,3,1,FL
+1127,200910,2009-09-19,Sevilla,Spain,Dark Green,3,36,Away,6,W,4,1,FL
+1128,200910,2009-09-12,Sevilla,Spain,Dark Green,2,37,Home,3,W,6,1,FL
+1129,200910,2009-08-30,Sevilla,Spain,Grey,1,38,Away,0,L,,1,FL
+1130,201011,2011-05-21,Sevilla,Spain,Dark Green,38,1,Away,58,W,4,1,FL
+1131,201011,2011-05-15,Sevilla,Spain,Dark Green,37,2,Home,55,W,5,1,FL
+1132,201011,2011-05-11,Sevilla,Spain,Red,36,3,Away,52,L,-1,1,FL
+1133,201011,2011-05-07,Sevilla,Spain,Yellow,35,4,Home,52,L,-2,1,FL
+1134,201011,2011-05-01,Sevilla,Spain,Dark Green,34,5,Away,52,W,3,1,FL
+1135,201011,2011-04-24,Sevilla,Spain,Dark Green,33,6,Home,49,W,7,1,FL
+1136,201011,2011-04-16,Sevilla,Spain,Red,32,7,Away,46,L,-1,1,FL
+1137,201011,2011-04-09,Sevilla,Spain,Grey,31,8,Away,46,D,-1,1,FL
+1138,201011,2011-04-03,Sevilla,Spain,Dark Green,30,9,Home,45,W,5,1,FL
+1139,201011,2011-03-20,Sevilla,Spain,Dark Green,29,10,Away,42,W,8,1,FL
+1140,201011,2011-03-13,Sevilla,Spain,Dark Green,28,11,Home,39,D,3,1,FL
+1141,201011,2011-03-06,Sevilla,Spain,Red,27,12,Away,38,L,-1,1,FL
+1142,201011,2011-03-01,Sevilla,Spain,Dark Green,26,13,Home,38,W,5,1,FL
+1143,201011,2011-02-26,Sevilla,Spain,Grey,25,14,Away,35,D,-1,1,FL
+1144,201011,2011-02-20,Sevilla,Spain,Dark Green,24,15,Home,34,W,3,1,FL
+1145,201011,2011-02-12,Sevilla,Spain,Red,23,16,Away,31,L,-1,1,FL
+1146,201011,2011-02-06,Sevilla,Spain,Red,22,17,Home,31,D,-1,1,FL
+1147,201011,2011-01-29,Sevilla,Spain,Red,21,18,Away,30,D,-1,1,FL
+1148,201011,2011-01-22,Sevilla,Spain,Dark Green,20,19,Home,29,W,6,1,FL
+1149,201011,2011-01-15,Sevilla,Spain,Red,19,20,Home,26,L,-1,1,FL
+1150,201011,2011-01-08,Sevilla,Spain,Dark Green,18,21,Away,26,W,4,1,FL
+1151,201011,2011-01-02,Sevilla,Spain,Dark Green,17,22,Home,23,W,3,1,FL
+1152,201011,2010-12-19,Sevilla,Spain,Grey,16,23,Away,20,L,-1,1,FL
+1153,201011,2010-12-11,Sevilla,Spain,Grey,15,24,Home,20,L,-1,1,FL
+1154,201011,2010-12-05,Sevilla,Spain,Grey,14,25,Away,20,L,-1,1,FL
+1155,201011,2010-11-27,Sevilla,Spain,Red,13,26,Home,20,L,-1,1,FL
+1156,201011,2010-11-21,Sevilla,Spain,Red,12,27,Home,20,L,-1,1,FL
+1157,201011,2010-11-14,Sevilla,Spain,Dark Green,11,28,Away,20,W,4,1,FL
+1158,201011,2010-11-08,Sevilla,Spain,Dark Green,10,29,Home,17,W,4,1,FL
+1159,201011,2010-10-30,Sevilla,Spain,Yellow,9,30,Away,14,L,-2,1,FL
+1160,201011,2010-10-24,Sevilla,Spain,Dark Green,8,31,Home,14,W,6,1,FL
+1161,201011,2010-10-17,Sevilla,Spain,Red,7,32,Away,11,L,-2,1,FL
+1162,201011,2010-10-03,Sevilla,Spain,Dark Green,6,33,Home,11,W,6,1,FL
+1163,201011,2010-09-26,Sevilla,Spain,Red,5,34,Away,8,L,-2,1,FL
+1164,201011,2010-09-23,Sevilla,Spain,Red,4,35,Home,8,D,-1,1,FL
+1165,201011,2010-09-19,Sevilla,Spain,Dark Green,3,36,Away,7,W,4,1,FL
+1166,201011,2010-09-12,Sevilla,Spain,Red,2,37,Home,4,D,-1,1,FL
+1167,201011,2010-08-28,Sevilla,Spain,Dark Green,1,38,Away,3,W,6,1,FL
+1168,201112,2012-05-13,Arsenal,England,Dark Green,38,1,Away,70,W,3,1,CA
+1169,201112,2012-05-05,Arsenal,England,Red,37,2,Home,67,D,-2,1,CA
+1170,201112,2012-04-28,Arsenal,England,Red,36,3,Away,66,D,-1,1,CA
+1171,201112,2012-04-21,Arsenal,England,Grey,35,4,Home,65,D,-1,1,CA
+1172,201112,2012-04-16,Arsenal,England,Grey,34,5,Home,64,L,-1,1,CA
+1173,201112,2012-04-11,Arsenal,England,Green,33,6,Away,64,W,3,1,CA
+1174,201112,2012-04-08,Arsenal,England,Dark Green,32,7,Home,61,W,6,1,CA
+1175,201112,2012-03-31,Arsenal,England,Red,31,8,Away,58,L,-2,1,CA
+1176,201112,2012-03-24,Arsenal,England,Dark Green,30,9,Home,58,W,4,1,CA
+1177,201112,2012-03-21,Arsenal,England,Dark Green,29,10,Away,55,W,4,1,CA
+1178,201112,2012-03-12,Arsenal,England,Green,28,11,Home,52,W,3,1,CA
+1179,201112,2012-03-03,Arsenal,England,Dark Green,27,12,Away,49,W,5,1,CA
+1180,201112,2012-02-26,Arsenal,England,Dark Green,26,13,Home,46,W,10,1,CA
+1181,201112,2012-02-11,Arsenal,England,Dark Green,25,14,Away,43,W,4,1,CA
+1182,201112,2012-02-04,Arsenal,England,Dark Green,24,15,Home,40,W,7,1,CA
+1183,201112,2012-02-01,Arsenal,England,Red,23,16,Away,37,D,-1,1,CA
+1184,201112,2012-01-22,Arsenal,England,Grey,22,17,Home,36,L,-1,1,CA
+1185,201112,2012-01-15,Arsenal,England,Red,21,18,Away,36,L,-2,1,CA
+1186,201112,2012-01-02,Arsenal,England,Red,20,19,Away,36,L,-2,1,CA
+1187,201112,2011-12-31,Arsenal,England,Green,19,20,Home,36,W,3,1,CA
+1188,201112,2011-12-27,Arsenal,England,Red,18,21,Home,33,D,-1,1,CA
+1189,201112,2011-12-21,Arsenal,England,Dark Green,17,22,Away,32,W,3,1,CA
+1190,201112,2011-12-18,Arsenal,England,Grey,16,23,Away,29,L,-1,1,CA
+1191,201112,2011-12-10,Arsenal,England,Green,15,24,Home,29,W,3,1,CA
+1192,201112,2011-12-03,Arsenal,England,Dark Green,14,25,Away,26,W,5,1,CA
+1193,201112,2011-11-26,Arsenal,England,Red,13,26,Home,23,D,-1,1,CA
+1194,201112,2011-11-19,Arsenal,England,Dark Green,12,27,Away,22,W,3,1,CA
+1195,201112,2011-11-05,Arsenal,England,Dark Green,11,28,Home,19,W,4,1,CA
+1196,201112,2011-10-29,Arsenal,England,Dark Green,10,29,Away,16,W,15,1,CA
+1197,201112,2011-10-23,Arsenal,England,Dark Green,9,30,Home,13,W,5,1,CA
+1198,201112,2011-10-16,Arsenal,England,Green,8,31,Home,10,W,3,1,CA
+1199,201112,2011-10-02,Arsenal,England,Grey,7,32,Away,7,L,-1,1,CA
+1200,201112,2011-09-24,Arsenal,England,Dark Green,6,33,Home,7,W,5,1,CA
+1201,201112,2011-09-17,Arsenal,England,Red,5,34,Away,4,L,-2,1,CA
+1202,201112,2011-09-10,Arsenal,England,Green,4,35,Home,4,W,3,1,CA
+1203,201112,2011-08-28,Arsenal,England,Grey,3,36,Away,1,L,0,1,CA
+1204,201112,2011-08-20,Arsenal,England,Grey,2,37,Home,1,L,0,1,CA
+1205,201112,2011-08-13,Arsenal,England,Grey,1,38,Away,1,D,-1,1,CA
+1206,201213,2013-06-01,Barcelona,Spain,Dark Green,38,1,Home,100,W,5,1,FL
+1207,201213,2013-05-26,Barcelona,Spain,Dark Green,37,2,Away,97,W,3,1,FL
+1208,201213,2013-05-19,Barcelona,Spain,Green,36,3,Home,94,W,3,1,FL
+1209,201213,2013-05-12,Barcelona,Spain,Dark Green,35,4,Away,91,W,3,1,FL
+1210,201213,2013-05-05,Barcelona,Spain,Dark Green,34,5,Home,88,W,5,1,FL
+1211,201213,2013-04-27,Barcelona,Spain,Red,33,6,Away,85,D,-1,1,FL
+1212,201213,2013-04-20,Barcelona,Spain,Green,32,7,Home,84,W,2,1,FL
+1213,201213,2013-04-14,Barcelona,Spain,Green,31,8,Away,81,W,3,1,FL
+1214,201213,2013-04-06,Barcelona,Spain,Dark Green,30,9,Home,78,W,6,1,FL
+1215,201213,2013-03-30,Barcelona,Spain,Red,29,10,Away,75,D,-1,1,FL
+1216,201213,2013-03-17,Barcelona,Spain,Dark Green,28,11,Home,74,W,4,1,FL
+1217,201213,2013-03-09,Barcelona,Spain,Green,27,12,Home,71,W,2,1,FL
+1218,201213,2013-03-02,Barcelona,Spain,Red,26,13,Away,68,L,-1,1,FL
+1219,201213,2013-02-23,Barcelona,Spain,Green,25,14,Home,68,W,2,1,FL
+1220,201213,2013-02-16,Barcelona,Spain,Green,24,15,Away,65,W,3,1,FL
+1221,201213,2013-02-10,Barcelona,Spain,Dark Green,23,16,Home,62,W,6,1,FL
+1222,201213,2013-02-03,Barcelona,Spain,Red,22,17,Away,59,D,-1,1,FL
+1223,201213,2013-01-27,Barcelona,Spain,Dark Green,21,18,Home,58,W,5,1,FL
+1224,201213,2013-01-19,Barcelona,Spain,Yellow,20,19,Away,55,L,-2,1,FL
+1225,201213,2013-01-13,Barcelona,Spain,Green,19,20,Away,55,W,3,1,FL
+1226,201213,2013-01-06,Barcelona,Spain,Dark Green,18,21,Home,52,W,5,1,FL
+1227,201213,2012-12-22,Barcelona,Spain,Green,17,22,Away,49,W,3,1,FL
+1228,201213,2012-12-16,Barcelona,Spain,Dark Green,16,23,Home,46,W,5,1,FL
+1229,201213,2012-12-09,Barcelona,Spain,Green,15,24,Away,43,W,3,1,FL
+1230,201213,2012-12-01,Barcelona,Spain,Dark Green,14,25,Home,40,W,5,1,FL
+1231,201213,2012-11-25,Barcelona,Spain,Dark Green,13,26,Away,37,W,4,1,FL
+1232,201213,2012-11-17,Barcelona,Spain,Dark Green,12,27,Home,34,W,4,1,FL
+1233,201213,2012-11-11,Barcelona,Spain,Dark Green,11,28,Away,31,W,4,1,FL
+1234,201213,2012-11-03,Barcelona,Spain,Dark Green,10,29,Home,28,W,4,1,FL
+1235,201213,2012-10-27,Barcelona,Spain,Dark Green,9,30,Away,25,W,5,1,FL
+1236,201213,2012-10-20,Barcelona,Spain,Dark Green,8,31,Away,22,W,5,1,FL
+1237,201213,2012-10-07,Barcelona,Spain,Red,7,32,Home,19,D,-1,1,FL
+1238,201213,2012-09-29,Barcelona,Spain,Green,6,33,Away,18,W,3,1,FL
+1239,201213,2012-09-22,Barcelona,Spain,Green,5,34,Home,15,W,2,1,FL
+1240,201213,2012-09-15,Barcelona,Spain,Dark Green,4,35,Away,12,W,4,1,FL
+1241,201213,2012-09-02,Barcelona,Spain,Green,3,36,Home,9,W,2,1,FL
+1242,201213,2012-08-26,Barcelona,Spain,Green,2,37,Away,6,W,2,1,FL
+1243,201213,2012-08-19,Barcelona,Spain,Dark Green,1,38,Home,3,W,5,1,FL
+1244,201213,2013-06-01,Sevilla,Spain,Dark Green,38,1,Home,50,W,11,1,FL
+1245,201213,2013-05-26,Sevilla,Spain,Red,37,2,Away,47,L,-1,1,FL
+1246,201213,2013-05-18,Sevilla,Spain,Red,36,3,Home,47,L,-1,1,FL
+1247,201213,2013-05-12,Sevilla,Spain,Green,35,4,Away,47,D,2,1,FL
+1248,201213,2013-05-05,Sevilla,Spain,Dark Green,34,5,Home,46,W,5,1,FL
+1249,201213,2013-04-28,Sevilla,Spain,Grey,33,6,Away,43,D,-1,1,FL
+1250,201213,2013-04-21,Sevilla,Spain,Grey,32,7,Home,42,L,-1,1,FL
+1251,201213,2013-04-12,Sevilla,Spain,Green,31,8,Away,42,D,3,1,FL
+1252,201213,2013-04-08,Sevilla,Spain,Dark Green,30,9,Home,41,W,3,1,FL
+1253,201213,2013-03-30,Sevilla,Spain,Red,29,10,Away,38,L,-1,1,FL
+1254,201213,2013-03-17,Sevilla,Spain,Dark Green,28,11,Home,38,W,6,1,FL
+1255,201213,2013-03-09,Sevilla,Spain,Red,27,12,Away,35,L,-1,1,FL
+1256,201213,2013-03-04,Sevilla,Spain,Dark Green,26,13,Home,35,W,6,1,FL
+1257,201213,2013-02-23,Sevilla,Spain,Grey,25,14,Away,32,L,-1,1,FL
+1258,201213,2013-02-15,Sevilla,Spain,Dark Green,24,15,Home,32,W,4,1,FL
+1259,201213,2013-02-09,Sevilla,Spain,Red,23,16,Away,29,L,-2,1,FL
+1260,201213,2013-02-03,Sevilla,Spain,Dark Green,22,17,Home,29,W,5,1,FL
+1261,201213,2013-01-28,Sevilla,Spain,Dark Green,21,18,Home,26,W,4,1,FL
+1262,201213,2013-01-19,Sevilla,Spain,Green,20,19,Away,23,D,2,1,FL
+1263,201213,2013-01-12,Sevilla,Spain,Red,19,20,Away,22,L,-1,1,FL
+1264,201213,2013-01-05,Sevilla,Spain,Dark Green,18,21,Home,22,W,3,1,FL
+1265,201213,2012-12-20,Sevilla,Spain,Red,17,22,Away,19,L,-1,1,FL
+1266,201213,2012-12-15,Sevilla,Spain,Grey,16,23,Home,19,L,-1,1,FL
+1267,201213,2012-12-07,Sevilla,Spain,Grey,15,24,Away,19,D,-1,1,FL
+1268,201213,2012-12-03,Sevilla,Spain,Red,14,25,Home,18,L,-1,1,FL
+1269,201213,2012-11-25,Sevilla,Spain,Red,13,26,Away,18,L,-1,1,FL
+1270,201213,2012-11-18,Sevilla,Spain,Dark Green,12,27,Home,18,W,8,1,FL
+1271,201213,2012-11-11,Sevilla,Spain,Red,11,28,Away,15,L,-1,1,FL
+1272,201213,2012-11-04,Sevilla,Spain,Green,10,29,Home,15,D,2,1,FL
+1273,201213,2012-10-28,Sevilla,Spain,Red,9,30,Away,14,L,-1,1,FL
+1274,201213,2012-10-22,Sevilla,Spain,Dark Green,8,31,Home,14,W,5,1,FL
+1275,201213,2012-10-05,Sevilla,Spain,Red,7,32,Away,11,L,-1,1,FL
+1276,201213,2012-09-29,Sevilla,Spain,Red,6,33,Home,11,L,-1,1,FL
+1277,201213,2012-09-24,Sevilla,Spain,Dark Green,5,34,Away,11,W,4,1,FL
+1278,201213,2012-09-15,Sevilla,Spain,Dark Green,4,35,Home,8,W,6,1,FL
+1279,201213,2012-09-02,Sevilla,Spain,Green,3,36,Away,5,D,2,1,FL
+1280,201213,2012-08-26,Sevilla,Spain,Grey,2,37,Away,4,D,-1,1,FL
+1281,201213,2012-08-18,Sevilla,Spain,Dark Green,1,38,Home,3,W,3,1,FL
+1282,201314,2014-05-17,Barcelona,Spain,Green,38,1,Home,87,D,2,1,FL
+1283,201314,2014-05-11,Barcelona,Spain,Red,37,2,Away,86,D,-2,1,FL
+1284,201314,2014-05-03,Barcelona,Spain,Red,36,3,Home,85,D,-2,1,FL
+1285,201314,2014-04-27,Barcelona,Spain,Green,35,4,Away,84,W,3,1,FL
+1286,201314,2014-04-20,Barcelona,Spain,Green,34,5,Home,81,W,3,1,FL
+1287,201314,2014-04-12,Barcelona,Spain,Yellow,33,6,Away,78,L,-2,1,FL
+1288,201314,2014-04-05,Barcelona,Spain,Dark Green,32,7,Home,78,W,3,1,FL
+1289,201314,2014-03-29,Barcelona,Spain,Green,31,8,Away,75,W,3,1,FL
+1290,201314,2014-03-26,Barcelona,Spain,Dark Green,30,9,Home,72,W,3,1,FL
+1291,201314,2014-03-23,Barcelona,Spain,Dark Green,29,10,Away,69,W,10,1,FL
+1292,201314,2014-03-16,Barcelona,Spain,Dark Green,28,11,Home,66,W,6,1,FL
+1293,201314,2014-03-08,Barcelona,Spain,Yellow,27,12,Away,63,L,-2,1,FL
+1294,201314,2014-03-02,Barcelona,Spain,Dark Green,26,13,Home,63,W,4,1,FL
+1295,201314,2014-02-22,Barcelona,Spain,Yellow,25,14,Away,60,L,-2,1,FL
+1296,201314,2014-02-15,Barcelona,Spain,Dark Green,24,15,Home,60,W,6,1,FL
+1297,201314,2014-02-09,Barcelona,Spain,Dark Green,23,16,Away,57,W,5,1,FL
+1298,201314,2014-02-01,Barcelona,Spain,Grey,22,17,Home,54,L,-1,1,FL
+1299,201314,2014-01-26,Barcelona,Spain,Dark Green,21,18,Home,54,W,4,1,FL
+1300,201314,2014-01-19,Barcelona,Spain,Red,20,19,Away,51,D,-2,1,FL
+1301,201314,2014-01-11,Barcelona,Spain,Grey,19,20,Away,50,D,-1,1,FL
+1302,201314,2014-01-05,Barcelona,Spain,Dark Green,18,21,Home,49,W,5,1,FL
+1303,201314,2013-12-22,Barcelona,Spain,Dark Green,17,22,Away,46,W,6,1,FL
+1304,201314,2013-12-14,Barcelona,Spain,Green,16,23,Home,43,W,3,1,FL
+1305,201314,2013-12-01,Barcelona,Spain,Red,15,24,Away,40,L,-2,1,FL
+1306,201314,2013-11-23,Barcelona,Spain,Dark Green,14,25,Home,40,W,5,1,FL
+1307,201314,2013-11-10,Barcelona,Spain,Dark Green,13,26,Away,37,W,4,1,FL
+1308,201314,2013-11-01,Barcelona,Spain,Green,12,27,Home,34,W,2,1,FL
+1309,201314,2013-10-29,Barcelona,Spain,Green,11,28,Away,31,W,3,1,FL
+1310,201314,2013-10-26,Barcelona,Spain,Dark Green,10,29,Home,28,W,3,1,FL
+1311,201314,2013-10-19,Barcelona,Spain,Red,9,30,Away,25,D,-2,1,FL
+1312,201314,2013-10-05,Barcelona,Spain,Dark Green,8,31,Home,24,W,5,1,FL
+1313,201314,2013-09-28,Barcelona,Spain,Green,7,32,Away,21,W,2,1,FL
+1314,201314,2013-09-24,Barcelona,Spain,Dark Green,6,33,Home,18,W,5,1,FL
+1315,201314,2013-09-21,Barcelona,Spain,Dark Green,5,34,Away,15,W,4,1,FL
+1316,201314,2013-09-14,Barcelona,Spain,Dark Green,4,35,Home,12,W,4,1,FL
+1317,201314,2013-09-01,Barcelona,Spain,Green,3,36,Away,9,W,3,1,FL
+1318,201314,2013-08-25,Barcelona,Spain,Green,2,37,Away,6,W,2,1,FL
+1319,201314,2013-08-18,Barcelona,Spain,Dark Green,1,38,Home,3,W,6,1,FL
+1320,201314,2014-05-11,Chelsea,England,Green,38,1,Away,82,W,3,1,CA
+1321,201314,2014-05-04,Chelsea,England,Red,37,2,Home,79,D,-2,1,CA
+1322,201314,2014-04-27,Chelsea,England,Dark Green,36,3,Away,78,W,9,1,CA
+1323,201314,2014-04-19,Chelsea,England,Grey,35,4,Home,75,L,-1,1,CA
+1324,201314,2014-04-13,Chelsea,England,Dark Green,34,5,Away,75,W,3,1,CA
+1325,201314,2014-04-05,Chelsea,England,Dark Green,33,6,Home,72,W,4,1,CA
+1326,201314,2014-03-29,Chelsea,England,Yellow,32,7,Away,69,L,-2,1,CA
+1327,201314,2014-03-22,Chelsea,England,Dark Green,31,8,Home,69,W,9,1,CA
+1328,201314,2014-03-15,Chelsea,England,Yellow,30,9,Away,66,L,-2,1,CA
+1329,201314,2014-03-08,Chelsea,England,Dark Green,29,10,Home,66,W,6,1,CA
+1330,201314,2014-03-01,Chelsea,England,Green,28,11,Away,63,W,3,1,CA
+1331,201314,2014-02-22,Chelsea,England,Green,27,12,Home,60,W,3,1,CA
+1332,201314,2014-02-11,Chelsea,England,Red,26,13,Away,57,D,-1,1,CA
+1333,201314,2014-02-08,Chelsea,England,Dark Green,25,14,Home,56,W,4,1,CA
+1334,201314,2014-02-03,Chelsea,England,Dark Green,24,15,Away,53,W,5,1,CA
+1335,201314,2014-01-29,Chelsea,England,Red,23,16,Home,50,D,-2,1,CA
+1336,201314,2014-01-19,Chelsea,England,Dark Green,22,17,Home,49,W,5,1,CA
+1337,201314,2014-01-11,Chelsea,England,Dark Green,21,18,Away,46,W,3,1,CA
+1338,201314,2014-01-01,Chelsea,England,Dark Green,20,19,Away,43,W,4,1,CA
+1339,201314,2013-12-29,Chelsea,England,Dark Green,19,20,Home,40,W,4,1,CA
+1340,201314,2013-12-26,Chelsea,England,Green,18,21,Home,37,W,3,1,CA
+1341,201314,2013-12-23,Chelsea,England,Green,17,22,Away,34,D,2,1,CA
+1342,201314,2013-12-14,Chelsea,England,Green,16,23,Home,33,W,2,1,CA
+1343,201314,2013-12-07,Chelsea,England,Red,15,24,Away,30,L,-2,1,CA
+1344,201314,2013-12-04,Chelsea,England,Dark Green,14,25,Away,30,W,5,1,CA
+1345,201314,2013-12-01,Chelsea,England,Dark Green,13,26,Home,27,W,5,1,CA
+1346,201314,2013-11-23,Chelsea,England,Dark Green,12,27,Away,24,W,3,1,CA
+1347,201314,2013-11-09,Chelsea,England,Red,11,28,Home,21,D,-1,1,CA
+1348,201314,2013-11-02,Chelsea,England,Red,10,29,Away,20,L,-2,1,CA
+1349,201314,2013-10-27,Chelsea,England,Dark Green,9,30,Home,20,W,4,1,CA
+1350,201314,2013-10-19,Chelsea,England,Dark Green,8,31,Home,17,W,5,1,CA
+1351,201314,2013-10-06,Chelsea,England,Green,7,32,Away,14,W,3,1,CA
+1352,201314,2013-09-28,Chelsea,England,Green,6,33,Away,11,D,2,1,CA
+1353,201314,2013-09-21,Chelsea,England,Green,5,34,Home,10,W,3,1,CA
+1354,201314,2013-09-14,Chelsea,England,Red,4,35,Away,7,L,-2,1,CA
+1355,201314,2013-08-26,Chelsea,England,Grey,3,36,Away,7,D,-1,1,CA
+1356,201314,2013-08-21,Chelsea,England,Green,2,37,Home,6,W,3,1,CA
+1357,201314,2013-08-18,Chelsea,England,Green,1,38,Home,3,W,2,1,CA
+1358,201415,2015-05-23,Barcelona,Spain,Red,38,1,Home,94,D,-2,1,FL
+1359,201415,2015-05-17,Barcelona,Spain,Dark Green,37,2,Away,93,W,3,1,FL
+1360,201415,2015-05-09,Barcelona,Spain,Green,36,3,Home,90,W,2,1,FL
+1361,201415,2015-05-02,Barcelona,Spain,Dark Green,35,4,Away,87,W,6,1,FL
+1362,201415,2015-04-28,Barcelona,Spain,Dark Green,34,5,Home,84,W,6,1,FL
+1363,201415,2015-04-25,Barcelona,Spain,Green,33,6,Away,81,W,3,1,FL
+1364,201415,2015-04-18,Barcelona,Spain,Green,32,7,Home,78,W,2,1,FL
+1365,201415,2015-04-11,Barcelona,Spain,Red,31,8,Away,75,D,-1,1,FL
+1366,201415,2015-04-08,Barcelona,Spain,Dark Green,30,9,Home,74,W,4,1,FL
+1367,201415,2015-04-05,Barcelona,Spain,Green,29,10,Away,71,W,3,1,FL
+1368,201415,2015-03-22,Barcelona,Spain,Dark Green,28,11,Home,68,W,3,1,FL
+1369,201415,2015-03-14,Barcelona,Spain,Green,27,12,Away,65,W,2,1,FL
+1370,201415,2015-03-08,Barcelona,Spain,Dark Green,26,13,Home,62,W,6,1,FL
+1371,201415,2015-02-28,Barcelona,Spain,Green,25,14,Away,59,W,2,1,FL
+1372,201415,2015-02-21,Barcelona,Spain,Grey,24,15,Home,56,L,-1,1,FL
+1373,201415,2015-02-15,Barcelona,Spain,Dark Green,23,16,Home,56,W,5,1,FL
+1374,201415,2015-02-08,Barcelona,Spain,Dark Green,22,17,Away,53,W,5,1,FL
+1375,201415,2015-02-01,Barcelona,Spain,Dark Green,21,18,Home,50,W,4,1,FL
+1376,201415,2015-01-24,Barcelona,Spain,Dark Green,20,19,Away,47,W,6,1,FL
+1377,201415,2015-01-18,Barcelona,Spain,Dark Green,19,20,Away,44,W,4,1,FL
+1378,201415,2015-01-11,Barcelona,Spain,Dark Green,18,21,Home,41,W,5,1,FL
+1379,201415,2015-01-04,Barcelona,Spain,Yellow,17,22,Away,38,L,-2,1,FL
+1380,201415,2014-12-20,Barcelona,Spain,Dark Green,16,23,Home,38,W,5,1,FL
+1381,201415,2014-12-13,Barcelona,Spain,Red,15,24,Away,35,D,-2,1,FL
+1382,201415,2014-12-07,Barcelona,Spain,Dark Green,14,25,Home,34,W,5,1,FL
+1383,201415,2014-11-30,Barcelona,Spain,Dark Green,13,26,Away,31,W,3,1,FL
+1384,201415,2014-11-22,Barcelona,Spain,Dark Green,12,27,Home,28,W,6,1,FL
+1385,201415,2014-11-08,Barcelona,Spain,Green,11,28,Away,25,W,2,1,FL
+1386,201415,2014-11-01,Barcelona,Spain,Grey,10,29,Home,22,L,-1,1,FL
+1387,201415,2014-10-25,Barcelona,Spain,Red,9,30,Away,22,L,-1,1,FL
+1388,201415,2014-10-18,Barcelona,Spain,Dark Green,8,31,Home,22,W,4,1,FL
+1389,201415,2014-10-04,Barcelona,Spain,Green,7,32,Away,19,W,3,1,FL
+1390,201415,2014-09-27,Barcelona,Spain,Dark Green,6,33,Home,16,W,6,1,FL
+1391,201415,2014-09-24,Barcelona,Spain,Red,5,34,Away,13,D,-1,1,FL
+1392,201415,2014-09-21,Barcelona,Spain,Dark Green,4,35,Away,12,W,5,1,FL
+1393,201415,2014-09-13,Barcelona,Spain,Green,3,36,Home,9,W,3,1,FL
+1394,201415,2014-08-31,Barcelona,Spain,Dark Green,2,37,Away,6,W,3,1,FL
+1395,201415,2014-08-24,Barcelona,Spain,Dark Green,1,38,Home,3,W,4,1,FL
+1396,201516,2016-05-14,Barcelona,Spain,Green,38,1,Away,91,W,2,1,FL
+1397,201516,2016-05-08,Barcelona,Spain,Dark Green,37,2,Home,88,W,5,1,FL
+1398,201516,2016-04-30,Barcelona,Spain,Green,36,3,Away,85,W,2,1,FL
+1399,201516,2016-04-23,Barcelona,Spain,Dark Green,35,4,Home,82,W,6,1,FL
+1400,201516,2016-04-20,Barcelona,Spain,Dark Green,34,5,Away,79,W,7,1,FL
+1401,201516,2016-04-17,Barcelona,Spain,Grey,33,6,Home,76,L,-1,1,FL
+1402,201516,2016-04-09,Barcelona,Spain,Red,32,7,Away,76,L,-2,1,FL
+1403,201516,2016-04-02,Barcelona,Spain,Red,31,8,Home,76,L,-1,1,FL
+1404,201516,2016-03-20,Barcelona,Spain,Red,30,9,Away,76,D,-1,1,FL
+1405,201516,2016-03-12,Barcelona,Spain,Dark Green,29,10,Home,75,W,6,1,FL
+1406,201516,2016-03-06,Barcelona,Spain,Dark Green,28,11,Away,72,W,4,1,FL
+1407,201516,2016-03-03,Barcelona,Spain,Dark Green,27,12,Away,69,W,5,1,FL
+1408,201516,2016-02-28,Barcelona,Spain,Green,26,13,Home,66,W,2,1,FL
+1409,201516,2016-02-20,Barcelona,Spain,Green,25,14,Away,63,W,2,1,FL
+1410,201516,2016-02-17,Barcelona,Spain,Green,24,15,Away,60,W,2,1,FL
+1411,201516,2016-02-14,Barcelona,Spain,Dark Green,23,16,Home,57,W,6,1,FL
+1412,201516,2016-02-07,Barcelona,Spain,Green,22,17,Away,54,W,2,1,FL
+1413,201516,2016-01-30,Barcelona,Spain,Green,21,18,Home,51,W,3,1,FL
+1414,201516,2016-01-23,Barcelona,Spain,Green,20,19,Away,48,W,3,1,FL
+1415,201516,2016-01-17,Barcelona,Spain,Dark Green,19,20,Home,45,W,6,1,FL
+1416,201516,2016-01-09,Barcelona,Spain,Dark Green,18,21,Home,42,W,4,1,FL
+1417,201516,2016-01-02,Barcelona,Spain,Red,17,22,Away,39,D,-2,1,FL
+1418,201516,2015-12-30,Barcelona,Spain,Dark Green,16,23,Home,38,W,4,1,FL
+1419,201516,2015-12-12,Barcelona,Spain,Red,15,24,Home,35,D,-1,1,FL
+1420,201516,2015-12-05,Barcelona,Spain,Red,14,25,Away,34,D,-2,1,FL
+1421,201516,2015-11-28,Barcelona,Spain,Dark Green,13,26,Home,33,W,4,1,FL
+1422,201516,2015-11-21,Barcelona,Spain,Dark Green,12,27,Away,30,W,7,1,FL
+1423,201516,2015-11-08,Barcelona,Spain,Dark Green,11,28,Home,27,W,4,1,FL
+1424,201516,2015-10-31,Barcelona,Spain,Green,10,29,Away,24,W,3,1,FL
+1425,201516,2015-10-25,Barcelona,Spain,Dark Green,9,30,Home,21,W,4,1,FL
+1426,201516,2015-10-17,Barcelona,Spain,Dark Green,8,31,Home,18,W,6,1,FL
+1427,201516,2015-10-03,Barcelona,Spain,Red,7,32,Away,15,L,-2,1,FL
+1428,201516,2015-09-26,Barcelona,Spain,Green,6,33,Home,15,W,2,1,FL
+1429,201516,2015-09-23,Barcelona,Spain,Yellow,5,34,Away,12,L,-3,1,FL
+1430,201516,2015-09-20,Barcelona,Spain,Dark Green,4,35,Home,12,W,4,1,FL
+1431,201516,2015-09-12,Barcelona,Spain,Dark Green,3,36,Away,9,W,4,1,FL
+1432,201516,2015-08-29,Barcelona,Spain,Green,2,37,Home,6,W,2,1,FL
+1433,201516,2015-08-23,Barcelona,Spain,Green,1,38,Away,3,W,3,1,FL
+1434,201516,2016-05-15,Chelsea,England,Green,38,1,Home,50,D,2,1,CA
+1435,201516,2016-05-11,Chelsea,England,Green,37,2,Away,49,D,3,1,CA
+1436,201516,2016-05-07,Chelsea,England,Red,36,3,Away,48,L,-1,1,CA
+1437,201516,2016-05-02,Chelsea,England,Green,35,4,Home,48,D,2,1,CA
+1438,201516,2016-04-23,Chelsea,England,Dark Green,34,5,Away,47,W,6,1,CA
+1439,201516,2016-04-16,Chelsea,England,Red,33,6,Home,44,L,-2,1,CA
+1440,201516,2016-04-09,Chelsea,England,Red,32,7,Away,44,L,-2,1,CA
+1441,201516,2016-04-02,Chelsea,England,Dark Green,31,8,Away,44,W,5,1,CA
+1442,201516,2016-03-19,Chelsea,England,Green,30,9,Home,41,D,2,1,CA
+1443,201516,2016-03-05,Chelsea,England,Green,29,10,Home,40,D,2,1,CA
+1444,201516,2016-03-01,Chelsea,England,Dark Green,28,11,Away,39,W,3,1,CA
+1445,201516,2016-02-27,Chelsea,England,Dark Green,27,12,Away,36,W,6,1,CA
+1446,201516,2016-02-13,Chelsea,England,Dark Green,26,13,Home,33,W,7,1,CA
+1447,201516,2016-02-07,Chelsea,England,Green,25,14,Home,30,D,2,1,CA
+1448,201516,2016-02-03,Chelsea,England,Green,24,15,Away,29,D,2,1,CA
+1449,201516,2016-01-24,Chelsea,England,Dark Green,23,16,Away,28,W,8,1,CA
+1450,201516,2016-01-16,Chelsea,England,Green,22,17,Home,25,D,2,1,CA
+1451,201516,2016-01-13,Chelsea,England,Green,21,18,Home,24,D,2,1,CA
+1452,201516,2016-01-03,Chelsea,England,Dark Green,20,19,Away,23,W,7,1,CA
+1453,201516,2015-12-28,Chelsea,England,Green,19,20,Away,20,D,2,1,CA
+1454,201516,2015-12-26,Chelsea,England,Green,18,21,Home,19,D,2,1,CA
+1455,201516,2015-12-19,Chelsea,England,Dark Green,17,22,Home,18,W,4,1,CA
+1456,201516,2015-12-14,Chelsea,England,Grey,16,23,Away,15,L,-1,1,CA
+1457,201516,2015-12-05,Chelsea,England,Grey,15,24,Home,15,L,-1,1,CA
+1458,201516,2015-11-29,Chelsea,England,Green,14,25,Away,15,D,2,1,CA
+1459,201516,2015-11-21,Chelsea,England,Green,13,26,Home,14,W,3,1,CA
+1460,201516,2015-11-07,Chelsea,England,Grey,12,27,Away,11,L,-1,1,CA
+1461,201516,2015-10-31,Chelsea,England,Red,11,28,Home,11,L,-1,1,CA
+1462,201516,2015-10-24,Chelsea,England,Grey,10,29,Away,11,L,-1,1,CA
+1463,201516,2015-10-17,Chelsea,England,Green,9,30,Home,11,W,3,1,CA
+1464,201516,2015-10-03,Chelsea,England,Red,8,31,Home,8,L,-1,1,CA
+1465,201516,2015-09-26,Chelsea,England,Red,7,32,Away,8,D,-1,1,CA
+1466,201516,2015-09-19,Chelsea,England,Dark Green,6,33,Home,7,W,6,1,CA
+1467,201516,2015-09-12,Chelsea,England,Red,5,34,Away,4,L,-1,1,CA
+1468,201516,2015-08-29,Chelsea,England,Grey,4,35,Home,4,L,-1,1,CA
+1469,201516,2015-08-23,Chelsea,England,Dark Green,3,36,Away,4,W,3,1,CA
+1470,201516,2015-08-16,Chelsea,England,Grey,2,37,Away,1,L,0,1,CA
+1471,201516,2015-08-08,Chelsea,England,Grey,1,38,Home,1,D,-1,1,CA
+1472,201516,2016-05-14,Sevilla,Spain,Red,38,1,Away,52,L,-2,1,FL
+1473,201516,2016-05-08,Sevilla,Spain,Red,37,2,Home,52,L,-1,1,FL
+1474,201516,2016-05-01,Sevilla,Spain,Red,36,3,Away,52,L,-1,1,FL
+1475,201516,2016-04-24,Sevilla,Spain,Green,35,4,Home,52,W,3,1,FL
+1476,201516,2016-04-20,Sevilla,Spain,Red,34,5,Away,49,L,-1,1,FL
+1477,201516,2016-04-17,Sevilla,Spain,Grey,33,6,Home,49,D,-1,1,FL
+1478,201516,2016-04-10,Sevilla,Spain,Red,32,7,Away,48,L,-1,1,FL
+1479,201516,2016-04-03,Sevilla,Spain,Red,31,8,Home,48,L,-1,1,FL
+1480,201516,2016-03-20,Sevilla,Spain,Yellow,30,9,Away,48,L,-2,1,FL
+1481,201516,2016-03-13,Sevilla,Spain,Dark Green,29,10,Home,48,W,7,1,FL
+1482,201516,2016-03-05,Sevilla,Spain,Grey,28,11,Away,45,D,-1,1,FL
+1483,201516,2016-03-02,Sevilla,Spain,Green,27,12,Home,44,W,3,1,FL
+1484,201516,2016-02-28,Sevilla,Spain,Grey,26,13,Away,41,L,-1,1,FL
+1485,201516,2016-02-21,Sevilla,Spain,Grey,25,14,Away,41,D,-1,1,FL
+1486,201516,2016-02-14,Sevilla,Spain,Green,24,15,Home,40,W,3,1,FL
+1487,201516,2016-02-07,Sevilla,Spain,Grey,23,16,Away,37,D,-1,1,FL
+1488,201516,2016-01-31,Sevilla,Spain,Dark Green,22,17,Home,36,W,4,1,FL
+1489,201516,2016-01-24,Sevilla,Spain,Dark Green,21,18,Away,33,D,3,1,FL
+1490,201516,2016-01-16,Sevilla,Spain,Dark Green,20,19,Home,32,W,3,1,FL
+1491,201516,2016-01-09,Sevilla,Spain,Dark Green,19,20,Home,29,W,4,1,FL
+1492,201516,2016-01-03,Sevilla,Spain,Red,18,21,Away,26,L,-2,1,FL
+1493,201516,2015-12-30,Sevilla,Spain,Green,17,22,Home,26,W,3,1,FL
+1494,201516,2015-12-19,Sevilla,Spain,Grey,16,23,Away,23,D,-1,1,FL
+1495,201516,2015-12-12,Sevilla,Spain,Green,15,24,Home,22,W,3,1,FL
+1496,201516,2015-12-05,Sevilla,Spain,Green,14,25,Away,19,D,2,1,FL
+1497,201516,2015-11-29,Sevilla,Spain,Dark Green,13,26,Home,18,W,5,1,FL
+1498,201516,2015-11-21,Sevilla,Spain,Red,12,27,Away,15,L,-1,1,FL
+1499,201516,2015-11-08,Sevilla,Spain,Dark Green,11,28,Home,15,W,10,1,FL
+1500,201516,2015-10-31,Sevilla,Spain,Grey,10,29,Away,12,L,-1,1,FL
+1501,201516,2015-10-24,Sevilla,Spain,Dark Green,9,30,Home,12,W,7,1,FL
+1502,201516,2015-10-17,Sevilla,Spain,Green,8,31,Away,9,D,2,1,FL
+1503,201516,2015-10-03,Sevilla,Spain,Dark Green,7,32,Home,8,W,8,1,FL
+1504,201516,2015-09-26,Sevilla,Spain,Dark Green,6,33,Home,5,W,6,1,FL
+1505,201516,2015-09-23,Sevilla,Spain,Grey,5,34,Away,2,L,-1,1,FL
+1506,201516,2015-09-20,Sevilla,Spain,Grey,4,35,Home,2,L,0,1,FL
+1507,201516,2015-09-11,Sevilla,Spain,Red,3,36,Away,2,D,-1,1,FL
+1508,201516,2015-08-30,Sevilla,Spain,Grey,2,37,Home,1,L,0,1,FL
+1509,201516,2015-08-21,Sevilla,Spain,Grey,1,38,Away,1,D,-1,1,FL
+1510,201617,2017-05-21,Arsenal,England,Dark Green,38,1,Home,75,W,4,1,CA
+1511,201617,2017-05-16,Arsenal,England,Green,37,2,Home,72,W,2,1,CA
+1512,201617,2017-05-13,Arsenal,England,Dark Green,36,3,Away,69,W,5,1,CA
+1513,201617,2017-05-10,Arsenal,England,Dark Green,35,4,Away,66,W,4,1,CA
+1514,201617,2017-05-07,Arsenal,England,Dark Green,34,5,Home,63,W,5,1,CA
+1515,201617,2017-04-30,Arsenal,England,Red,33,6,Away,60,L,-1,1,CA
+1516,201617,2017-04-26,Arsenal,England,Dark Green,32,7,Home,60,W,3,1,CA
+1517,201617,2017-04-17,Arsenal,England,Green,31,8,Away,57,W,3,1,CA
+1518,201617,2017-04-10,Arsenal,England,Red,30,9,Away,54,L,-2,1,CA
+1519,201617,2017-04-05,Arsenal,England,Dark Green,29,10,Home,54,W,4,1,CA
+1520,201617,2017-04-02,Arsenal,England,Green,28,11,Home,51,D,2,1,CA
+1521,201617,2017-03-18,Arsenal,England,Red,27,12,Away,50,L,-2,1,CA
+1522,201617,2017-03-04,Arsenal,England,Yellow,26,13,Away,50,L,-2,1,CA
+1523,201617,2017-02-11,Arsenal,England,Green,25,14,Home,50,W,3,1,CA
+1524,201617,2017-02-04,Arsenal,England,Red,24,15,Away,47,L,-2,1,CA
+1525,201617,2017-01-31,Arsenal,England,Grey,23,16,Home,47,L,-1,1,CA
+1526,201617,2017-01-22,Arsenal,England,Green,22,17,Home,47,W,2,1,CA
+1527,201617,2017-01-14,Arsenal,England,Dark Green,21,18,Away,44,W,5,1,CA
+1528,201617,2017-01-03,Arsenal,England,Red,20,19,Away,41,D,-2,1,CA
+1529,201617,2017-01-01,Arsenal,England,Green,19,20,Home,40,W,3,1,CA
+1530,201617,2016-12-26,Arsenal,England,Green,18,21,Home,37,W,3,1,CA
+1531,201617,2016-12-18,Arsenal,England,Red,17,22,Away,34,L,-1,1,CA
+1532,201617,2016-12-13,Arsenal,England,Red,16,23,Away,34,L,-2,1,CA
+1533,201617,2016-12-10,Arsenal,England,Dark Green,15,24,Home,34,W,4,1,CA
+1534,201617,2016-12-03,Arsenal,England,Dark Green,14,25,Away,31,W,6,1,CA
+1535,201617,2016-11-27,Arsenal,England,Dark Green,13,26,Home,28,W,4,1,CA
+1536,201617,2016-11-19,Arsenal,England,Grey,12,27,Away,25,D,-1,1,CA
+1537,201617,2016-11-06,Arsenal,England,Grey,11,28,Home,24,D,-1,1,CA
+1538,201617,2016-10-29,Arsenal,England,Dark Green,10,29,Away,23,W,4,1,CA
+1539,201617,2016-10-22,Arsenal,England,Red,9,30,Home,20,D,-2,1,CA
+1540,201617,2016-10-15,Arsenal,England,Dark Green,8,31,Home,19,W,4,1,CA
+1541,201617,2016-10-02,Arsenal,England,Green,7,32,Away,16,W,3,1,CA
+1542,201617,2016-09-24,Arsenal,England,Dark Green,6,33,Home,13,W,6,1,CA
+1543,201617,2016-09-17,Arsenal,England,Dark Green,5,34,Away,10,W,5,1,CA
+1544,201617,2016-09-10,Arsenal,England,Dark Green,4,35,Home,7,W,3,1,CA
+1545,201617,2016-08-27,Arsenal,England,Dark Green,3,36,Away,4,W,3,1,CA
+1546,201617,2016-08-20,Arsenal,England,Grey,2,37,Away,1,D,-1,1,CA
+1547,201617,2016-08-14,Arsenal,England,Grey,1,38,Home,0,L,,1,CA
+1548,201718,2018-05-20,Barcelona,Spain,Green,38,1,Home,93,W,2,1,FL
+1549,201718,2018-05-13,Barcelona,Spain,Yellow,37,2,Away,90,L,-2,1,FL
+1550,201718,2018-05-09,Barcelona,Spain,Dark Green,36,3,Home,90,W,6,1,FL
+1551,201718,2018-05-06,Barcelona,Spain,Grey,35,4,Home,87,D,-1,1,FL
+1552,201718,2018-04-29,Barcelona,Spain,Dark Green,34,5,Away,86,W,4,1,FL
+1553,201718,2018-04-17,Barcelona,Spain,Red,33,6,Away,83,D,-1,1,FL
+1554,201718,2018-04-14,Barcelona,Spain,Green,32,7,Home,82,W,3,1,FL
+1555,201718,2018-04-07,Barcelona,Spain,Dark Green,31,8,Home,79,W,4,1,FL
+1556,201718,2018-03-31,Barcelona,Spain,Red,30,9,Away,76,D,-1,1,FL
+1557,201718,2018-03-18,Barcelona,Spain,Green,29,10,Home,75,W,2,1,FL
+1558,201718,2018-03-10,Barcelona,Spain,Green,28,11,Away,72,W,3,1,FL
+1559,201718,2018-03-04,Barcelona,Spain,Dark Green,27,12,Home,69,W,3,1,FL
+1560,201718,2018-03-01,Barcelona,Spain,Red,26,13,Away,66,D,-2,1,FL
+1561,201718,2018-02-24,Barcelona,Spain,Dark Green,25,14,Home,65,W,6,1,FL
+1562,201718,2018-02-17,Barcelona,Spain,Green,24,15,Away,62,W,3,1,FL
+1563,201718,2018-02-11,Barcelona,Spain,Red,23,16,Home,59,D,-1,1,FL
+1564,201718,2018-02-04,Barcelona,Spain,Red,22,17,Away,58,D,-2,1,FL
+1565,201718,2018-01-28,Barcelona,Spain,Green,21,18,Home,57,W,2,1,FL
+1566,201718,2018-01-21,Barcelona,Spain,Dark Green,20,19,Away,54,W,5,1,FL
+1567,201718,2018-01-14,Barcelona,Spain,Dark Green,19,20,Away,51,W,5,1,FL
+1568,201718,2018-01-07,Barcelona,Spain,Dark Green,18,21,Home,48,W,3,1,FL
+1569,201718,2017-12-23,Barcelona,Spain,Dark Green,17,22,Away,45,W,5,1,FL
+1570,201718,2017-12-17,Barcelona,Spain,Dark Green,16,23,Home,42,W,5,1,FL
+1571,201718,2017-12-10,Barcelona,Spain,Green,15,24,Away,39,W,3,1,FL
+1572,201718,2017-12-02,Barcelona,Spain,Red,14,25,Home,36,D,-1,1,FL
+1573,201718,2017-11-26,Barcelona,Spain,Grey,13,26,Away,35,D,-1,1,FL
+1574,201718,2017-11-18,Barcelona,Spain,Green,12,27,Away,34,W,3,1,FL
+1575,201718,2017-11-04,Barcelona,Spain,Green,11,28,Home,31,W,2,1,FL
+1576,201718,2017-10-28,Barcelona,Spain,Green,10,29,Away,28,W,3,1,FL
+1577,201718,2017-10-21,Barcelona,Spain,Green,9,30,Home,25,W,2,1,FL
+1578,201718,2017-10-14,Barcelona,Spain,Grey,8,31,Away,22,D,-1,1,FL
+1579,201718,2017-10-01,Barcelona,Spain,Dark Green,7,32,Home,21,W,4,1,FL
+1580,201718,2017-09-23,Barcelona,Spain,Green,6,33,Away,18,W,3,1,FL
+1581,201718,2017-09-19,Barcelona,Spain,Dark Green,5,34,Home,15,W,6,1,FL
+1582,201718,2017-09-16,Barcelona,Spain,Green,4,35,Away,12,W,3,1,FL
+1583,201718,2017-09-09,Barcelona,Spain,Dark Green,3,36,Home,9,W,6,1,FL
+1584,201718,2017-08-26,Barcelona,Spain,Green,2,37,Away,6,W,3,1,FL
+1585,201718,2017-08-20,Barcelona,Spain,Green,1,38,Home,3,W,2,1,FL
+1586,201718,2018-05-13,Chelsea,England,Red,38,1,Away,70,L,-2,1,CA
+1587,201718,2018-05-09,Chelsea,England,Red,37,2,Home,70,D,-1,1,CA
+1588,201718,2018-05-06,Chelsea,England,Dark Green,36,3,Home,69,W,6,1,CA
+1589,201718,2018-04-28,Chelsea,England,Green,35,4,Away,66,W,3,1,CA
+1590,201718,2018-04-19,Chelsea,England,Dark Green,34,5,Away,63,W,3,1,CA
+1591,201718,2018-04-14,Chelsea,England,Dark Green,33,6,Away,60,W,3,1,CA
+1592,201718,2018-04-08,Chelsea,England,Red,32,7,Home,57,D,-1,1,CA
+1593,201718,2018-04-01,Chelsea,England,Red,31,8,Home,56,L,-2,1,CA
+1594,201718,2018-03-10,Chelsea,England,Green,30,9,Home,56,W,3,1,CA
+1595,201718,2018-03-04,Chelsea,England,Grey,29,10,Away,53,L,-1,1,CA
+1596,201718,2018-02-25,Chelsea,England,Red,28,11,Away,53,L,-1,1,CA
+1597,201718,2018-02-12,Chelsea,England,Dark Green,27,12,Home,53,W,4,1,CA
+1598,201718,2018-02-05,Chelsea,England,Red,26,13,Away,50,L,-2,1,CA
+1599,201718,2018-01-31,Chelsea,England,Grey,25,14,Home,50,L,-1,1,CA
+1600,201718,2018-01-20,Chelsea,England,Dark Green,24,15,Away,50,W,5,1,CA
+1601,201718,2018-01-13,Chelsea,England,Red,23,16,Home,47,D,-1,1,CA
+1602,201718,2018-01-03,Chelsea,England,Grey,22,17,Away,46,D,-1,1,CA
+1603,201718,2017-12-30,Chelsea,England,Dark Green,21,18,Home,45,W,6,1,CA
+1604,201718,2017-12-26,Chelsea,England,Green,20,19,Home,42,W,2,1,CA
+1605,201718,2017-12-23,Chelsea,England,Red,19,20,Away,39,D,-1,1,CA
+1606,201718,2017-12-16,Chelsea,England,Green,18,21,Home,38,W,3,1,CA
+1607,201718,2017-12-12,Chelsea,England,Green,17,22,Away,35,W,3,1,CA
+1608,201718,2017-12-09,Chelsea,England,Yellow,16,23,Away,32,L,-2,1,CA
+1609,201718,2017-12-02,Chelsea,England,Dark Green,15,24,Home,32,W,4,1,CA
+1610,201718,2017-11-29,Chelsea,England,Green,14,25,Home,29,W,2,1,CA
+1611,201718,2017-11-25,Chelsea,England,Grey,13,26,Away,26,D,-1,1,CA
+1612,201718,2017-11-18,Chelsea,England,Dark Green,12,27,Away,25,W,5,1,CA
+1613,201718,2017-11-05,Chelsea,England,Dark Green,11,28,Home,22,W,6,1,CA
+1614,201718,2017-10-28,Chelsea,England,Dark Green,10,29,Away,19,W,3,1,CA
+1615,201718,2017-10-21,Chelsea,England,Dark Green,9,30,Home,16,W,5,1,CA
+1616,201718,2017-10-14,Chelsea,England,Yellow,8,31,Away,13,L,-2,1,CA
+1617,201718,2017-09-30,Chelsea,England,Grey,7,32,Home,13,L,-1,1,CA
+1618,201718,2017-09-23,Chelsea,England,Dark Green,6,33,Away,13,W,5,1,CA
+1619,201718,2017-09-17,Chelsea,England,Grey,5,34,Home,10,D,-1,1,CA
+1620,201718,2017-09-09,Chelsea,England,Dark Green,4,35,Away,9,W,3,1,CA
+1621,201718,2017-08-27,Chelsea,England,Green,3,36,Home,6,W,3,1,CA
+1622,201718,2017-08-20,Chelsea,England,Dark Green,2,37,Away,3,W,5,1,CA
+1623,201718,2017-08-12,Chelsea,England,Grey,1,38,Home,0,L,,1,CA
+1624,201819,2019-05-12,Arsenal,England,Dark Green,38,1,Away,70,W,4,1,CA
+1625,201819,2019-05-05,Arsenal,England,Red,37,2,Home,67,D,-1,1,CA
+1626,201819,2019-04-28,Arsenal,England,Red,36,3,Away,66,L,-1,1,CA
+1627,201819,2019-04-24,Arsenal,England,Red,35,4,Away,66,L,-1,1,CA
+1628,201819,2019-04-21,Arsenal,England,Grey,34,5,Home,66,L,-1,1,CA
+1629,201819,2019-04-15,Arsenal,England,Dark Green,33,6,Away,66,W,4,1,CA
+1630,201819,2019-04-07,Arsenal,England,Red,32,7,Away,63,L,-1,1,CA
+1631,201819,2019-04-01,Arsenal,England,Green,31,8,Home,63,W,3,1,CA
+1632,201819,2019-03-10,Arsenal,England,Dark Green,30,9,Home,60,W,6,1,CA
+1633,201819,2019-03-02,Arsenal,England,Green,29,10,Away,57,D,3,1,CA
+1634,201819,2019-02-27,Arsenal,England,Dark Green,28,11,Home,56,W,7,1,CA
+1635,201819,2019-02-24,Arsenal,England,Green,27,12,Home,53,W,3,1,CA
+1636,201819,2019-02-09,Arsenal,England,Dark Green,26,13,Away,50,W,3,1,CA
+1637,201819,2019-02-03,Arsenal,England,Red,25,14,Away,47,L,-2,1,CA
+1638,201819,2019-01-29,Arsenal,England,Green,24,15,Home,47,W,3,1,CA
+1639,201819,2019-01-19,Arsenal,England,Dark Green,23,16,Home,44,W,7,1,CA
+1640,201819,2019-01-12,Arsenal,England,Red,22,17,Away,41,L,-2,1,CA
+1641,201819,2019-01-01,Arsenal,England,Dark Green,21,18,Home,41,W,5,1,CA
+1642,201819,2018-12-29,Arsenal,England,Yellow,20,19,Away,38,L,-2,1,CA
+1643,201819,2018-12-26,Arsenal,England,Red,19,20,Away,38,D,-1,1,CA
+1644,201819,2018-12-22,Arsenal,England,Dark Green,18,21,Home,37,W,4,1,CA
+1645,201819,2018-12-16,Arsenal,England,Red,17,22,Away,34,L,-2,1,CA
+1646,201819,2018-12-08,Arsenal,England,Green,16,23,Home,34,W,3,1,CA
+1647,201819,2018-12-05,Arsenal,England,Grey,15,24,Away,31,D,-1,1,CA
+1648,201819,2018-12-02,Arsenal,England,Dark Green,14,25,Home,30,W,8,1,CA
+1649,201819,2018-11-25,Arsenal,England,Dark Green,13,26,Away,27,W,4,1,CA
+1650,201819,2018-11-11,Arsenal,England,Red,12,27,Home,24,D,-1,1,CA
+1651,201819,2018-11-03,Arsenal,England,Green,11,28,Home,23,D,2,1,CA
+1652,201819,2018-10-28,Arsenal,England,Red,10,29,Away,22,D,-1,1,CA
+1653,201819,2018-10-22,Arsenal,England,Dark Green,9,30,Home,21,W,5,1,CA
+1654,201819,2018-10-07,Arsenal,England,Dark Green,8,31,Away,18,W,6,1,CA
+1655,201819,2018-09-29,Arsenal,England,Green,7,32,Home,15,W,3,1,CA
+1656,201819,2018-09-23,Arsenal,England,Green,6,33,Home,12,W,3,1,CA
+1657,201819,2018-09-15,Arsenal,England,Dark Green,5,34,Away,9,W,3,1,CA
+1658,201819,2018-09-02,Arsenal,England,Dark Green,4,35,Away,6,W,3,1,CA
+1659,201819,2018-08-25,Arsenal,England,Dark Green,3,36,Home,3,W,4,1,CA
+1660,201819,2018-08-18,Arsenal,England,Grey,2,37,Away,0,L,,1,CA
+1661,201819,2018-08-12,Arsenal,England,Grey,1,38,Home,0,L,,1,CA
+1662,201819,2019-05-18,Sevilla,Spain,Dark Green,38,1,Home,59,W,3,1,FL
+1663,201819,2019-05-12,Sevilla,Spain,Green,37,2,Away,56,D,2,1,FL
+1664,201819,2019-05-03,Sevilla,Spain,Grey,36,3,Home,55,L,-1,1,FL
+1665,201819,2019-04-28,Sevilla,Spain,Red,35,4,Away,55,L,-2,1,FL
+1666,201819,2019-04-25,Sevilla,Spain,Dark Green,34,5,Home,55,W,6,1,FL
+1667,201819,2019-04-21,Sevilla,Spain,Yellow,33,6,Away,52,L,-2,1,FL
+1668,201819,2019-04-13,Sevilla,Spain,Dark Green,32,7,Home,52,W,5,1,FL
+1669,201819,2019-04-07,Sevilla,Spain,Dark Green,31,8,Away,49,W,4,1,FL
+1670,201819,2019-04-04,Sevilla,Spain,Green,30,9,Home,46,W,3,1,FL
+1671,201819,2019-03-31,Sevilla,Spain,Red,29,10,Home,43,L,-1,1,FL
+1672,201819,2019-03-17,Sevilla,Spain,Dark Green,28,11,Away,43,W,4,1,FL
+1673,201819,2019-03-10,Sevilla,Spain,Dark Green,27,12,Home,40,W,7,1,FL
+1674,201819,2019-03-02,Sevilla,Spain,Red,26,13,Away,37,L,-2,1,FL
+1675,201819,2019-02-23,Sevilla,Spain,Red,25,14,Home,37,L,-2,1,FL
+1676,201819,2019-02-17,Sevilla,Spain,Red,24,15,Away,37,L,-1,1,FL
+1677,201819,2019-02-10,Sevilla,Spain,Grey,23,16,Home,37,D,-1,1,FL
+1678,201819,2019-02-02,Sevilla,Spain,Red,22,17,Away,36,L,-2,1,FL
+1679,201819,2019-01-26,Sevilla,Spain,Dark Green,21,18,Home,36,W,7,1,FL
+1680,201819,2019-01-19,Sevilla,Spain,Red,20,19,Away,33,L,-1,1,FL
+1681,201819,2019-01-13,Sevilla,Spain,Red,19,20,Away,33,L,-1,1,FL
+1682,201819,2019-01-06,Sevilla,Spain,Green,18,21,Home,33,D,2,1,FL
+1683,201819,2018-12-23,Sevilla,Spain,Grey,17,22,Away,32,D,-1,1,FL
+1684,201819,2018-12-16,Sevilla,Spain,Green,16,23,Home,31,W,3,1,FL
+1685,201819,2018-12-08,Sevilla,Spain,Grey,15,24,Away,28,D,-1,1,FL
+1686,201819,2018-12-02,Sevilla,Spain,Grey,14,25,Away,27,D,-1,1,FL
+1687,201819,2018-11-25,Sevilla,Spain,Green,13,26,Home,26,W,3,1,FL
+1688,201819,2018-11-11,Sevilla,Spain,Dark Green,12,27,Home,23,W,3,1,FL
+1689,201819,2018-11-04,Sevilla,Spain,Grey,11,28,Away,20,D,-1,1,FL
+1690,201819,2018-10-28,Sevilla,Spain,Green,10,29,Home,19,W,3,1,FL
+1691,201819,2018-10-20,Sevilla,Spain,Yellow,9,30,Away,16,L,-2,1,FL
+1692,201819,2018-10-07,Sevilla,Spain,Green,8,31,Home,16,W,3,1,FL
+1693,201819,2018-09-29,Sevilla,Spain,Dark Green,7,32,Away,13,W,4,1,FL
+1694,201819,2018-09-26,Sevilla,Spain,Dark Green,6,33,Home,10,W,10,1,FL
+1695,201819,2018-09-23,Sevilla,Spain,Dark Green,5,34,Away,7,W,9,1,FL
+1696,201819,2018-09-16,Sevilla,Spain,Grey,4,35,Home,4,L,-1,1,FL
+1697,201819,2018-09-02,Sevilla,Spain,Red,3,36,Away,4,L,-1,1,FL
+1698,201819,2018-08-26,Sevilla,Spain,Yellow,2,37,Home,4,D,-3,1,FL
+1699,201819,2018-08-19,Sevilla,Spain,Dark Green,1,38,Away,3,W,6,1,FL
+1700,201920,2020-02-22,Barcelona,Spain,Dark Green,25,1,Home,55,W,6,1,FL
+1701,201920,2020-02-15,Barcelona,Spain,Green,24,2,Home,52,W,3,1,FL
+1702,201920,2020-02-09,Barcelona,Spain,Dark Green,23,3,Away,49,W,3,1,FL
+1703,201920,2020-02-02,Barcelona,Spain,Green,22,4,Home,46,W,2,1,FL
+1704,201920,2020-01-25,Barcelona,Spain,Red,21,5,Away,43,L,-2,1,FL
+1705,201920,2020-01-19,Barcelona,Spain,Green,20,6,Home,43,W,2,1,FL
+1706,201920,2020-01-04,Barcelona,Spain,Red,19,7,Away,40,D,-1,1,FL
+1707,201920,2019-12-21,Barcelona,Spain,Dark Green,18,8,Home,39,W,5,1,FL
+1708,201920,2019-12-18,Barcelona,Spain,Grey,17,9,Home,36,D,-1,1,FL
+1709,201920,2019-12-14,Barcelona,Spain,Red,16,10,Away,35,D,-1,1,FL
+1710,201920,2019-12-07,Barcelona,Spain,Dark Green,15,11,Home,34,W,5,1,FL
+1711,201920,2019-12-01,Barcelona,Spain,Dark Green,14,12,Away,31,W,4,1,FL
+1712,201920,2019-11-23,Barcelona,Spain,Green,13,13,Away,28,W,3,1,FL
+1713,201920,2019-11-09,Barcelona,Spain,Dark Green,12,14,Home,25,W,5,1,FL
+1714,201920,2019-11-02,Barcelona,Spain,Yellow,11,15,Away,22,L,-2,1,FL
+1715,201920,2019-10-29,Barcelona,Spain,Dark Green,10,16,Home,22,W,5,1,FL
+1716,201920,2019-10-19,Barcelona,Spain,Green,9,17,Away,19,W,3,1,FL
+1717,201920,2019-10-06,Barcelona,Spain,Dark Green,8,18,Home,16,W,6,1,FL
+1718,201920,2019-09-28,Barcelona,Spain,Dark Green,7,19,Away,13,W,3,1,FL
+1719,201920,2019-09-24,Barcelona,Spain,Green,6,20,Home,10,W,3,1,FL
+1720,201920,2019-09-21,Barcelona,Spain,Grey,5,21,Away,7,L,-1,1,FL
+1721,201920,2019-09-14,Barcelona,Spain,Dark Green,4,22,Home,7,W,7,1,FL
+1722,201920,2019-08-31,Barcelona,Spain,Green,3,23,Away,4,D,1,1,FL
+1723,201920,2019-08-25,Barcelona,Spain,Dark Green,2,24,Home,3,W,6,1,FL
+1724,201920,2019-08-16,Barcelona,Spain,Grey,1,25,Away,0,L,,1,FL
+1725,201920,2020-02-22,Chelsea,England,Dark Green,27,1,Home,44,W,3,1,CA
+1726,201920,2020-02-17,Chelsea,England,Red,26,2,Home,41,L,-1,1,CA
+1727,201920,2020-02-01,Chelsea,England,Green,25,3,Away,41,D,2,1,CA
+1728,201920,2020-01-21,Chelsea,England,Grey,24,4,Home,40,D,-1,1,CA
+1729,201920,2020-01-18,Chelsea,England,Red,23,5,Away,39,L,-2,1,CA
+1730,201920,2020-01-11,Chelsea,England,Dark Green,22,6,Home,39,W,4,1,CA
+1731,201920,2020-01-01,Chelsea,England,Grey,21,7,Away,36,D,-1,1,CA
+1732,201920,2019-12-29,Chelsea,England,Dark Green,20,8,Away,35,W,4,1,CA
+1733,201920,2019-12-26,Chelsea,England,Grey,19,9,Home,32,L,-1,1,CA
+1734,201920,2019-12-22,Chelsea,England,Dark Green,18,10,Away,32,W,4,1,CA
+1735,201920,2019-12-14,Chelsea,England,Grey,17,11,Home,29,L,-1,1,CA
+1736,201920,2019-12-07,Chelsea,England,Red,16,12,Away,29,L,-2,1,CA
+1737,201920,2019-12-04,Chelsea,England,Green,15,13,Home,29,W,3,1,CA
+1738,201920,2019-11-30,Chelsea,England,Grey,14,14,Home,26,L,-1,1,CA
+1739,201920,2019-11-23,Chelsea,England,Red,13,15,Away,26,L,-1,1,CA
+1740,201920,2019-11-09,Chelsea,England,Green,12,16,Home,26,W,3,1,CA
+1741,201920,2019-11-02,Chelsea,England,Dark Green,11,17,Away,23,W,3,1,CA
+1742,201920,2019-10-26,Chelsea,England,Dark Green,10,18,Away,20,W,5,1,CA
+1743,201920,2019-10-19,Chelsea,England,Green,9,19,Home,17,W,3,1,CA
+1744,201920,2019-10-06,Chelsea,England,Dark Green,8,20,Away,14,W,5,1,CA
+1745,201920,2019-09-28,Chelsea,England,Green,7,21,Home,11,W,3,1,CA
+1746,201920,2019-09-22,Chelsea,England,Grey,6,22,Home,8,L,-1,1,CA
+1747,201920,2019-09-14,Chelsea,England,Dark Green,5,23,Away,8,W,8,1,CA
+1748,201920,2019-08-31,Chelsea,England,Grey,4,24,Home,5,D,-1,1,CA
+1749,201920,2019-08-24,Chelsea,England,Dark Green,3,25,Away,4,W,3,1,CA
+1750,201920,2019-08-18,Chelsea,England,Green,2,26,Home,1,D,2,1,CA
+1751,201920,2019-08-11,Chelsea,England,Grey,1,27,Away,0,L,,1,CA
+1752,201920,2020-02-23,Sevilla,Spain,Dark Green,25,1,Away,43,W,5,1,FL
+1753,201920,2020-02-16,Sevilla,Spain,Red,24,2,Home,40,D,-1,1,FL
+1754,201920,2020-02-09,Sevilla,Spain,Red,23,3,Away,39,L,-2,1,FL
+1755,201920,2020-02-02,Sevilla,Spain,Red,22,4,Home,39,D,-1,1,FL
+1756,201920,2020-01-25,Sevilla,Spain,Green,21,5,Home,38,W,3,1,FL
+1757,201920,2020-01-18,Sevilla,Spain,Red,20,6,Away,35,L,-1,1,FL
+1758,201920,2020-01-03,Sevilla,Spain,Grey,19,7,Home,35,D,-1,1,FL
+1759,201920,2019-12-21,Sevilla,Spain,Dark Green,18,8,Away,34,W,3,1,FL
+1760,201920,2019-12-15,Sevilla,Spain,Red,17,9,Home,31,L,-1,1,FL
+1761,201920,2019-12-08,Sevilla,Spain,Grey,16,10,Away,31,D,-1,1,FL
+1762,201920,2019-12-01,Sevilla,Spain,Green,15,11,Home,30,W,3,1,FL
+1763,201920,2019-11-24,Sevilla,Spain,Dark Green,14,12,Away,27,W,3,1,FL
+1764,201920,2019-11-10,Sevilla,Spain,Dark Green,13,13,Away,24,W,4,1,FL
+1765,201920,2019-11-02,Sevilla,Spain,Grey,12,14,Home,21,D,-1,1,FL
+1766,201920,2019-10-30,Sevilla,Spain,Grey,11,15,Away,20,D,-1,1,FL
+1767,201920,2019-10-27,Sevilla,Spain,Dark Green,10,16,Home,19,W,3,1,FL
+1768,201920,2019-10-20,Sevilla,Spain,Green,9,17,Home,16,W,3,1,FL
+1769,201920,2019-10-06,Sevilla,Spain,Yellow,8,18,Away,13,L,-2,1,FL
+1770,201920,2019-09-29,Sevilla,Spain,Dark Green,7,19,Home,13,W,5,1,FL
+1771,201920,2019-09-26,Sevilla,Spain,Red,6,20,Away,10,L,-2,1,FL
+1772,201920,2019-09-22,Sevilla,Spain,Red,5,21,Home,10,L,-1,1,FL
+1773,201920,2019-09-15,Sevilla,Spain,Dark Green,4,22,Away,10,W,3,1,FL
+1774,201920,2019-08-30,Sevilla,Spain,Red,3,23,Home,7,D,-1,1,FL
+1775,201920,2019-08-23,Sevilla,Spain,Dark Green,2,24,Away,6,W,3,1,FL
+1776,201920,2019-08-18,Sevilla,Spain,Dark Green,1,25,Away,3,W,4,1,FL
