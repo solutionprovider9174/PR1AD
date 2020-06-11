@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import HomepageSetting, CustomUser, AuditEntry
+from .models import HomepageSetting, CustomUser, AuditEntry, BlockIP
 
 
 class HomepageSettingAdmin(admin.ModelAdmin):
@@ -45,3 +45,4 @@ class AuditEntryAdmin(admin.ModelAdmin):
 admin.site.register(CustomUser, CustomUserModelAdmin)
 admin.site.register(LogEntry, LogEntryModelAdmin)
 admin.site.register(HomepageSetting, HomepageSettingAdmin)
+admin.site.register(BlockIP)
