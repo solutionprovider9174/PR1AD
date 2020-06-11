@@ -16,7 +16,7 @@ Including another URLconf
 from django.contrib import admin
 from datetime import datetime
 from django.conf.urls import url
-from django.urls import path
+from django.urls import path, include
 from django.contrib import admin
 from App import views, form
 from django.conf import settings
@@ -30,6 +30,7 @@ urlpatterns = [
     path('profile/', views.profile, name='profile'),
     path('register/', views.register, name='register'),
     path('admin/', admin.site.urls),
+    path('admin/defender/', include('defender.urls')), # defender admin
     path('login/',
          LoginView.as_view
              (

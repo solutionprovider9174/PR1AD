@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'colorfield',
     'crispy_forms',
     'django_countries',
+    'defender',
     
 ]
 
@@ -53,6 +54,7 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
     'App.middleware.BlockIPMiddleware',
+    'defender.middleware.FailedLoginMiddleware',
 ]
 
 ROOT_URLCONF = 'PR1AD.urls'
