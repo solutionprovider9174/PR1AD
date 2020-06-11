@@ -6,12 +6,13 @@ from .models import HomepageSetting
 from .form import UserRegistrationForm, UserUpdateForm
 from django.contrib import messages
 # Create your views here.
+
+
 def home(request):
     """Renders  the home page."""
     assert isinstance(request, HttpRequest)
 
-    homesetting_obj = HomepageSetting.objects.get(Is_active=1, validFrom__lte=datetime.now(),
-                                                      validTo__gte=datetime.now())
+    homesetting_obj = HomepageSetting.objects.get(Is_active=1)
     background_color = homesetting_obj.background_color
     font_color = homesetting_obj.Font_color
     home_text1 = homesetting_obj.homeslider_text1
@@ -33,21 +34,22 @@ def home(request):
         {
             'title': 'Home Page',
             'year': datetime.now().year,
-            'background_color':background_color,
-            'font_color':font_color,
-            'home_text1':home_text1,
-            'home_text2':home_text2,
-            'home_text3':home_text3,
-            'home_url1':home_url1,
-            'home_url2':home_url2,
-            'home_url3':home_url3,
-            'homeimage_link1':homeimage_link1,
-            'homeimage_link2':homeimage_link2,
-            'homeimage_link3':homeimage_link3,
-            'validFrom':validFrom,
-            'validTo':validTo,
+            'background_color': background_color,
+            'font_color': font_color,
+            'home_text1': home_text1,
+            'home_text2': home_text2,
+            'home_text3': home_text3,
+            'home_url1': home_url1,
+            'home_url2': home_url2,
+            'home_url3': home_url3,
+            'homeimage_link1': homeimage_link1,
+            'homeimage_link2': homeimage_link2,
+            'homeimage_link3': homeimage_link3,
+            'validFrom': validFrom,
+            'validTo': validTo,
         }
     )
+
 
 def register(request):
     """Renders the registration page."""
@@ -55,13 +57,17 @@ def register(request):
     if request.method == 'POST':
         form = UserRegistrationForm(request.POST)
         if form.is_valid():
-            form.save()
+            user = form.save(commit=False)
+            user.ip_address = request.META.get(
+                'HTTP_X_FORWARDED_FOR', '') or request.META.get('REMOTE_ADDR')
+            user.save()
             username = form.cleaned_data.get('username')
-            messages.success(request, f'Your new account has been created, username : {username}')
+            messages.success(
+                request, f'Your new account has been created, username : {username}')
 
             return redirect('login')
     else:
-            form = UserRegistrationForm()
+        form = UserRegistrationForm()
 
     return render(
         request,
@@ -73,6 +79,7 @@ def register(request):
             'form': form
         }
     )
+
 
 def profile(request):
     """Renders the profile page."""
@@ -95,8 +102,6 @@ def profile(request):
     else:
         u_form = UserUpdateForm(instance=user)
 
-
-
     return render(
         request,
         'app/profile.html',
@@ -108,6 +113,7 @@ def profile(request):
             'subscription': subscription
         }
     )
+
 
 def about(request):
     """Renders the about page."""
@@ -122,6 +128,7 @@ def about(request):
         }
     )
 
+
 def contact(request):
     """Renders the contact page."""
     assert isinstance(request, HttpRequest)
@@ -134,5 +141,3 @@ def contact(request):
             'year': datetime.now().year,
         }
     )
-
-

@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'colorfield',
     'crispy_forms',
     'django_countries',
+    
 ]
 
 MIDDLEWARE = [
@@ -51,6 +52,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'App.middleware.BlockIPMiddleware',
 ]
 
 ROOT_URLCONF = 'PR1AD.urls'
