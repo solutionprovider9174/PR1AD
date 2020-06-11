@@ -29,6 +29,15 @@ class UserUpdateForm(forms.ModelForm):
     class Meta:
         model = User
         fields = ['username','first_name','last_name','address', 'phone','country','city', 'email']
+    def __init__(self, *args, **kwargs):
+        user = kwargs.pop('user', None)
+        print(user)
+        super(UserUpdateForm, self).__init__(*args, **kwargs)
+        if user is not None:
+            if User.objects.get(username__exact=user).user_email_change_permission == 0:
+                self.fields['email'].widget.attrs['readonly'] = 'readonly'
+
+
 
 
 # class ProfileUpdateForm(forms.ModelForm):
@@ -55,8 +64,8 @@ class UserUpdateForm(forms.ModelForm):
 #             self.helper.form_tag = False
 #             self.helper.disable_csrf = True
 #             self.fields['country'].widget.attrs['class'] = 'country_select_option'
-
-
+#
+#
 
 
 

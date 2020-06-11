@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from datetime import datetime
-from django.conf.urls import url
+from django.conf.urls import url, include
 from django.urls import path
 from django.contrib import admin
 from App import views, form
@@ -30,6 +30,7 @@ urlpatterns = [
     path('profile/', views.profile, name='profile'),
     path('register/', views.register, name='register'),
     path('admin/', admin.site.urls),
+    url(r'^iprestrict/', include('iprestrict.urls', namespace='iprestrict')),
     path('login/',
          LoginView.as_view
              (

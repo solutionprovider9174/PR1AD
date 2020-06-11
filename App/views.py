@@ -5,7 +5,16 @@ from django.http import HttpRequest, HttpResponse, JsonResponse
 from .models import HomepageSetting
 from .form import UserRegistrationForm, UserUpdateForm
 from django.contrib import messages
+from django.contrib.gis.geoip2 import GeoIP2
 # Create your views here.
+def get_client_ip(request):
+    x_forwarded_for = request.META.get('HTTP_X_FORWARDED_FOR')
+    if x_forwarded_for:
+        ip = x_forwarded_for.split(',')[0]
+    else:
+        ip = request.META.get('REMOTE_ADDR')
+    return ip
+
 def home(request):
     """Renders  the home page."""
     assert isinstance(request, HttpRequest)
@@ -52,6 +61,14 @@ def home(request):
 def register(request):
     """Renders the registration page."""
     assert isinstance(request, HttpRequest)
+    ip = get_client_ip(request)
+    g = GeoIP2()
+    try:
+        info = g.city(ip)
+        country_code = info.country_code
+    except:
+        country_code = 'unknown'
+
     if request.method == 'POST':
         form = UserRegistrationForm(request.POST)
         if form.is_valid():
@@ -88,12 +105,12 @@ def profile(request):
     subscription = 'Free'
 
     if request.method == 'POST':
-        u_form = UserUpdateForm(request.POST, instance=user)
+        u_form = UserUpdateForm(request.POST, instance=user, user=user)
         if u_form.is_valid():
             u_form.save()
 
     else:
-        u_form = UserUpdateForm(instance=user)
+        u_form = UserUpdateForm(instance=user, user=user)
 
 
 

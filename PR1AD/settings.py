@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'colorfield',
     'crispy_forms',
     'django_countries',
+    'iprestrict',
 ]
 
 MIDDLEWARE = [
@@ -159,3 +160,4 @@ DJANGO_TABLES2_TEMPLATE = 'django_tables2/bootstrap-responsive.html'
 
 LOGIN_REDIRECT_URL = 'home'
 LOGIN_URL = 'login'
+GEOIP_PATH = os.path.join(BASE_DIR, 'geoip')
