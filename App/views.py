@@ -19,8 +19,9 @@ def home(request):
     """Renders  the home page."""
     assert isinstance(request, HttpRequest)
 
-    homesetting_obj = HomepageSetting.objects.get(Is_active=1, validFrom__lte=datetime.now(),
-                                                      validTo__gte=datetime.now())
+    # homesetting_obj = HomepageSetting.objects.get(Is_active=1, validFrom__lte=datetime.now(),
+    #                                                   validTo__gte=datetime.now())
+    homesetting_obj = HomepageSetting.objects.get(Is_active=1)
     background_color = homesetting_obj.background_color
     font_color = homesetting_obj.Font_color
     home_text1 = homesetting_obj.homeslider_text1
