@@ -1,0 +1,13 @@
+{
+    "web": {
+        "client_id": "110592604883-l8rsrkdav8749tpiaoiic9a9p6qm1edf.apps.googleusercontent.com",
+        "project_id": "keane-analytics-test",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "fH_tJrhRIl_sM976K7WJKsIc",
+        "javascript_origins": [
+            "http://localhost:8000"
+        ]
+    }
+}
